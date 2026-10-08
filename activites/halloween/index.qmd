@@ -1,0 +1,100 @@
+---
+title: "Le mystère des bonbons d'Halloween, enquête CE2"
+description: "Une enquête d'une heure, façon Cluedo : retrouver qui a pris le panier de bonbons de la maîtresse."
+categories: [CE2, enquête, Halloween]
+image: img/citrouille.png
+order: 4
+---
+
+[Ouvrir les diapos](slides.qmd){.btn .btn-primary}
+
+Une enquête d'une heure, façon Cluedo, pour des élèves de CE2 francophones, sur le thème de l'école et d'Halloween. Le panier de bonbons de la maîtresse a disparu : chaque activité apporte un indice, et l'élève barre les suspects sur sa fiche d'enquête jusqu'à trouver le coupable.
+
+Compétences travaillées : lecture, lecture de plan, observation d'image, grammaire (phrase interrogative), oral, écriture, dessin.
+
+## Déroulé (1 h)
+
+| Temps | Étape | Compétence | Suspects restants |
+|---|---|---|---|
+| 5 min | L'enquête commence, les suspects | entrée dans l'histoire, observation | 6 |
+| 3 min | La fiche d'enquête | organisation | 6 |
+| 8 min | Indice 1 : le témoin | lecture | 4 |
+| 8 min | Indice 2 : le plan de l'école | lecture de plan | 2 |
+| 7 min | Indice 3 : la scène du vol | observation d'image | 1 |
+| 8 min | Activité 4 : écrire des questions | grammaire | |
+| 6 min | Activité 5 : l'interrogatoire | oral | |
+| 8 min | Activité 6 : l'accusation | écriture | |
+| 7 min | Activité 7 : l'affiche de la fête | dessin | |
+
+## Corrigé
+
+1. Le témoin : le gardien, Monsieur Bernard, lavait les fenêtres du couloir. Il a entendu un bruit dans la classe et a vu un enfant déguisé avec des lunettes. Indice : le voleur porte des lunettes. On barre Hugo et Nina. Restent : Léa, Inès, Tom, Malik.
+2. Le plan : les papiers de bonbons vont de la classe à la bibliothèque, en passant par le couloir. Les suspects à la bibliothèque à 10 heures : Inès et Tom. On barre Léa (cantine) et Malik (cour).
+3. La scène : le panier vide, les papiers de bonbons par terre, un bout de tissu orange accroché à la poignée de la porte. Inès a un costume noir et rouge, Tom un costume orange. On barre Inès.
+
+Coupable : Tom, déguisé en citrouille, dans la bibliothèque.
+
+## Le discours de Tom (activité 5)
+
+Tu joues Tom. Il nie d'abord, puis il avoue quand l'élève lui montre les indices. Lis les répliques à voix haute, avec le ton : innocent au début, gêné ensuite, content à la fin.
+
+### 1. Tom arrive (à lire avant les questions)
+
+« Bonjour ! Moi, c'est Tom. Je suis déguisé en citrouille, c'est mon costume préféré ! On m'a dit que tu es détective… Tu veux me poser des questions ? D'accord, mais moi, je n'ai rien fait, hein ! »
+
+### 2. Tom nie
+
+Si l'élève demande où il était :
+« À 10 heures ? J'étais à la bibliothèque. Je lisais un livre sur les fantômes. Tout seul. Très calmement. »
+
+Si l'élève demande s'il a pris les bonbons :
+« Moi ? Non, non, non ! Je n'aime même pas les bonbons… enfin, un tout petit peu. »
+
+Si l'élève demande s'il est passé dans la classe :
+« La classe ? Non, je suis resté à la bibliothèque tout le temps. Demande à Inès ! »
+
+### 3. Tom hésite (quand l'élève montre un indice)
+
+Indice des lunettes :
+« Euh… oui, je porte des lunettes. Mais Léa, Inès et Malik aussi ! Ce n'est pas une preuve. »
+
+Indice de la bibliothèque :
+« Bon, d'accord, j'étais à la bibliothèque. Mais Inès aussi était à la bibliothèque ! »
+
+Indice du tissu orange :
+« Un bout de tissu orange ? Oh non… Mon costume est déchiré, là, regarde… »
+
+### 4. Tom avoue
+
+« Bon… d'accord. C'est moi. J'ai pris les bonbons. »
+
+Si l'élève demande pourquoi :
+« Je ne voulais pas les manger ! Je voulais préparer une fête surprise pour la maîtresse. Elle est toujours gentille avec nous, alors je voulais lui faire plaisir. »
+
+Si l'élève demande où sont les bonbons :
+« Ils sont cachés à la bibliothèque, derrière les livres de contes. Tous les bonbons sont là, je n'en ai mangé aucun… enfin, juste un. »
+
+Si l'élève demande pourquoi il a couru :
+« J'ai entendu le gardien dans le couloir. J'ai eu peur qu'il voie la surprise, alors j'ai couru très vite. »
+
+### 5. Pour finir
+
+« Tu es vraiment un bon détective ! Tu veux m'aider à préparer la fête ? On peut faire une affiche ensemble ! »
+
+Cette dernière réplique amène l'activité 7, l'affiche de la fête.
+
+Conseils :
+
+- Si l'élève ne pose pas de question sur un indice, aide-le : « Tu as trouvé des indices pendant l'enquête ? Montre-les-moi ! »
+- Si l'élève pose une question sans point d'interrogation à l'oral (intonation plate), fais semblant de ne pas comprendre : c'est l'occasion de retravailler l'intonation de la question.
+
+## Images
+
+Toutes les images sont dessinées pour l'atelier, dans `img/` :
+
+| Fichier | Slide | Contenu |
+|---|---|---|
+| `citrouille.png` | Titre | une citrouille d'Halloween |
+| `suspects.png` | Les suspects | les 6 élèves déguisés, avec leur nom. Lunettes : Léa, Inès, Tom, Malik |
+| `plan_ecole.png` | Indice 2 | le plan de l'école et la piste de papiers de bonbons, de la classe à la bibliothèque |
+| `scene.png` | Indice 3 | la classe : panier vide, papiers par terre, tissu orange sur la poignée de la porte |

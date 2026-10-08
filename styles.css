@@ -1,0 +1,9 @@
+/* Ajustements légers du thème */
+
+/* Menu centré (écran large) */
+@media (min-width: 992px) {
+  #navbarCollapse > .navbar-nav {
+    margin-left: auto !important;
+    margin-right: auto !important;
+  }
+}

@@ -1,0 +1,30 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+
+lang: fr
+
+website:
+  title: "FLE"
+  site-url: https://lili-lines.github.io/fle/
+  repo-url: https://github.com/lili-lines/fle
+  search: true
+  navbar:
+    left:
+      - href: index.qmd
+        text: Accueil
+      - href: liens.qmd
+        text: Liens utiles
+      - href: activites/index.qmd
+        text: Activités
+      - href: diapos/index.qmd
+        text: Diapos
+
+format:
+  html:
+    theme:
+      light: cosmo
+      dark: darkly
+    css: styles.css
+    toc: false

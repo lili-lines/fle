@@ -1,0 +1,9 @@
+---
+title: "Bienvenue"
+---
+
+Ressources de français langue étrangère : liens utiles, activités et supports de cours.
+
+- [Liens utiles](liens.qmd)
+- [Activités](activites/index.qmd)
+- [Diapos](diapos/index.qmd)

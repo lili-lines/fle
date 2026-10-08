@@ -1,0 +1,9 @@
+---
+title: "Activités"
+listing:
+  contents: "*/index.qmd"
+  type: grid
+  sort: "order desc"
+  categories: true
+  fields: [image, title, description, categories]
+---

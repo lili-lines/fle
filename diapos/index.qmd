@@ -1,0 +1,11 @@
+---
+title: "Diapos"
+listing:
+  contents: "../activites/*/slides.qmd"
+  type: table
+  sort: "order desc"
+  categories: true
+  fields: [title, subtitle, categories]
+---
+
+Pendant le cours : touche **C** pour écrire sur la diapo, **B** pour le tableau noir, **F** pour le plein écran.
