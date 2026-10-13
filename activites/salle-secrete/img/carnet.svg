@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <rect width="600" height="400" fill="#7a4e2d"/>
+  <g stroke="#6a4226" stroke-width="3" opacity=".6">
+    <path d="M0 80 q150 -15 300 0 t300 0 M0 200 q150 15 300 0 t300 0 M0 320 q150 -10 300 0 t300 0"/>
+  </g>
+
+  <!-- Ombre et carnet ouvert -->
+  <ellipse cx="300" cy="345" rx="250" ry="22" fill="#000" opacity=".25"/>
+  <path d="M60 70 Q180 50 300 80 L300 340 Q180 312 60 330 Z" fill="#f2e3c2" stroke="#b59a6a" stroke-width="3"/>
+  <path d="M540 70 Q420 50 300 80 L300 340 Q420 312 540 330 Z" fill="#f6ead0" stroke="#b59a6a" stroke-width="3"/>
+  <path d="M300 80 V340" stroke="#a0845a" stroke-width="4"/>
+
+  <!-- Page de gauche : écriture -->
+  <g font-family="Georgia, 'Times New Roman', serif" font-style="italic" fill="#3d2b1a">
+    <text x="90" y="115" font-size="20">31 octobre 1954</text>
+    <text x="105" y="290" font-size="22">Marguerite</text>
+  </g>
+  <g stroke="#5a4630" stroke-width="2" fill="none" stroke-linecap="round" opacity=".75">
+    <path d="M90 145 q10 -6 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0"/>
+    <path d="M90 170 q10 -6 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0"/>
+    <path d="M90 195 q10 -6 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0"/>
+    <path d="M90 220 q10 -6 20 0 t20 0 t20 0 t20 0 t20 0 t20 0"/>
+  </g>
+
+  <!-- Page de droite : un petit plan dessiné et un point d'interrogation -->
+  <g stroke="#5a4630" stroke-width="2.5" fill="none">
+    <rect x="340" y="110" width="160" height="110"/>
+    <path d="M393 110 v40 M447 110 v40 M340 150 h160 M340 180 h160"/>
+  </g>
+  <text x="378" y="138" font-family="Georgia, serif" font-size="30" fill="#c0392b" font-weight="700">?</text>
+  <g stroke="#5a4630" stroke-width="2" fill="none" stroke-linecap="round" opacity=".75">
+    <path d="M340 255 q10 -6 20 0 t20 0 t20 0 t20 0 t20 0 t20 0 t20 0"/>
+    <path d="M340 280 q10 -6 20 0 t20 0 t20 0 t20 0 t20 0"/>
+  </g>
+
+  <!-- Feuilles d'automne posées -->
+  <g transform="translate(520,60) rotate(35)">
+    <path d="M0 -38 C24 -22 28 8 0 38 C-28 8 -24 -22 0 -38 Z" fill="#d35400"/>
+    <path d="M0 -34 V40" stroke="#8e3200" stroke-width="2"/>
+  </g>
+  <g transform="translate(70,355) rotate(-50)">
+    <path d="M0 -30 C20 -18 22 6 0 30 C-22 6 -20 -18 0 -30 Z" fill="#c0392b"/>
+    <path d="M0 -26 V32" stroke="#7b241c" stroke-width="2"/>
+  </g>
+
+  <!-- Plume -->
+  <g transform="translate(470,340) rotate(-35)">
+    <path d="M0 0 C10 -60 30 -100 50 -120 C40 -80 25 -40 0 0 Z" fill="#ecf0f1" stroke="#95a5a6" stroke-width="2"/>
+    <path d="M0 0 L40 -105" stroke="#95a5a6" stroke-width="1.5"/>
+  </g>
+</svg>

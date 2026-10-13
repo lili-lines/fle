@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 470" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="820" height="470" fill="#fbf6ee"/>
+
+  <!-- Cour -->
+  <rect x="640" y="20" width="160" height="410" fill="#e8dcc4" stroke="#8a7a5c" stroke-width="2" rx="6"/>
+  <text x="720" y="410" text-anchor="middle" font-size="18" fill="#5c4f36">la cour</text>
+
+  <!-- Gymnase -->
+  <rect x="655" y="35" width="130" height="140" fill="#cfe3f2" stroke="#3d5a73" stroke-width="3"/>
+  <text x="720" y="100" text-anchor="middle" font-size="19" font-weight="600" fill="#1f3446">le gymnase</text>
+  <circle cx="720" cy="135" r="12" fill="none" stroke="#c0392b" stroke-width="3"/>
+  <path d="M708 135 h24 M720 123 v24" stroke="#c0392b" stroke-width="1.5"/>
+
+  <!-- Châtaignier -->
+  <rect x="713" y="300" width="14" height="50" fill="#6e4b2a"/>
+  <circle cx="720" cy="280" r="45" fill="#d35400"/>
+  <circle cx="690" cy="295" r="25" fill="#e67e22"/>
+  <circle cx="752" cy="292" r="27" fill="#c0392b"/>
+  <circle cx="720" cy="258" r="25" fill="#f39c12"/>
+  <text x="720" y="375" text-anchor="middle" font-size="15" fill="#5c4f36">le grand châtaignier</text>
+
+  <!-- Bâtiment -->
+  <rect x="20" y="20" width="600" height="410" fill="#ffffff" stroke="#333" stroke-width="4"/>
+
+  <!-- Rangée du haut -->
+  <rect x="20" y="20" width="200" height="160" fill="#f6e3c6" stroke="#333" stroke-width="3"/>
+  <text x="120" y="95" text-anchor="middle" font-size="20" font-weight="600" fill="#5a3e1b">la bibliothèque</text>
+  <g fill="#8e5a2b">
+    <rect x="45" y="120" width="10" height="35"/><rect x="58" y="125" width="8" height="30" fill="#2e86c1"/>
+    <rect x="69" y="118" width="11" height="37" fill="#27ae60"/><rect x="83" y="123" width="9" height="32"/>
+  </g>
+
+  <rect x="220" y="20" width="200" height="160" fill="#e8daf2" stroke="#333" stroke-width="3"/>
+  <text x="320" y="95" text-anchor="middle" font-size="20" font-weight="600" fill="#4a2a63">la salle de musique</text>
+  <g transform="translate(285,115)">
+    <rect width="70" height="34" fill="#222" rx="3"/>
+    <rect x="4" y="18" width="62" height="14" fill="#fff"/>
+    <path d="M12 18 v14 M20 18 v14 M28 18 v14 M36 18 v14 M44 18 v14 M52 18 v14 M60 18 v14" stroke="#222" stroke-width="1"/>
+  </g>
+
+  <rect x="420" y="20" width="200" height="160" fill="#fde2e4" stroke="#333" stroke-width="3"/>
+  <text x="520" y="95" text-anchor="middle" font-size="19" font-weight="600" fill="#7a2531">la salle d'arts</text>
+  <text x="520" y="118" text-anchor="middle" font-size="19" font-weight="600" fill="#7a2531">plastiques</text>
+  <g transform="translate(495,135)">
+    <ellipse cx="25" cy="12" rx="25" ry="14" fill="#f5cba7"/>
+    <circle cx="13" cy="9" r="4" fill="#e74c3c"/><circle cx="25" cy="6" r="4" fill="#3498db"/><circle cx="37" cy="10" r="4" fill="#f1c40f"/>
+  </g>
+
+  <!-- Couloir -->
+  <rect x="20" y="180" width="600" height="80" fill="#eeeeee" stroke="#333" stroke-width="2"/>
+  <text x="320" y="227" text-anchor="middle" font-size="18" font-style="italic" fill="#666">le couloir</text>
+
+  <!-- Rangée du bas -->
+  <rect x="20" y="260" width="200" height="170" fill="#fdf2c4" stroke="#333" stroke-width="3"/>
+  <text x="120" y="340" text-anchor="middle" font-size="20" font-weight="600" fill="#6b5a10">la cantine</text>
+  <g transform="translate(95,360)" stroke="#6b5a10" stroke-width="3" fill="none">
+    <circle cx="25" cy="15" r="14"/><path d="M0 2 v26 M50 2 v26"/>
+  </g>
+
+  <rect x="220" y="260" width="200" height="170" fill="#ffffff" stroke="#333" stroke-width="3"/>
+  <text x="320" y="320" text-anchor="middle" font-size="20" font-weight="600" fill="#333">le hall</text>
+  <g stroke="#999" stroke-width="2">
+    <path d="M250 340 h40 M250 352 h40 M250 364 h40 M250 376 h40 M250 388 h40"/>
+  </g>
+  <text x="270" y="408" text-anchor="middle" font-size="13" fill="#666">l'escalier</text>
+  <rect x="290" y="424" width="60" height="12" fill="#fbf6ee" stroke="none"/>
+  <path d="M320 462 v-40 M308 434 l12 -12 l12 12" stroke="#c0392b" stroke-width="4" fill="none"/>
+  <text x="380" y="458" text-anchor="middle" font-size="18" font-weight="700" fill="#c0392b">l'entrée</text>
+
+  <rect x="420" y="260" width="200" height="170" fill="#d5f0e3" stroke="#333" stroke-width="3"/>
+  <text x="520" y="330" text-anchor="middle" font-size="19" font-weight="600" fill="#1d5c40">le laboratoire</text>
+  <text x="520" y="353" text-anchor="middle" font-size="19" font-weight="600" fill="#1d5c40">de sciences</text>
+  <g transform="translate(505,370)">
+    <path d="M10 0 v18 l-10 22 h32 l-10 -22 v-18 z" fill="#a9dfbf" stroke="#1d5c40" stroke-width="2"/>
+  </g>
+
+  <!-- Portes vers le couloir -->
+  <g fill="#fbf6ee">
+    <rect x="160" y="176" width="34" height="8"/><rect x="250" y="176" width="34" height="8"/><rect x="560" y="176" width="34" height="8"/>
+    <rect x="160" y="256" width="34" height="8"/><rect x="560" y="256" width="34" height="8"/>
+    <rect x="300" y="256" width="40" height="8"/>
+  </g>
+  <rect x="616" y="200" width="8" height="40" fill="#fbf6ee"/>
+</svg>

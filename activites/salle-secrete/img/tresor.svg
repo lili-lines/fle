@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 380" font-family="Georgia, serif">
+  <defs>
+    <radialGradient id="halo" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#fff3c4" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#fff3c4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="560" height="380" fill="#2c1e12"/>
+  <rect y="300" width="560" height="80" fill="#3d2b1c"/>
+  <ellipse cx="280" cy="220" rx="230" ry="150" fill="url(#halo)"/>
+
+  <!-- Coffre ouvert -->
+  <path d="M170 170 L190 70 Q280 40 370 70 L390 170 Z" fill="#8e5a2b" stroke="#5d3a1a" stroke-width="5"/>
+  <path d="M190 70 Q280 40 370 70" stroke="#e1ad01" stroke-width="8" fill="none"/>
+  <rect x="170" y="170" width="220" height="120" fill="#a0612f" stroke="#5d3a1a" stroke-width="5"/>
+  <path d="M170 170 h220 M215 170 v120 M345 170 v120" stroke="#e1ad01" stroke-width="9"/>
+  <rect x="268" y="200" width="24" height="30" fill="#e1ad01" rx="3"/>
+
+  <!-- Contenu : lettre, photo, bonbons -->
+  <g transform="rotate(-12 230 160)">
+    <rect x="190" y="120" width="90" height="62" fill="#fdf2d0" stroke="#b59a6a" stroke-width="2"/>
+    <path d="M190 120 l45 32 l45 -32" stroke="#b59a6a" stroke-width="2" fill="none"/>
+    <circle cx="235" cy="160" r="8" fill="#c0392b"/>
+  </g>
+  <g transform="rotate(10 330 150)">
+    <rect x="295" y="105" width="70" height="80" fill="#f4f1ea" stroke="#999" stroke-width="2"/>
+    <rect x="303" y="113" width="54" height="52" fill="#a59c8c"/>
+    <circle cx="330" cy="132" r="11" fill="#7d7464"/>
+    <path d="M312 165 q18 -22 36 0" fill="#7d7464"/>
+  </g>
+  <g>
+    <ellipse cx="265" cy="165" rx="12" ry="8" fill="#e74c3c"/><path d="M250 165 l-8 -6 v12 z M280 165 l8 -6 v12 z" fill="#e74c3c"/>
+    <ellipse cx="300" cy="172" rx="12" ry="8" fill="#8e44ad"/><path d="M285 172 l-8 -6 v12 z M315 172 l8 -6 v12 z" fill="#8e44ad"/>
+    <circle cx="245" cy="172" r="8" fill="#f4c542"/><circle cx="355" cy="170" r="8" fill="#f4c542"/>
+  </g>
+
+  <!-- Bougie -->
+  <g transform="translate(470,250)">
+    <ellipse cx="0" cy="-58" rx="18" ry="28" fill="#f9e79f" opacity=".5"/>
+    <path d="M0 -80 C10 -66 8 -52 0 -48 C-8 -52 -10 -66 0 -80 Z" fill="#f39c12"/>
+    <rect x="-14" y="-45" width="28" height="80" fill="#fdfefe" rx="3"/>
+    <ellipse cx="0" cy="38" rx="32" ry="8" fill="#b7950b"/>
+  </g>
+
+  <!-- Étincelles -->
+  <g fill="#f7dc6f">
+    <path d="M140 80 l5 14 l14 5 l-14 5 l-5 14 l-5 -14 l-14 -5 l14 -5 z"/>
+    <path d="M420 90 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 z"/>
+    <path d="M110 230 l3 8 l8 3 l-8 3 l-3 8 l-3 -8 l-8 -3 l8 -3 z"/>
+  </g>
+</svg>

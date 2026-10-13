@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 420" font-family="Georgia, serif">
+  <rect width="400" height="420" fill="#5d3a1a"/>
+  <!-- Porte en bois -->
+  <g stroke="#4a2e14" stroke-width="4">
+    <path d="M0 0 v420 M80 0 v420 M160 0 v420 M240 0 v420 M320 0 v420 M400 0 v420"/>
+  </g>
+  <rect x="0" y="60" width="400" height="22" fill="#3b2410"/>
+  <rect x="0" y="340" width="400" height="22" fill="#3b2410"/>
+
+  <!-- Anse -->
+  <path d="M130 200 V130 a70 70 0 0 1 140 0 V200" fill="none" stroke="#95a5a6" stroke-width="26"/>
+  <path d="M130 200 V130 a70 70 0 0 1 140 0 V200" fill="none" stroke="#bdc3c7" stroke-width="10"/>
+  <!-- Corps -->
+  <rect x="90" y="190" width="220" height="180" rx="22" fill="#d4ac0d" stroke="#9a7d0a" stroke-width="5"/>
+  <rect x="104" y="204" width="192" height="20" rx="8" fill="#f4d03f" opacity=".6"/>
+  <!-- Molettes -->
+  <g>
+    <rect x="115" y="245" width="50" height="80" rx="8" fill="#2b2d42"/>
+    <rect x="175" y="245" width="50" height="80" rx="8" fill="#2b2d42"/>
+    <rect x="235" y="245" width="50" height="80" rx="8" fill="#2b2d42"/>
+    <g stroke="#555a75" stroke-width="2"><path d="M115 262 h50 M175 262 h50 M235 262 h50 M115 308 h50 M175 308 h50 M235 308 h50"/></g>
+  </g>
+  <g font-size="40" font-weight="700" fill="#f7dc6f" text-anchor="middle">
+    <text x="140" y="299">?</text><text x="200" y="299">?</text><text x="260" y="299">?</text>
+  </g>
+</svg>

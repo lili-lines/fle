@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420">
+  <defs>
+    <radialGradient id="lumiere" cx=".5" cy=".6" r=".6">
+      <stop offset="0" stop-color="#fff3c4"/>
+      <stop offset=".6" stop-color="#f7c948"/>
+      <stop offset="1" stop-color="#b9770e"/>
+    </radialGradient>
+  </defs>
+  <rect width="420" height="420" fill="#2c1e12"/>
+  <!-- Mur de pierres -->
+  <g fill="#3d2b1c" stroke="#24180d" stroke-width="3">
+    <rect x="0" y="0" width="90" height="50"/><rect x="90" y="0" width="120" height="50"/><rect x="210" y="0" width="110" height="50"/><rect x="320" y="0" width="100" height="50"/>
+    <rect x="0" y="50" width="60" height="50"/><rect x="320" y="50" width="100" height="50"/>
+    <rect x="0" y="100" width="100" height="50"/><rect x="330" y="100" width="90" height="50"/>
+    <rect x="0" y="150" width="70" height="50"/><rect x="320" y="150" width="100" height="50"/>
+    <rect x="0" y="200" width="100" height="50"/><rect x="330" y="200" width="90" height="50"/>
+    <rect x="0" y="250" width="80" height="50"/><rect x="320" y="250" width="100" height="50"/>
+  </g>
+  <!-- Ouverture lumineuse -->
+  <path d="M110 330 V130 a100 100 0 0 1 200 0 V330 Z" fill="url(#lumiere)"/>
+  <!-- Porte entrouverte -->
+  <path d="M110 330 V130 a100 100 0 0 1 60 -88 L190 70 V355 Z" fill="#7a4e2d" stroke="#4a2e14" stroke-width="4"/>
+  <path d="M135 120 V330 M160 90 V340" stroke="#5d3a1a" stroke-width="3"/>
+  <circle cx="175" cy="220" r="7" fill="#d4ac0d"/>
+  <!-- Rayons au sol -->
+  <path d="M190 330 L310 330 L400 420 L150 420 Z" fill="#f7c948" opacity=".35"/>
+  <!-- Toile d'araignée -->
+  <g stroke="#bdc3c7" stroke-width="1.5" fill="none" opacity=".7">
+    <path d="M420 0 L340 0 M420 0 L420 80 M420 0 L355 55 M420 0 L385 70 M420 0 L345 30"/>
+    <path d="M395 0 q5 15 25 20 M370 0 q8 30 50 45 M350 0 q10 45 70 65"/>
+  </g>
+  <!-- Point d'interrogation dans la lumière -->
+  <text x="250" y="250" font-family="Georgia, serif" font-size="110" font-weight="700" fill="#b9770e" opacity=".55" text-anchor="middle">?</text>
+</svg>

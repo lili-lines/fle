@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <g id="carton">
+      <rect x="-45" y="-40" width="90" height="80" fill="#c69c6d" stroke="#7d5a36" stroke-width="3"/>
+      <path d="M-45 -40 l15 -14 h60 l15 14" fill="#d9b48a" stroke="#7d5a36" stroke-width="3"/>
+      <path d="M-15 -40 v20 h30 v-20" fill="none" stroke="#7d5a36" stroke-width="2"/>
+    </g>
+    <g id="citrouille">
+      <ellipse cx="0" cy="0" rx="30" ry="23" fill="#e67e22"/>
+      <ellipse cx="0" cy="0" rx="12" ry="23" fill="#d35400" opacity=".5"/>
+      <rect x="-3" y="-30" width="6" height="10" fill="#27ae60" rx="2"/>
+      <path d="M-15 -5 l6 -6 l6 6 z M5 -5 l6 -6 l6 6 z" fill="#3b1f0a"/>
+      <path d="M-14 8 q14 10 28 0" stroke="#3b1f0a" stroke-width="3" fill="none"/>
+    </g>
+  </defs>
+  <rect width="900" height="520" fill="#fbf6ee"/>
+  <g fill="#ffffff" stroke="#e0d3bd" stroke-width="2">
+    <rect x="10" y="10" width="280" height="240" rx="14"/><rect x="310" y="10" width="280" height="240" rx="14"/><rect x="610" y="10" width="280" height="240" rx="14"/>
+    <rect x="10" y="270" width="280" height="240" rx="14"/><rect x="310" y="270" width="280" height="240" rx="14"/><rect x="610" y="270" width="280" height="240" rx="14"/>
+  </g>
+  <g stroke="#d5c4a1" stroke-width="2">
+    <path d="M40 195 h220 M340 195 h220 M640 195 h220 M40 455 h220 M640 455 h220"/>
+  </g>
+
+  <!-- devant -->
+  <use href="#carton" x="150" y="140"/>
+  <use href="#citrouille" x="150" y="180"/>
+  <!-- derrière -->
+  <use href="#citrouille" x="450" y="100"/>
+  <use href="#carton" x="450" y="150"/>
+  <!-- à côté de -->
+  <use href="#carton" x="710" y="150"/>
+  <use href="#citrouille" x="800" y="168"/>
+  <!-- entre -->
+  <use href="#carton" x="75" y="410"/>
+  <use href="#citrouille" x="150" y="428"/>
+  <use href="#carton" x="225" y="410"/>
+  <!-- en face de : deux salles de chaque côté d'un couloir -->
+  <rect x="340" y="300" width="220" height="60" fill="#f6e3c6" stroke="#333" stroke-width="2"/>
+  <rect x="340" y="360" width="220" height="40" fill="#eeeeee" stroke="#333" stroke-width="2"/>
+  <rect x="340" y="400" width="220" height="60" fill="#fdf2c4" stroke="#333" stroke-width="2"/>
+  <g transform="translate(450,334) scale(.7)"><use href="#citrouille"/></g>
+  <g transform="translate(450,432) scale(.45)"><use href="#carton"/></g>
+  <path d="M450 352 v58 M443 360 l7 -9 l7 9 M443 402 l7 9 l7 -9" stroke="#c0392b" stroke-width="3" fill="none"/>
+  <!-- au bout de : couloir en perspective -->
+  <path d="M640 300 L720 360 L800 360 L860 300 Z" fill="#e5e5e5" stroke="#999" stroke-width="2"/>
+  <path d="M640 460 L720 400 L800 400 L860 460 Z" fill="#d5d5d5" stroke="#999" stroke-width="2"/>
+  <path d="M640 300 L720 360 L720 400 L640 460 Z" fill="#f0f0f0" stroke="#999" stroke-width="2"/>
+  <path d="M860 300 L800 360 L800 400 L860 460 Z" fill="#f0f0f0" stroke="#999" stroke-width="2"/>
+  <rect x="720" y="360" width="80" height="40" fill="#fafafa" stroke="#999" stroke-width="2"/>
+  <g transform="translate(760,388) scale(.55)"><use href="#citrouille"/></g>
+
+  <g font-size="26" font-weight="700" fill="#2b2d42" text-anchor="middle">
+    <text x="150" y="238">devant</text>
+    <text x="450" y="238">derrière</text>
+    <text x="750" y="238">à côté de</text>
+    <text x="150" y="498">entre … et …</text>
+    <text x="450" y="498">en face de</text>
+    <text x="750" y="498">au bout de</text>
+  </g>
+</svg>
