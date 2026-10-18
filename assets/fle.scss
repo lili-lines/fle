@@ -44,3 +44,22 @@ $callout-color-caution: $fle-rouge;
   border-left: 6px solid $fle-orange;
   padding: 0.5em 1em;
 }
+
+// Titre blanc, pour les diapos avec une image de fond sombre (classe .titre-blanc)
+.reveal .slides section.titre-blanc h2 {
+  color: #ffffff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, .45);
+}
+
+// Diapo sombre (classe .sombre) : titre blanc et texte clair
+.reveal .slides section.sombre h2 {
+  color: #ffffff;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, .6);
+}
+.reveal .slides section.sombre p,
+.reveal .slides section.sombre li {
+  color: #f4ecff;
+}
+.reveal .slides section.sombre strong {
+  color: #FFAC00;
+}

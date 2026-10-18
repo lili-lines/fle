@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI, Arial, sans-serif">
+<rect width="1280" height="720" fill="#2c2546"/>
+
+<rect width="1280" height="720" fill="#2c2546"/>
+<rect y="650" width="1280" height="70" fill="#231d3a"/>
+<!-- toile d'araignée (coin en haut à droite) -->
+<g stroke="#8e86a8" stroke-width="2" fill="none">
+  <path d="M1280 0 L1150 0 M1280 0 L1280 130 M1280 0 L1170 70 M1280 0 L1215 115 M1280 0 L1160 30"/>
+  <path d="M1240 0 q4 24 40 28 M1198 0 q8 46 82 58 M1162 0 q10 70 118 88"/>
+</g>
+<path d="M1230 0 V95" stroke="#8e86a8" stroke-width="1.5"/>
+<circle cx="1230" cy="102" r="8" fill="#14101f"/>
+<path d="M1223 98 l-9 -5 M1223 105 l-9 5 M1237 98 l9 -5 M1237 105 l9 5" stroke="#14101f" stroke-width="2.5"/>
+<!-- tonneaux (en bas à gauche) -->
+<ellipse cx="95" cy="610" rx="62" ry="78" fill="#6b4a33"/><path d="M33 572 H157 M33 648 H157" stroke="#3e2a1c" stroke-width="7"/>
+<ellipse cx="205" cy="628" rx="52" ry="66" fill="#5c3f2b"/><path d="M153 596 H257 M153 662 H257" stroke="#3e2a1c" stroke-width="7"/>
+<!-- bougie (en bas à droite) -->
+<circle cx="1180" cy="575" r="60" fill="#f9e79f" opacity=".12"/>
+<rect x="1166" y="590" width="28" height="64" rx="3" fill="#f4ecd8"/>
+<rect x="1156" y="650" width="48" height="10" rx="4" fill="#8a6d45"/>
+<path d="M1180 590 q16 -24 0 -44 q-16 20 0 44" fill="#f39c12"/>
+<path d="M1180 588 q7 -11 0 -22 q-7 11 0 22" fill="#fdebd0"/>
+
+</svg>

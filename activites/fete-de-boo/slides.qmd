@@ -43,9 +43,7 @@ Expliquer : il y a 6 missions, une par pièce. Chaque mission réussie = 1 bonbo
 Garder un compteur de bonbons au tableau (touche T ou C), ou de vrais bonbons / jetons.
 :::
 
-## La maison de Boo
-
-![](img/maison.svg){height="560" fig-align="center"}
+## La maison de Boo {.titre-blanc background-image="img/maison.svg" background-size="cover" background-position="bottom" background-color="#151131"}
 
 ::: {.notes}
 Nommer les pièces ensemble : la chambre, la salle de bain, la cuisine, le salon, la cave, le grenier.
@@ -126,10 +124,10 @@ Puis raconter : « Le matin, Boo se réveille. Après, il… Le soir, il dort. �
 Mission réussie → 4e bonbon.
 :::
 
-## Mission 5 : la cave ✋
+## Mission 5 : la cave ✋ {.sombre background-image="img/cave.svg" background-size="cover" background-color="#2c2546"}
 
 :::: {.columns}
-::: {.column width="40%"}
+::: {.column width="38%"}
 ::: {style="font-size: 1.05em;"}
 Oh ! Il fait **tout noir** dans la cave…
 
@@ -138,7 +136,7 @@ On ne voit rien ! On dessine **dans le dos** avec le doigt.
 « C'est… une lune ? »
 :::
 :::
-::: {.column width="60%"}
+::: {.column width="62%"}
 ![](img/dos.svg)
 :::
 ::::

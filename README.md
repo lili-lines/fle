@@ -1,5 +1,7 @@
 # FLE
 
+Lien du blog : https://lili-lines.github.io/fle/ 
+
 Site de ressources FLE construit avec [Quarto](https://quarto.org), publié sur GitHub Pages.
 
 - `liens.qmd` : liens utiles
