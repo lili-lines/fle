@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 360" font-family="Segoe UI, Arial, sans-serif">
+<defs><radialGradient id="spot" cx=".5" cy=".7" r=".6"><stop offset="0" stop-color="#fff3c4" stop-opacity=".9"/><stop offset="1" stop-color="#fff3c4" stop-opacity="0"/></radialGradient></defs>
+<rect width="560" height="360" fill="#5b1a2a"/>
+<g fill="#7b2d3a"><path d="M0 0 H90 Q60 180 90 360 H0 Z"/><path d="M560 0 H470 Q500 180 470 360 H560 Z"/></g>
+<path d="M230 0 H330 L470 360 H90 Z" fill="url(#spot)"/>
+<ellipse cx="280" cy="315" rx="190" ry="34" fill="#e74c3c"/><ellipse cx="280" cy="309" rx="170" ry="26" fill="#f5b7b1"/>
+<rect x="245" y="245" width="70" height="60" fill="#2e86c1"/><ellipse cx="280" cy="245" rx="42" ry="12" fill="#5dade2"/>
+<g transform="translate(270,242) scale(1.15,1.15)">
+  <path d="M-36 -42 Q-58 -60 -46 -78" stroke="#a0612f" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <rect x="-28" y="-22" width="9" height="22" rx="4" fill="#8a4f24"/><rect x="-14" y="-22" width="9" height="22" rx="4" fill="#8a4f24"/>
+  <rect x="10" y="-22" width="9" height="22" rx="4" fill="#8a4f24"/><rect x="23" y="-22" width="9" height="22" rx="4" fill="#8a4f24"/>
+  <ellipse cx="0" cy="-36" rx="40" ry="22" fill="#a0612f"/>
+  <ellipse cx="-4" cy="-30" rx="24" ry="12" fill="#c98a4b"/>
+  <circle cx="34" cy="-64" r="21" fill="#b5713a"/>
+  <ellipse cx="24" cy="-72" rx="8" ry="16" fill="#6e3b17" transform="rotate(25 24 -72)"/>
+  <ellipse cx="52" cy="-58" rx="12" ry="9" fill="#e0b07a"/>
+  <circle cx="62" cy="-61" r="4.5" fill="#222"/>
+  <circle cx="40" cy="-69" r="3.5" fill="#222"/>
+  <path d="M48 -50 q6 4 12 0" stroke="#5a2d0c" stroke-width="2" fill="none"/>
+  <path d="M14 -52 Q22 -44 30 -50" stroke="#e01b24" stroke-width="7" fill="none" stroke-linecap="round"/>
+</g>
+<path d="M296 150 L312 106 L328 150 Z" fill="#f1c40f"/><circle cx="312" cy="104" r="5" fill="#e74c3c"/>
+<g fill="#f7dc6f"><path d="M150 80 l5 14 l14 5 l-14 5 l-5 14 l-5 -14 l-14 -5 l14 -5 z"/><path d="M420 70 l4 10 l10 4 l-10 4 l-4 10 l-4 -10 l-10 -4 l10 -4 z"/></g>
+</svg>

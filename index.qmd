@@ -1,9 +1,29 @@
 ---
-title: "Bienvenue"
+title: "Activités"
+listing:
+  id: liste-activites
+  contents: "activites/*/slides.qmd"
+  template: assets/activites.ejs
+  sort: "order desc"
+  categories: true
 ---
 
-Ressources de français langue étrangère : liens utiles, activités et supports de cours.
+Pendant le cours : <br>
+. T = pour écrire au clavier <br>
+. C = pour écrire au stylet <br>
+. B = pour le tableau noir <br>
+. F = pour le plein écran <br>
 
-- [Liens utiles](liens.qmd)
-- [Activités](activites/index.qmd)
-- [Diapos](diapos/index.qmd)
+::: {#liste-activites}
+:::
+
+## Liens utiles
+
+- [WordReference](https://www.wordreference.com/fr/) — dictionnaire bilingue
+
+- [TV5Monde – Apprendre le français](https://apprendre.tv5monde.com/fr) — exercices par niveau
+- [RFI – Français facile](https://francaisfacile.rfi.fr/fr/) — journal en français facile
+
+- [Bac de classe](https://bacdeclasse.fr/) — ❤️ ressources pédagogiques, enquêtes, primaire
+- [Excalidraw](https://excalidraw.com/) — tableau blanc en ligne
+- [Kahoot!](https://kahoot.com/) — quiz interactifs

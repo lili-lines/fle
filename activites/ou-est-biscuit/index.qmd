@@ -1,0 +1,34 @@
+---
+title: "Où est Biscuit ?, enquête FLE A1.2"
+description: "Une enquête très guidée dans la ville : retrouver Biscuit, le petit chien de l'animalerie, avec les lieux, les directions et les points cardinaux."
+categories: [A1, enquête, ville]
+image: img/biscuit.svg
+order: 8
+---
+
+#A1 #enquête #ville · ⏱ 1 h
+
+## L'histoire
+
+C'est samedi matin. Madame Rosa travaille à l'animalerie. Oh non ! La porte est ouverte et Biscuit, son petit chien, n'est pas là. Biscuit est perdu dans la ville ! Avec une affiche, le plan de la ville et une image de la rue, les élèves barrent les lieux un par un. Biscuit est au cirque : il voulait devenir une star !
+
+## Les textes à lire
+
+### Indice 1 : l'affiche
+
+> **CHIEN PERDU !**
+>
+> Il s'appelle Biscuit.\
+> C'est un petit chien marron.\
+> Il a un collier rouge.
+>
+> Il aime les os, les ballons et la musique.\
+> Il n'aime pas l'eau.\
+> Il a peur des grands animaux.
+>
+> Appelez Madame Rosa : 06 72 85 91 40
+
+### Indice 2 : le message de Paul
+
+> Bonjour Madame Rosa ! J'ai vu un petit chien marron avec un collier rouge. Il est au nord de la ville !\
+> *Paul*

@@ -1,0 +1,46 @@
+/*-- scss:defaults --*/
+
+// Polices des diapos : Andika pour le texte, Fraunces pour les titres
+@import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap');
+
+$font-family-sans-serif: "Andika", "Segoe UI", sans-serif;
+$presentation-heading-font: "Fraunces", Georgia, serif;
+$presentation-heading-font-weight: 600;
+
+// Couleurs
+$fle-rouge: #f60303;   // erreurs, pièges, « attention »
+$fle-marine: #000149;  // titres
+$fle-vert: #053E00;    // aide, rappels
+$fle-orange: #FFAC00;  // important, indices, notes
+$fle-violet: #451963;  // liens, boutons
+
+$body-bg: #f8f7f4;
+$presentation-heading-color: $fle-marine;
+$link-color: $fle-violet;
+
+$callout-color-note: $fle-marine;
+$callout-color-tip: $fle-vert;
+$callout-color-important: $fle-orange;
+$callout-color-warning: $fle-orange;
+$callout-color-caution: $fle-rouge;
+
+/*-- scss:rules --*/
+
+// Fond « blanc chiné » : une texture de bruit très légère
+.reveal-viewport {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxODAnIGhlaWdodD0nMTgwJz48ZmlsdGVyIGlkPSduJz48ZmVUdXJidWxlbmNlIHR5cGU9J2ZyYWN0YWxOb2lzZScgYmFzZUZyZXF1ZW5jeT0nLjg1JyBudW1PY3RhdmVzPSczJyBzdGl0Y2hUaWxlcz0nc3RpdGNoJy8+PGZlQ29sb3JNYXRyaXggdmFsdWVzPScwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAuMDkgMCAwIDAgMCcvPjwvZmlsdGVyPjxyZWN0IHdpZHRoPScxMDAlJyBoZWlnaHQ9JzEwMCUnIGZpbHRlcj0ndXJsKCNuKScvPjwvc3ZnPg==");
+}
+
+// Encadrés de couleur, fond pastel
+.reveal .callout.callout-tip { background-color: #eef5ec; }
+.reveal .callout.callout-important,
+.reveal .callout.callout-warning { background-color: #fff6e0; }
+.reveal .callout.callout-caution { background-color: #fdecec; }
+.reveal .callout.callout-note { background-color: #ecedf7; }
+
+// Encadré d'indice : fond pastel, bordure orange (classe .indice)
+.reveal .indice {
+  background: #fff6e0;
+  border-left: 6px solid $fle-orange;
+  padding: 0.5em 1em;
+}

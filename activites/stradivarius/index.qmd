@@ -1,0 +1,37 @@
+---
+title: "Le Stradivarius disparu, enquête FLE B"
+description: "Une enquête façon Cluedo dans les coulisses d'un concert : qui a volé le violon du soliste pendant l'entracte ?"
+categories: [B, enquête, musique]
+image: img/violon.svg
+order: 6
+---
+
+#B #enquête #musique · ⏱ 1-2 h
+
+## L'histoire
+
+Paris, un samedi soir. Le célèbre violoniste Léon Varga joue au Théâtre des Lumières. Pendant l'entracte, il laisse son violon, un Stradivarius très précieux, dans sa loge. Quand il revient, l'étui est vide ! Il y a 6 suspects. Avec un article de journal, le journal des badges et un témoin, les apprenants trouvent le coupable : Thomas, le contrebassiste. Il a caché le violon dans l'étui de sa contrebasse, pour se venger d'une vieille histoire.
+
+## Les textes à lire
+
+### Indice 1 : l'article de presse
+
+> **LE STRADIVARIUS DE LÉON VARGA VOLÉ PENDANT L'ENTRACTE**
+>
+> Coup de théâtre hier soir au Théâtre des Lumières. Le célèbre violon « Aurore », un Stradivarius fabriqué en 1715, a été dérobé dans la loge du soliste Léon Varga, pendant l'entracte du concert.
+>
+> Le musicien avait laissé son instrument dans son étui à 20 h 45, avant de rejoindre ses proches au bar du théâtre. Lorsqu'il est revenu, à 21 h 05, l'étui était vide. Selon la police, la porte de la loge n'a pas été forcée : le voleur a donc utilisé un badge, car l'accès aux coulisses est réservé aux musiciens et au personnel du théâtre. Les invités, comme les journalistes et les critiques, n'en possèdent pas.
+>
+> La cheffe d'orchestre, Hélène Dumas, semble également hors de cause : pendant toute la durée de l'entracte, elle a été interviewée en direct par une radio, dans le hall, devant une cinquantaine de spectateurs.
+>
+> « Ce violon, c'est toute ma vie », a déclaré Léon Varga, très ému. La seconde partie du concert a été annulée et les spectateurs seront remboursés. L'enquête a été confiée à l'inspectrice Morel.
+
+### Indice 3 : le témoignage de Lucie (lu par le professeur)
+
+> « Il était 20 h 59, je m'en souviens parce que je venais de regarder l'horloge. Je nettoyais le fond du couloir B quand j'ai vu quelqu'un sortir de la loge de M. Varga. Je n'ai pas vu son visage, il y avait peu de lumière. Mais je suis sûre d'une chose : la personne était habillée tout en noir, comme les musiciens de l'orchestre. Elle portait sur le dos un énorme étui, plus grand qu'elle. Elle marchait vite, sans faire de bruit. Je ne l'ai pas suivie : j'ai eu peur. »
+
+### Les aveux de Thomas
+
+> « Oui, c'est moi. Il y a quinze ans, Léon et moi étions au conservatoire ensemble. Nous jouions tous les deux du violon. Le jour du grand concours, quelqu'un a coupé les cordes de mon violon juste avant mon passage. Je n'ai jamais pu le prouver, mais je sais que c'était lui. Il a gagné, il est devenu célèbre… et moi, j'ai abandonné le violon.
+>
+> Ce soir, je voulais simplement qu'il sache ce que l'on ressent quand on perd son instrument. Le Stradivarius est dans l'étui de ma contrebasse. Je ne l'ai pas abîmé. »

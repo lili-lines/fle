@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 420" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="420" height="420" fill="#1e1a24"/>
+  <!-- Couloir en perspective -->
+  <path d="M0 0 L160 150 L260 150 L420 0 Z" fill="#2c2733"/>
+  <path d="M0 420 L160 270 L260 270 L420 420 Z" fill="#3a3330"/>
+  <path d="M0 0 L160 150 L160 270 L0 420 Z" fill="#353040"/>
+  <path d="M420 0 L260 150 L260 270 L420 420 Z" fill="#353040"/>
+  <!-- Porte de la loge au fond, entrouverte -->
+  <rect x="160" y="150" width="100" height="120" fill="#2a2430"/>
+  <rect x="185" y="170" width="50" height="100" fill="#f7d774" opacity=".75"/>
+  <path d="M185 170 L205 176 L205 272 L185 270 Z" fill="#7a4e2d"/>
+  <!-- Lampe faible -->
+  <ellipse cx="210" cy="40" rx="60" ry="30" fill="#f7d774" opacity=".08"/>
+  <circle cx="210" cy="30" r="6" fill="#f7d774" opacity=".6"/>
+  <!-- Horloge : 20 h 59 -->
+  <g transform="translate(80,135)">
+    <circle r="42" fill="#f5f0e1" stroke="#8a6d45" stroke-width="6"/>
+    <g stroke="#555" stroke-width="3">
+      <path d="M0 -34 v6 M0 34 v-6 M-34 0 h6 M34 0 h-6"/>
+    </g>
+    <path d="M0 0 L-24 1" stroke="#222" stroke-width="5" stroke-linecap="round"/>
+    <path d="M0 0 L-3.4 -32" stroke="#222" stroke-width="3" stroke-linecap="round"/>
+    <circle r="3" fill="#c0392b"/>
+  </g>
+  <text x="80" y="205" text-anchor="middle" font-size="20" font-weight="700" fill="#f7d774">20 h 59</text>
+  <!-- Seau et balai de Lucie -->
+  <g transform="translate(330,360)">
+    <path d="M-26 -18 L26 -18 L20 30 L-20 30 Z" fill="#5d6d7e"/>
+    <ellipse cx="0" cy="-18" rx="26" ry="6" fill="#85929e"/>
+    <path d="M10 -18 L44 -150" stroke="#8e5a2b" stroke-width="6" stroke-linecap="round"/>
+    <path d="M0 -10 q-10 -20 -2 -30" stroke="#d5d8dc" stroke-width="6" fill="none"/>
+  </g>
+  <!-- Panneau -->
+  <rect x="300" y="70" width="90" height="34" fill="#2e86c1" rx="4"/>
+  <text x="345" y="94" text-anchor="middle" font-size="18" font-weight="700" fill="#fff">couloir B</text>
+</svg>

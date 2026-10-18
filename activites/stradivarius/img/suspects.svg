@@ -1,0 +1,131 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1200" height="460" fill="#f4efe6"/>
+  <g fill="#ffffff" stroke="#d9cbb3" stroke-width="2">
+    <rect x="8" y="8" width="186" height="444" rx="12"/><rect x="206" y="8" width="186" height="444" rx="12"/>
+    <rect x="404" y="8" width="186" height="444" rx="12"/><rect x="602" y="8" width="186" height="444" rx="12"/>
+    <rect x="800" y="8" width="186" height="444" rx="12"/><rect x="998" y="8" width="186" height="444" rx="12"/>
+  </g>
+  <g stroke="#e3d8c4" stroke-width="3">
+    <path d="M24 348 h154 M222 348 h154 M420 348 h154 M618 348 h154 M816 348 h154 M1014 348 h154"/>
+  </g>
+
+  <!-- 1. Hélène Dumas, cheffe d'orchestre -->
+  <g transform="translate(8,0)">
+    <circle cx="93" cy="62" r="13" fill="#a6a6a6"/>
+    <circle cx="93" cy="95" r="27" fill="#a6a6a6"/>
+    <rect x="80" y="117" width="26" height="12" fill="#f2c9a0"/>
+    <circle cx="93" cy="98" r="23" fill="#f5d3b0"/>
+    <path d="M72 88 Q93 70 114 88" fill="#a6a6a6"/>
+    <circle cx="85" cy="99" r="2.5" fill="#333"/><circle cx="101" cy="99" r="2.5" fill="#333"/>
+    <path d="M86 110 q7 4 14 0" stroke="#a0442b" stroke-width="2" fill="none"/>
+    <path d="M62 128 L124 128 L132 258 L54 258 Z" fill="#1c1c1c"/>
+    <path d="M84 128 L93 150 L102 128 Z" fill="#ffffff"/>
+    <rect x="68" y="258" width="22" height="88" fill="#2c2c2c"/><rect x="96" y="258" width="22" height="88" fill="#2c2c2c"/>
+    <path d="M124 140 L150 100" stroke="#1c1c1c" stroke-width="12" stroke-linecap="round"/>
+    <path d="M150 100 L176 62" stroke="#ffffff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M62 140 L50 220" stroke="#1c1c1c" stroke-width="12" stroke-linecap="round"/>
+  </g>
+
+  <!-- 2. Rose Aubert, critique musicale -->
+  <g transform="translate(206,0)">
+    <path d="M70 100 Q70 76 93 76 Q116 76 116 100 L116 118 L70 118 Z" fill="#7b4a2a"/>
+    <rect x="80" y="117" width="26" height="12" fill="#f2c9a0"/>
+    <circle cx="93" cy="100" r="22" fill="#f5d3b0"/>
+    <ellipse cx="93" cy="80" rx="44" ry="9" fill="#c0392b"/>
+    <path d="M70 80 Q72 52 93 52 Q114 52 116 80 Z" fill="#c0392b"/>
+    <rect x="70" y="72" width="46" height="6" fill="#7b241c"/>
+    <circle cx="85" cy="101" r="2.5" fill="#333"/><circle cx="101" cy="101" r="2.5" fill="#333"/>
+    <path d="M87 111 q6 3 12 0" stroke="#a0442b" stroke-width="2" fill="none"/>
+    <path d="M60 128 L126 128 L136 300 L50 300 Z" fill="#d8c3a5"/>
+    <path d="M93 128 V300" stroke="#b9a283" stroke-width="2"/>
+    <circle cx="86" cy="170" r="3" fill="#8a7353"/><circle cx="86" cy="200" r="3" fill="#8a7353"/>
+    <rect x="72" y="300" width="18" height="46" fill="#5a4636"/><rect x="96" y="300" width="18" height="46" fill="#5a4636"/>
+    <path d="M126 142 L140 185" stroke="#d8c3a5" stroke-width="12" stroke-linecap="round"/>
+    <rect x="130" y="180" width="28" height="36" fill="#ffffff" stroke="#888" stroke-width="2"/>
+    <path d="M135 190 h18 M135 197 h18 M135 204 h12" stroke="#888" stroke-width="1.5"/>
+    <path d="M160 175 L148 210" stroke="#2c3e50" stroke-width="3"/>
+  </g>
+
+  <!-- 3. Victor Lenoir, pianiste -->
+  <g transform="translate(404,0)">
+    <path d="M70 98 Q70 70 93 70 Q118 70 116 98 Q108 82 93 84 Q78 82 70 98 Z" fill="#1a1a1a"/>
+    <rect x="80" y="117" width="26" height="12" fill="#f2c9a0"/>
+    <circle cx="93" cy="99" r="23" fill="#e8b98f"/>
+    <path d="M70 92 Q72 72 93 72 Q114 72 116 92 Q106 80 93 80 Q80 80 70 92 Z" fill="#1a1a1a"/>
+    <circle cx="84" cy="100" r="7" fill="none" stroke="#333" stroke-width="2"/><circle cx="102" cy="100" r="7" fill="none" stroke="#333" stroke-width="2"/>
+    <path d="M91 100 h4" stroke="#333" stroke-width="2"/>
+    <circle cx="84" cy="100" r="2" fill="#333"/><circle cx="102" cy="100" r="2" fill="#333"/>
+    <path d="M87 113 q6 3 12 0" stroke="#8a3a20" stroke-width="2" fill="none"/>
+    <path d="M62 128 L124 128 L130 258 L56 258 Z" fill="#1c1c1c"/>
+    <path d="M82 128 L93 160 L104 128 Z" fill="#ffffff"/>
+    <path d="M84 132 L93 137 L84 142 Z M102 132 L93 137 L102 142 Z" fill="#1c1c1c"/>
+    <rect x="68" y="258" width="22" height="88" fill="#1c1c1c"/><rect x="96" y="258" width="22" height="88" fill="#1c1c1c"/>
+    <path d="M124 140 L136 215" stroke="#1c1c1c" stroke-width="12" stroke-linecap="round"/>
+    <rect x="126" y="190" width="40" height="52" fill="#f5f0e1" stroke="#999" stroke-width="2" transform="rotate(8 146 216)"/>
+    <path d="M132 202 h28 M132 210 h28 M132 218 h28 M132 226 h28" stroke="#666" stroke-width="1" transform="rotate(8 146 216)"/>
+  </g>
+
+  <!-- 4. Sofia Marchetti, violoncelliste -->
+  <g transform="translate(602,0)">
+    <rect x="44" y="80" width="56" height="85" rx="22" fill="#3b2314"/>
+    <rect x="59" y="117" width="26" height="12" fill="#e8b98f"/>
+    <circle cx="72" cy="99" r="22" fill="#e8b98f"/>
+    <path d="M50 96 Q52 72 72 72 Q94 72 96 96 Q86 82 72 82 Q58 82 50 96 Z" fill="#3b2314"/>
+    <circle cx="64" cy="100" r="2.5" fill="#333"/><circle cx="80" cy="100" r="2.5" fill="#333"/>
+    <path d="M66 111 q6 3 12 0" stroke="#a0442b" stroke-width="2" fill="none"/>
+    <path d="M44 128 L100 128 L114 300 L30 300 Z" fill="#1c1c1c"/>
+    <rect x="52" y="300" width="16" height="46" fill="#e8b98f"/><rect x="76" y="300" width="16" height="46" fill="#e8b98f"/>
+    <path d="M50 342 h20 M74 342 h20" stroke="#1c1c1c" stroke-width="6"/>
+    <path d="M100 140 L118 190" stroke="#1c1c1c" stroke-width="11" stroke-linecap="round"/>
+    <!-- étui de violoncelle : plus petit qu'elle -->
+    <path d="M128 346 Q114 290 124 250 Q130 215 140 180 L144 150 Q148 140 154 150 L158 180 Q168 215 172 250 Q182 290 168 346 Z" fill="#2f5d50" stroke="#1d3c33" stroke-width="3"/>
+    <path d="M136 300 h26" stroke="#1d3c33" stroke-width="3"/>
+  </g>
+
+  <!-- 5. Thomas Petit, contrebassiste -->
+  <g transform="translate(800,0)">
+    <rect x="53" y="117" width="26" height="12" fill="#f2c9a0"/>
+    <circle cx="66" cy="99" r="23" fill="#f5d3b0"/>
+    <path d="M43 94 Q44 70 66 70 Q90 70 90 94 Q84 80 66 80 Q50 80 43 94 Z" fill="#e0b84c"/>
+    <circle cx="58" cy="100" r="2.5" fill="#333"/><circle cx="74" cy="100" r="2.5" fill="#333"/>
+    <path d="M60 112 h12" stroke="#a0442b" stroke-width="2"/>
+    <path d="M36 128 L96 128 L102 258 L30 258 Z" fill="#1c1c1c"/>
+    <path d="M60 128 L66 140 L72 128 Z" fill="#333"/>
+    <rect x="40" y="258" width="22" height="88" fill="#1c1c1c"/><rect x="68" y="258" width="22" height="88" fill="#1c1c1c"/>
+    <path d="M96 140 L112 200" stroke="#1c1c1c" stroke-width="12" stroke-linecap="round"/>
+    <!-- étui de contrebasse : plus grand que lui -->
+    <path d="M114 346 Q100 280 112 230 Q120 180 132 140 L136 46 Q140 30 148 46 L152 140 Q164 180 172 230 Q184 280 170 346 Z" fill="#2c3e50" stroke="#1a2530" stroke-width="3"/>
+    <path d="M122 300 h40" stroke="#1a2530" stroke-width="3"/>
+  </g>
+
+  <!-- 6. Paul Garnier, régisseur -->
+  <g transform="translate(998,0)">
+    <rect x="80" y="117" width="26" height="12" fill="#f2c9a0"/>
+    <circle cx="93" cy="99" r="23" fill="#f5d3b0"/>
+    <path d="M70 94 Q71 72 93 72 Q116 72 116 94 Q108 82 93 82 Q78 82 70 94 Z" fill="#6b4226"/>
+    <path d="M66 100 Q66 66 93 66 Q120 66 120 100" stroke="#222" stroke-width="4" fill="none"/>
+    <rect x="62" y="94" width="8" height="16" rx="3" fill="#222"/><rect x="116" y="94" width="8" height="16" rx="3" fill="#222"/>
+    <path d="M66 108 Q72 122 88 120" stroke="#222" stroke-width="3" fill="none"/>
+    <circle cx="85" cy="100" r="2.5" fill="#333"/><circle cx="101" cy="100" r="2.5" fill="#333"/>
+    <path d="M87 111 q6 3 12 0" stroke="#a0442b" stroke-width="2" fill="none"/>
+    <path d="M62 128 L124 128 L130 258 L56 258 Z" fill="#8a9399"/>
+    <rect x="72" y="150" width="42" height="18" fill="#ffffff" rx="3"/>
+    <text x="93" y="164" text-anchor="middle" font-size="12" font-weight="700" fill="#2c3e50">STAFF</text>
+    <rect x="68" y="258" width="22" height="88" fill="#6b747a"/><rect x="96" y="258" width="22" height="88" fill="#6b747a"/>
+    <path d="M124 140 L136 205" stroke="#8a9399" stroke-width="12" stroke-linecap="round"/>
+    <rect x="128" y="196" width="16" height="32" rx="3" fill="#222"/><rect x="138" y="182" width="3" height="16" fill="#222"/>
+    <g fill="none" stroke="#c9a227" stroke-width="2.5"><circle cx="64" cy="232" r="6"/><path d="M62 238 l-4 14 M66 238 l4 14"/></g>
+  </g>
+
+  <!-- Noms et rôles -->
+  <g text-anchor="middle" fill="#2b2d42">
+    <g font-size="19" font-weight="700">
+      <text x="101" y="386">Hélène Dumas</text><text x="299" y="386">Rose Aubert</text><text x="497" y="386">Victor Lenoir</text>
+      <text x="695" y="386">Sofia Marchetti</text><text x="893" y="386">Thomas Petit</text><text x="1091" y="386">Paul Garnier</text>
+    </g>
+    <g font-size="16" fill="#5c5f77">
+      <text x="101" y="414">cheffe d'orchestre</text><text x="299" y="414">critique musicale</text><text x="497" y="414">pianiste</text>
+      <text x="695" y="414">violoncelliste</text><text x="893" y="414">contrebassiste</text><text x="1091" y="414">régisseur</text>
+    </g>
+  </g>
+</svg>

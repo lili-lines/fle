@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="400" height="300" fill="#1b1f3b"/>
+  <circle cx="335" cy="55" r="28" fill="#f7e9b0"/>
+  <circle cx="347" cy="48" r="26" fill="#1b1f3b"/>
+  <g fill="#f7e9b0">
+    <circle cx="40" cy="40" r="2"/><circle cx="90" cy="70" r="1.5"/><circle cx="150" cy="30" r="2"/>
+    <circle cx="250" cy="45" r="1.5"/><circle cx="290" cy="100" r="2"/><circle cx="60" cy="120" r="1.5"/>
+  </g>
+  <rect y="250" width="400" height="50" fill="#2c2f4f"/>
+
+  <!-- Gaston, la citrouille géante -->
+  <ellipse cx="190" cy="250" rx="130" ry="14" fill="#000" opacity=".3"/>
+  <ellipse cx="190" cy="172" rx="125" ry="82" fill="#e67e22"/>
+  <ellipse cx="190" cy="172" rx="88" ry="82" fill="#f39c12" opacity=".45"/>
+  <ellipse cx="190" cy="172" rx="40" ry="82" fill="#f5b041" opacity=".5"/>
+  <g stroke="#c0601a" stroke-width="3" fill="none" opacity=".7">
+    <path d="M150 92 Q120 172 150 252 M230 92 Q260 172 230 252 M110 105 Q75 172 110 240 M270 105 Q305 172 270 240"/>
+  </g>
+  <path d="M182 95 Q178 70 192 55 L202 60 Q192 74 196 95 Z" fill="#27ae60"/>
+  <path d="M200 70 Q235 50 250 72 Q225 82 200 74 Z" fill="#2ecc71"/>
+
+  <!-- Rosette du premier prix -->
+  <g transform="translate(300,205)">
+    <path d="M-10 15 L-22 55 L-8 46 L0 60 L4 18 Z" fill="#1f5fa8"/>
+    <path d="M10 15 L22 55 L8 46 L0 60 L-4 18 Z" fill="#2e86c1"/>
+    <circle r="26" fill="#2e86c1"/>
+    <circle r="18" fill="#85c1e9"/>
+    <text y="6" text-anchor="middle" font-size="16" font-weight="800" fill="#1b1f3b">1er</text>
+  </g>
+
+  <!-- Plaque -->
+  <rect x="140" y="262" width="100" height="26" rx="4" fill="#f5f0e1" stroke="#8a6d45" stroke-width="2"/>
+  <text x="190" y="281" text-anchor="middle" font-size="16" font-weight="800" fill="#5a3e1b">GASTON</text>
+</svg>

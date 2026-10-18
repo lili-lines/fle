@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 380" font-family="Segoe UI, Arial, sans-serif">
+  <defs>
+    <radialGradient id="lueur" cx=".5" cy=".5" r=".5">
+      <stop offset="0" stop-color="#ffd27a" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#ffd27a" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="380" fill="#1b1f3b"/>
+  <circle cx="540" cy="45" r="22" fill="#f7e9b0"/>
+  <!-- Hôpital -->
+  <rect x="60" y="40" width="480" height="230" fill="#e5e8e8"/>
+  <rect x="250" y="12" width="100" height="34" fill="#ffffff" stroke="#999"/>
+  <rect x="291" y="17" width="18" height="24" fill="#f60303"/><rect x="288" y="22" width="24" height="14" fill="#f60303"/>
+  <g fill="#f7d774">
+    <rect x="90" y="70" width="60" height="50"/><rect x="180" y="70" width="60" height="50"/><rect x="360" y="70" width="60" height="50"/><rect x="450" y="70" width="60" height="50"/>
+    <rect x="90" y="150" width="60" height="50"/><rect x="450" y="150" width="60" height="50"/>
+  </g>
+  <!-- Enfants aux fenêtres -->
+  <g>
+    <circle cx="110" cy="100" r="12" fill="#f5d3b0"/><circle cx="132" cy="102" r="11" fill="#c68e63"/>
+    <circle cx="210" cy="100" r="12" fill="#e8b98f"/>
+    <circle cx="380" cy="100" r="12" fill="#f5d3b0"/><circle cx="402" cy="100" r="11" fill="#d2a074"/>
+    <circle cx="480" cy="100" r="12" fill="#c68e63"/>
+    <circle cx="120" cy="180" r="12" fill="#e8b98f"/>
+    <circle cx="480" cy="180" r="12" fill="#f5d3b0"/>
+  </g>
+  <g stroke="#333" stroke-width="2" fill="none">
+    <path d="M105 104 q5 4 10 0 M127 106 q5 4 10 0 M205 104 q5 4 10 0 M375 104 q5 4 10 0 M397 104 q5 4 10 0 M475 104 q5 4 10 0 M115 184 q5 4 10 0 M475 184 q5 4 10 0"/>
+  </g>
+  <rect x="270" y="190" width="60" height="80" fill="#5d6d7e"/>
+  <text x="300" y="250" text-anchor="middle" font-size="11" fill="#fff" font-weight="700">ENTRÉE</text>
+  <rect y="270" width="600" height="110" fill="#2c2f4f"/>
+
+  <!-- Gaston devenu lanterne géante -->
+  <ellipse cx="200" cy="300" rx="170" ry="90" fill="url(#lueur)"/>
+  <ellipse cx="200" cy="300" rx="105" ry="70" fill="#e67e22"/>
+  <ellipse cx="200" cy="300" rx="70" ry="70" fill="#f39c12" opacity=".45"/>
+  <path d="M195 232 Q192 215 205 205 L212 210 Q204 220 207 232 Z" fill="#27ae60"/>
+  <g fill="#ffe08a">
+    <path d="M150 285 l20 -26 l20 26 z"/><path d="M210 285 l20 -26 l20 26 z"/>
+    <path d="M140 315 q60 45 120 0 l-14 14 l-12 -10 l-14 14 l-14 -14 l-14 14 l-14 -14 l-12 10 z"/>
+  </g>
+  <!-- Le camion-benne vert garé -->
+  <g transform="translate(400,250) scale(.55)">
+    <path d="M40 175 V120 H200 L230 70 H250 V175 Z" fill="#196f3d"/>
+    <rect x="250" y="80" width="80" height="95" rx="6" fill="#27ae60"/>
+    <rect x="290" y="92" width="32" height="34" fill="#d6eaf8"/>
+    <rect x="278" y="62" width="22" height="18" rx="6" fill="#FFAC00"/>
+    <circle cx="100" cy="180" r="20" fill="#222"/><circle cx="160" cy="180" r="20" fill="#222"/><circle cx="295" cy="180" r="20" fill="#222"/>
+  </g>
+</svg>

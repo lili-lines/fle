@@ -1,0 +1,13 @@
+---
+title: "La fête de Boo, énigme < 6 ans"
+description: "Une énigme d'Halloween pour les petits : 6 missions dans les pièces de la maison hantée pour trouver à quelle heure commence la fête de Boo."
+categories: [< 6ans, enquête, halloween]
+image: img/boo.svg
+order: 9
+---
+
+#<6ans #enquête #halloween · ⏱ 55 min
+
+## L'histoire
+
+Boo est un petit fantôme. Ce soir, c'est la fête d'Halloween, mais Boo a oublié l'heure de la fête ! Les enfants visitent les 6 pièces de sa maison : la chambre, la salle de bain, la cuisine, le salon, la cave et le grenier. Dans chaque pièce, il y a une mission. Chaque mission réussie donne un bonbon. À la fin, on compte : 6 bonbons, donc la fête est à 6 heures !

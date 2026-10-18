@@ -1,69 +1,35 @@
 ---
-title: "La salle secrète de l'école, enquête A2"
+title: "La salle secrète de l'école, enquête CE2"
 description: "Une enquête d'une heure, façon Cluedo : retrouver la porte de la salle secrète cachée dans l'école, grâce au carnet d'une élève de 1954."
-categories: [A2, enquête, Halloween]
+categories: [CE2, enquête, Halloween]
 image: img/cle.svg
 order: 5
 ---
 
-[Ouvrir les diapos](slides.qmd){.btn .btn-primary}
+#CE2 #enquête #Halloween · ⏱ 1 h
 
-Une enquête d'une heure, façon Cluedo, pour une élève de 12 ans de niveau A2, sur le thème de l'automne, d'Halloween et de l'école. Dans une vieille armoire, l'élève trouve le carnet de Marguerite, une élève de 1954, qui parle d'une salle secrète dans l'école. Chaque indice permet de barrer des pièces sur la fiche d'enquête, jusqu'à trouver où se cache la porte secrète.
+## L'histoire
 
-Compétences travaillées : lecture, lecture de plan, prépositions de lieu, vocabulaire de l'automne, oral (indiquer un chemin), écriture au passé composé.
+C'est la semaine d'Halloween. Dans une vieille armoire de la classe, l'élève trouve le carnet de Marguerite, une élève de l'école en 1954. Marguerite parle d'une salle secrète où elle a caché un trésor. Avec les indices du carnet, le plan de l'école et un message codé, l'élève barre les pièces une par une. La porte secrète est dans la bibliothèque, derrière le livre rouge.
 
-## Déroulé (1 h)
+## Les textes à lire
 
-| Temps | Étape | Compétence | Pièces restantes |
-|---|---|---|---|
-| 3 min | Le carnet mystérieux | entrée dans l'histoire | 6 |
-| 5 min | Les mots de l'enquête : relier mots et images | vocabulaire | 6 |
-| 4 min | Pour dire où : la citrouille et les cartons | prépositions de lieu | 6 |
-| 2 min | La fiche d'enquête | organisation | 6 |
-| 12 min | Indice 1 : le carnet de Marguerite | lecture | 3 |
-| 8 min | Indice 2 : le plan de l'école | lecture de plan, prépositions de lieu | 2 |
-| 5 min | Indice 3 : le message codé | lecture, raisonnement | 1 |
-| 6 min | Activité 4 : le cadenas | vocabulaire de l'automne | |
-| 7 min | Activité 5 : le chemin | oral, indiquer un chemin | |
-| 8 min | Activité 6 : dans la salle secrète | écriture au passé composé | |
+### Indice 1 : le carnet de Marguerite
 
-## Corrigé
+> *Mardi 31 octobre 1954*
+>
+> Ce matin, un épais brouillard cachait la cour. Le vent soufflait si fort que le grand châtaignier perdait ses feuilles rouges et dorées. Toute la classe parlait de la fête d'Halloween.
+>
+> À la récréation, j'avais oublié mon écharpe. Je suis retournée la chercher, et c'est là que je l'ai découverte : une toute petite porte, si bien cachée que personne ne la remarque jamais. Derrière, il y a une salle secrète, minuscule et sombre, qui sent la poussière et le vieux papier.
+>
+> Je ne dirai pas où elle se trouve, mais voici des indices. Dans la pièce de la porte secrète, on ne mange jamais et on ne court jamais. Et quand je suis devant la porte, j'entends à travers le mur les élèves qui jouent du piano dans la salle de musique.
+>
+> Ce soir, j'y ai caché mon trésor. Si tu lis ce carnet, sois un bon détective !
+>
+> *Marguerite, 9 ans*
 
-**Les mots de l'enquête** : 1 e (citrouille), 2 f (clé), 3 g (feuille), 4 a (bougie), 5 c (châtaigne), 6 h (trésor), 7 b (brouillard), 8 d (châtaignier).
+### Indice 3 : le message codé
 
-**Pour dire où** : la citrouille est devant le carton ; derrière le carton ; à côté du carton ; entre les deux cartons ; en face du carton (de l'autre côté du couloir) ; au bout du couloir.
-
-1. **Le carnet** : le 31 octobre 1954 ; il fait froid, il y a du brouillard et du vent. Les feuilles rouges et jaunes tombent du châtaignier. Marguerite a trouvé une petite porte cachée. Vrai / faux : faux (la salle est toute petite), vrai. On barre la cantine (on y mange) et le gymnase (on y fait du sport). On barre aussi la salle de musique : le piano est *de l'autre côté du mur*, donc la porte est dans une pièce voisine. Restent : la bibliothèque, la salle d'arts plastiques, le laboratoire de sciences.
-2. **Le plan** : la salle de musique est entre la bibliothèque et la salle d'arts plastiques. La cantine est en face de la bibliothèque. Le laboratoire est en face de la salle d'arts plastiques. Le gymnase est dans la cour. Le laboratoire n'est pas à côté de la salle de musique : on le barre. Restent : la bibliothèque et la salle d'arts plastiques.
-3. **Le message codé** : « DERRIÈRE LE LIVRE ROUGE ». Les livres sont à la bibliothèque : on barre la salle d'arts plastiques.
-
-La porte secrète est **dans la bibliothèque, derrière le livre rouge**, sur l'étagère contre le mur de la salle de musique.
-
-4. **Le cadenas** : FEUILLE (7), PLUIE (5), CHÂTAIGNE (9) → code **759**.
-5. **Le chemin**, exemple de réponse : « Entre dans l'école. Dans le couloir, tourne à gauche. Va tout droit jusqu'au bout du couloir. La bibliothèque est à droite, en face de la cantine. Dans la bibliothèque, tire le livre rouge : la porte est derrière l'étagère. »
-6. **L'écriture** : réponse libre. Vérifier l'auxiliaire *être* avec *entrer*, *aller*, *sortir* et l'accord du participe (*je suis entrée*).
-
-## Pistes pour la classe
-
-- Pour l'indice 1, faire lire le carnet une première fois à voix haute par l'enseignant, puis une seconde fois par l'élève.
-- Si l'élève barre aussi la salle de musique trop vite ou ne la barre pas, relire ensemble « de l'autre côté du mur » et le mimer avec deux pièces dessinées au tableau.
-- Pour l'indice 3, si l'élève bloque, écrire le premier mot à l'envers au tableau avec le stylet.
-- Activité 6 : on peut proposer de terminer l'histoire en imaginant le trésor de Marguerite (une lettre, une photo, des bonbons de 1954, une clé…).
-
-## Images
-
-Toutes les images sont dessinées pour l'atelier, dans `img/` :
-
-| Fichier | Slide | Contenu |
-|---|---|---|
-| `cle.svg` | Titre | une vieille clé, des feuilles d'automne et une citrouille |
-| `carnet.svg` | Le carnet mystérieux | le carnet ouvert de Marguerite, avec un petit plan et un point d'interrogation |
-| `vocabulaire.svg` | Les mots de l'enquête | 8 images numérotées : citrouille, clé, feuille, bougie, châtaigne, trésor, brouillard, châtaignier |
-| `prepositions.svg` | Pour dire où | une citrouille devant, derrière, à côté d'un carton, entre deux cartons, en face (de l'autre côté du couloir), au bout d'un couloir |
-| `marguerite.svg` | Indice 1, questions | portrait de Marguerite en 1954, avec ses tresses, sa blouse d'écolière et son carnet |
-| `plan_ecole.svg` | Indice 2, activité 5 | le plan de l'école : bibliothèque, salle de musique, salle d'arts plastiques, cantine, hall, laboratoire, gymnase dans la cour, châtaignier |
-| `miroir.svg` | Indice 3 | un miroir à main, indice pour lire le message à l'envers |
-| `bibliotheque.svg` | La porte secrète | l'étagère de la bibliothèque avec le livre rouge, une fenêtre d'automne, une citrouille |
-| `cadenas.svg` | Activité 4 | un cadenas à 3 chiffres sur une porte en bois |
-| `porte.svg` | Activité 6 | la petite porte entrouverte, une lumière mystérieuse derrière |
-| `tresor.svg` | Bravo | le coffre de Marguerite : une lettre, une vieille photo, des bonbons |
+> EGUOR ERVIL EL ERÈIRRED
+>
+> (à lire à l'envers : DERRIÈRE LE LIVRE ROUGE)

@@ -1,0 +1,22 @@
+```{=html}
+<table class="table fle-activites">
+  <thead>
+    <tr>
+      <th>Diapos</th>
+      <th>Sous-titre</th>
+      <th>Catégories</th>
+      <th>Explications et corrigé</th>
+    </tr>
+  </thead>
+  <tbody class="list">
+<% for (const item of items) { %>
+    <tr <%= metadataAttrs(item) %>>
+      <td class="fle-titre"><a href="<%- item.path %>"><%= item.title %></a></td>
+      <td><%= item.subtitle || '' %></td>
+      <td><% for (const c of (item.categories || [])) { %><span class="fle-theme"><%= c %></span><% } %></td>
+      <td><a class="fle-corrige" href="<%- item.path.replace(/slides\.(qmd|html)$/, 'index.$1') %>">Explications et corrigé</a></td>
+    </tr>
+<% } %>
+  </tbody>
+</table>
+```

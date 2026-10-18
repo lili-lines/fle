@@ -1,7 +1,8 @@
 ---
 title: "La salle secrète de l'école"
-subtitle: "Une enquête d'automne, niveau A2"
-categories: [A2, enquête, Halloween]
+subtitle: "Une enquête d'automne, CE2"
+description: "Une enquête d'une heure, façon Cluedo : retrouver la porte de la salle secrète cachée dans l'école, grâce au carnet d'une élève de 1954."
+categories: [CE2, enquête, Halloween]
 order: 5
 title-slide-attributes:
   data-background-image: img/cle.svg
@@ -9,8 +10,9 @@ title-slide-attributes:
   data-background-position: 92% 50%
 format:
   revealjs:
-    theme: simple
+    theme: [simple, ../../assets/fle.scss]
     chalkboard: true
+    include-after-body: ../../assets/outil-texte.html
     slide-number: true
     width: 1280
     height: 720
@@ -22,42 +24,32 @@ format:
 ::: {.column width="52%"}
 C'est la semaine d'Halloween. Dehors, les feuilles tombent et il fait déjà froid.
 
-Dans une vieille armoire de la classe, tu trouves un petit carnet très ancien. Sur la couverture, il y a un nom : **Marguerite**.
+En rangeant une vieille armoire de la classe, tu découvres un petit carnet tout abîmé. Sur la couverture, un nom est écrit à la plume : **Marguerite**.
 
-Dans ce carnet, Marguerite parle d'une **salle secrète** dans l'école…
+Marguerite était élève dans cette école il y a plus de 70 ans. Dans son carnet, elle parle d'une **salle secrète**…
 
-Ta mission : trouver la porte de la salle secrète, comme un vrai détective !
+Ta mission : retrouver la porte de la salle secrète, comme un vrai détective !
 :::
 ::: {.column width="48%"}
 ![](img/carnet.svg)
 :::
 ::::
 
-## Les mots de l'enquête {.smaller}
+## Les mots de l'enquête
 
 :::: {.columns}
-::: {.column width="68%"}
+::: {.column width="65%"}
 ![](img/vocabulaire.svg)
 :::
-::: {.column width="32%"}
-Relie chaque mot à son image.
+::: {.column width="35%"}
+Ces objets apparaissent dans l'enquête.
 
-a. une bougie
-b. le brouillard
-c. une châtaigne
-d. un châtaignier
-e. une citrouille
-f. une clé
-g. une feuille
-h. un trésor
+1. Écris le nom de chaque image, avec **un**, **une** ou **le**.
+2. Range les 8 mots dans l'**ordre alphabétique**.
+
+Attention aux mots qui commencent par la même lettre !
 :::
 ::::
-
-## Pour dire où
-
-![](img/prepositions.svg){height="450" fig-align="center"}
-
-Où est la citrouille ? Fais une phrase pour chaque image.
 
 ## La fiche d'enquête
 
@@ -76,33 +68,29 @@ Recopie la fiche. Complète-la pendant l'enquête.
 
 ## Indice 1 : le carnet de Marguerite {.smaller}
 
-::: {style="background:#fbf3e4; padding: 0.6em 1em; border-left: 6px solid #b9770e; font-family: Georgia, serif;"}
-*Le 31 octobre 1954*
+::: {style="background:#fbf3e4; padding: 0.5em 1em; border-left: 6px solid #FFAC00; font-family: Georgia, serif;"}
+*Mardi 31 octobre 1954*
 
-Aujourd'hui, c'est Halloween. Dehors, il fait froid et il y a du brouillard. Le vent fait tomber les feuilles rouges et jaunes du grand châtaignier, dans la cour.
+Ce matin, un épais brouillard cachait la cour. Le vent soufflait si fort que le grand châtaignier perdait ses feuilles rouges et dorées. Toute la classe parlait de la fête d'Halloween.
 
-Pendant la récréation, je suis restée seule à l'intérieur. J'ai trouvé une petite porte cachée ! Derrière cette porte, il y a une salle secrète, toute petite et très sombre.
+À la récréation, j'avais oublié mon écharpe. Je suis retournée la chercher, et c'est là que je l'ai découverte : une toute petite porte, si bien cachée que personne ne la remarque jamais. Derrière, il y a une salle secrète, minuscule et sombre, qui sent la poussière et le vieux papier.
 
-La porte secrète est dans une pièce de l'école. Dans cette pièce, on ne mange pas et on ne fait pas de sport. Quand je suis devant la porte secrète, j'entends le piano de la salle de musique, de l'autre côté du mur.
+Je ne dirai pas où elle se trouve, mais voici des indices. Dans la pièce de la porte secrète, on ne mange jamais et on ne court jamais. Et quand je suis devant la porte, j'entends à travers le mur les élèves qui jouent du piano dans la salle de musique.
 
-Ce soir, j'ai caché mon trésor dans la salle secrète. Si tu lis ce carnet, cherche bien !
+Ce soir, j'y ai caché mon trésor. Si tu lis ce carnet, sois un bon détective !
 
-*Marguerite, 12 ans*
+*Marguerite, 9 ans*
 :::
 
 ## Indice 1 : questions
 
 :::: {.columns}
 ::: {.column width="70%"}
-1. Quelle est la date ? Quel temps fait-il ?
-2. Qu'est-ce qui tombe du grand châtaignier ?
-3. Qu'est-ce que Marguerite a trouvé pendant la récréation ?
-4. Vrai ou faux ?
-   - La salle secrète est très grande.
-   - Marguerite a caché un trésor.
-5. Dans quelles pièces la porte secrète **n'est pas** ?
-
-Attention : Marguerite entend le piano **de l'autre côté du mur**…
+1. Quel temps faisait-il le 31 octobre 1954 ? Relève deux indices dans le texte.
+2. Pourquoi Marguerite est-elle restée à l'intérieur pendant la récréation ?
+3. Comment est la salle secrète ? Relève trois adjectifs.
+4. « On ne mange jamais et on ne court jamais » : quelles pièces peux-tu barrer ?
+5. Marguerite entend le piano **à travers le mur**. La porte est-elle dans la salle de musique ? Explique.
 :::
 ::: {.column width="30%"}
 ![](img/marguerite.svg)
@@ -116,16 +104,13 @@ Attention : Marguerite entend le piano **de l'autre côté du mur**…
 ![](img/plan_ecole.svg)
 :::
 ::: {.column width="38%"}
-Observe le plan. Complète.
+Observe le plan.
 
-1. La salle de musique est **entre** … et …
-2. La cantine est **en face de** …
-3. Le laboratoire est **en face de** …
-4. Le gymnase est **dans** …
+1. Quelles pièces touchent la salle de musique ? Lesquelles ont un mur commun avec elle ?
+2. Écris une phrase pour situer le laboratoire de sciences. Utilise **en face de**.
+3. Le gymnase et la cour sont-ils dans le bâtiment ?
 
-La porte secrète est dans une pièce **à côté de** la salle de musique.
-
-Quelles pièces restent sur ta fiche ?
+Barre les pièces qui ne sont pas à côté de la salle de musique. Quelles pièces restent ?
 :::
 ::::
 
@@ -139,10 +124,11 @@ Sur la dernière page du carnet, il y a un message étrange :
 EGUOR ERVIL EL ERÈIRRED
 :::
 
-Astuce : Marguerite écrit à l'envers, comme dans un miroir !
+Marguerite a écrit son message à l'envers, comme dans un miroir !
 
-- Que dit le message ?
-- Dans quelle pièce est la porte secrète ?
+- Écris le message à l'endroit.
+- Dans quelle pièce de l'école trouve-t-on cet objet ?
+- Barre la dernière pièce : où est la porte secrète ?
 :::
 ::: {.column width="32%"}
 ![](img/miroir.svg){height="480"}
@@ -164,18 +150,18 @@ Derrière, il y a une petite porte. Mais elle est fermée avec un **cadenas à 3
 :::
 ::::
 
-## Activité 4 : le cadenas (vocabulaire)
+## Activité 4 : le cadenas (grammaire) {.smaller}
 
 :::: {.columns}
 ::: {.column width="65%"}
-Trouve les mots. Compte les lettres : chaque mot donne un chiffre du code.
+Marguerite a laissé trois phrases sur la porte. Chaque réponse donne un chiffre du code.
 
-1. Elle tombe des arbres en automne.\
-   → une _ _ _ _ _ _ _
-2. Elle tombe du ciel quand il fait mauvais.\
-   → la _ _ _ _ _
-3. C'est un petit fruit marron. On le mange grillé en automne.\
-   → une _ _ _ _ _ _ _ _ _
+1. Combien y a-t-il de **verbes conjugués** ?\
+   *Le vent souffle, les feuilles tombent et Marguerite court dans la cour.*
+2. Combien y a-t-il de **noms communs** ?\
+   *La maîtresse range les livres, les cahiers et les crayons dans l'armoire.*
+3. Combien y a-t-il d'**adjectifs** ?\
+   *Le grand châtaignier perd ses belles feuilles rouges et jaunes.*
 
 Le code du cadenas : ___ ___ ___
 :::
@@ -191,14 +177,11 @@ Le code du cadenas : ___ ___ ___
 ![](img/plan_ecole.svg)
 :::
 ::: {.column width="40%"}
-Ton ami entre dans l'école par l'entrée. Explique-lui comment aller à la porte secrète.
+Un nouvel élève arrive par l'entrée. Il veut voir la porte secrète.
 
-- Entre dans l'école…
-- Dans le couloir, tourne à … / va tout droit…
-- La bibliothèque est … , en face de …
-- Dans la bibliothèque, …
+Explique-lui le chemin, sans montrer le plan. Ton camarade suit le chemin avec son doigt : arrive-t-il au bon endroit ?
 
-Utilise : tourner, aller tout droit, au bout de, à gauche, à droite, en face de, derrière.
+Utilise des mots précis : tourner, aller tout droit, au bout de, à gauche, à droite, en face de, derrière.
 :::
 ::::
 
@@ -206,17 +189,12 @@ Utilise : tourner, aller tout droit, au bout de, à gauche, à droite, en face d
 
 :::: {.columns}
 ::: {.column width="60%"}
-Tu ouvres la porte. Tu entres dans la salle secrète. Qu'est-ce que tu as vu ? Qu'est-ce que Marguerite a caché ?
+Tu ouvres la porte et tu entres dans la salle secrète. Raconte la suite de l'histoire en 6 à 8 lignes.
 
-Écris 5 phrases au passé composé.
+- Qu'est-ce que tu vois, entends, sens ?
+- Qu'est-ce que Marguerite a caché ? Pourquoi ?
 
-```
-Je suis entré(e) dans la salle secrète.
-J'ai vu ...
-J'ai trouvé ...
-Marguerite a caché ...
-Ensuite, je suis ...
-```
+**Pour réussir :** utilise *d'abord*, *ensuite*, *enfin* ; écris au passé composé ; vérifie les majuscules et les points.
 :::
 ::: {.column width="40%"}
 ![](img/porte.svg){height="440"}

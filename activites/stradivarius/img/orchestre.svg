@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 530" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="900" height="530" fill="#fbf6ee"/>
+  <!-- Scène -->
+  <path d="M10 450 L10 30 Q450 -20 890 30 L890 450 Z" fill="#f1e4cc" stroke="#c9b48e" stroke-width="3"/>
+
+  <!-- D -->
+  <path d="M240 76.3 A420 420 0 0 1 660 76.3 L630 128.2 A360 360 0 0 0 270 128.2 Z" fill="#c8b6e2" stroke="#6c5a8c" stroke-width="2"/>
+  <!-- C -->
+  <path d="M138.2 260 A360 360 0 0 1 761.8 260 L709.8 290 A300 300 0 0 0 190.2 290 Z" fill="#f7c873" stroke="#a7781f" stroke-width="2"/>
+  <!-- B -->
+  <path d="M190.2 290 A300 300 0 0 1 709.8 290 L649.2 325 A230 230 0 0 0 250.8 325 Z" fill="#a8d5ba" stroke="#3f7a57" stroke-width="2"/>
+  <!-- A -->
+  <path d="M220 440 A230 230 0 0 1 680 440 L540 440 A90 90 0 0 0 360 440 Z" fill="#f2b8a2" stroke="#a3533a" stroke-width="2"/>
+
+  <!-- Chaises (petits points) -->
+  <g fill="#ffffff" opacity=".85">
+    <circle cx="260" cy="420" r="6"/><circle cx="290" cy="370" r="6"/><circle cx="335" cy="330" r="6"/><circle cx="390" cy="300" r="6"/>
+    <circle cx="510" cy="300" r="6"/><circle cx="565" cy="330" r="6"/><circle cx="610" cy="370" r="6"/><circle cx="640" cy="420" r="6"/>
+    <circle cx="390" cy="370" r="6"/><circle cx="510" cy="370" r="6"/><circle cx="330" cy="400" r="6"/><circle cx="570" cy="400" r="6"/>
+    <circle cx="300" cy="230" r="6"/><circle cx="370" cy="200" r="6"/><circle cx="530" cy="200" r="6"/><circle cx="600" cy="230" r="6"/>
+    <circle cx="200" cy="225" r="6"/><circle cx="300" cy="175" r="6"/><circle cx="600" cy="175" r="6"/><circle cx="700" cy="225" r="6"/>
+    <circle cx="390" cy="95" r="6"/><circle cx="510" cy="95" r="6"/>
+  </g>
+
+  <!-- Lettres -->
+  <g font-size="34" font-weight="800" fill="#2b2d42" text-anchor="middle">
+    <text x="450" y="300">A</text>
+    <text x="450" y="185">B</text>
+    <text x="230" y="290" transform="rotate(-38 230 290)">C</text>
+    <text x="450" y="112">D</text>
+  </g>
+  <g font-size="34" font-weight="800" fill="#2b2d42" text-anchor="middle">
+    <text x="672" y="290" transform="rotate(38 672 290)">C</text>
+  </g>
+
+  <!-- Cheffe -->
+  <rect x="425" y="410" width="50" height="30" fill="#5d3a1a" rx="4"/>
+  <circle cx="450" cy="400" r="12" fill="#1c1c1c"/>
+  <text x="450" y="472" text-anchor="middle" font-size="20" font-weight="700" fill="#2b2d42">la cheffe d'orchestre</text>
+
+  <!-- Public -->
+  <rect x="10" y="490" width="880" height="34" fill="#7b2d3a" rx="6"/>
+  <text x="450" y="514" text-anchor="middle" font-size="18" fill="#ffffff">le public</text>
+</svg>

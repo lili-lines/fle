@@ -1,0 +1,51 @@
+---
+title: "La citrouille géante a disparu !"
+description: "Une enquête façon Cluedo le soir d'Halloween : qui a emporté Gaston, la citrouille géante de la place de la Mairie ?"
+categories: [CE2, enquête, halloween]
+image: img/citrouille.svg
+order: 7
+---
+
+#CE2 #enquête #halloween · ⏱ 2 séances d'1 h
+
+## L'histoire
+
+C'est le soir d'Halloween à Brumeville. Sur la place de la Mairie, il y a Gaston, la citrouille géante qui a gagné le concours. Elle pèse 250 kilos ! Pendant le défilé, Gaston disparaît. Il y a 6 suspects, chacun avec son véhicule. Avec un journal, la fiche des véhicules et un témoin, les élèves trouvent le coupable : Léo, le jardinier. Il a emporté Gaston dans son camion pour en faire une lanterne géante devant l'hôpital des enfants.
+
+## Les textes à lire
+
+### L'affaire
+
+> Brumeville, le soir du 31 octobre. Toute la ville fête Halloween ! Les rues sont décorées de lanternes, de toiles d'araignée et de chauves-souris en papier.
+>
+> Sur la place de la Mairie, il y a Gaston, la citrouille géante qui a gagné le premier prix du concours. Elle pèse 250 kilos ! Tout le monde vient la prendre en photo.
+>
+> À 20 heures, les habitants partent au parc pour le grand défilé déguisé. La place est vide.
+>
+> À 21 heures, quand Madame la Maire revient sur la place… Gaston a disparu ! Il ne reste que son socle, quelques graines… et des traces de pneus.
+
+### Indice 1 : le journal
+
+> **LA GAZETTE DE BRUMEVILLE, édition spéciale**
+>
+> **OÙ EST PASSÉ GASTON ?**
+>
+> Hier soir, Gaston, la citrouille géante de Brumeville, a disparu de la place de la Mairie pendant le défilé d'Halloween.
+>
+> Gaston pesait 250 kilos. « Il est impossible de le porter à la main, même à dix personnes ! explique le policier Martin. Le voleur a forcément utilisé un véhicule. » D'ailleurs, des traces de pneus partent du socle de la citrouille.
+>
+> Pendant tout le défilé, la boulangère Odile Farine était au parc. Elle distribuait des parts de tarte à la citrouille aux enfants, devant plus de cent personnes. Quant à Iris Lune, elle jouait la sorcière en tête du défilé, sur sa trottinette décorée en balai. Tout le monde l'a vue !
+>
+> La police cherche maintenant des témoins. Si vous avez vu quelque chose, appelez la mairie !
+
+### Indice 3 : le témoignage de Rose (lu par le professeur)
+
+> « Je m'appelle Rose et j'habite au-dessus de la pharmacie, rue des Lanternes. À 20 h 30, je regardais par ma fenêtre parce que j'aime beaucoup les décorations d'Halloween. La rue était vide : tout le monde était au défilé. Tout à coup, j'ai entendu un bruit de moteur. Un véhicule vert passait tout doucement. Derrière, il y avait une grande benne, et dans la benne, quelque chose de gros et de rond, caché sous une couverture. Sur le toit, une petite lumière orange clignotait. Il roulait vers le nord. »
+
+### Les aveux de Léo
+
+> « Oui, c'est moi qui ai emporté Gaston. Ce matin, je suis allé planter des fleurs à l'hôpital des enfants. Les enfants malades m'ont dit qu'ils étaient tristes : ils ne pouvaient pas venir à la fête d'Halloween.
+>
+> Alors j'ai eu une idée. Pendant le défilé, j'ai chargé Gaston dans mon camion et je l'ai emmené devant l'hôpital. Toute la nuit, je l'ai creusé pour en faire une lanterne géante. Regardez les fenêtres : les enfants sourient !
+>
+> Je voulais le rapporter demain matin… Pardon de vous avoir fait peur. »

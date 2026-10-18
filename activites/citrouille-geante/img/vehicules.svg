@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" font-family="Segoe UI, Arial, sans-serif">
+  <rect width="1200" height="560" fill="#f4efe6"/>
+  <g fill="#ffffff" stroke="#d9cbb3" stroke-width="2">
+    <rect x="10" y="10" width="380" height="260" rx="14"/><rect x="410" y="10" width="380" height="260" rx="14"/><rect x="810" y="10" width="380" height="260" rx="14"/>
+    <rect x="10" y="290" width="380" height="260" rx="14"/><rect x="410" y="290" width="380" height="260" rx="14"/><rect x="810" y="290" width="380" height="260" rx="14"/>
+  </g>
+  <g stroke="#e3d8c4" stroke-width="3">
+    <path d="M30 200 h340 M430 200 h340 M830 200 h340 M30 480 h340 M430 480 h340 M830 480 h340"/>
+  </g>
+
+  <!-- 1. Tracteur rouge + remorque (Gustave) -->
+  <g transform="translate(10,0)">
+    <rect x="30" y="130" width="110" height="45" fill="#a04000" stroke="#6e2c00" stroke-width="3"/>
+    <path d="M140 160 h20" stroke="#555" stroke-width="5"/>
+    <circle cx="60" cy="182" r="16" fill="#222"/><circle cx="60" cy="182" r="6" fill="#999"/>
+    <circle cx="112" cy="182" r="16" fill="#222"/><circle cx="112" cy="182" r="6" fill="#999"/>
+    <rect x="160" y="125" width="70" height="45" fill="#c0392b"/>
+    <rect x="225" y="80" width="70" height="90" fill="#c0392b"/>
+    <rect x="235" y="90" width="50" height="40" fill="#d6eaf8"/>
+    <rect x="290" y="135" width="50" height="35" fill="#c0392b"/>
+    <path d="M300 135 V105" stroke="#555" stroke-width="6"/>
+    <circle cx="255" cy="175" r="30" fill="#222"/><circle cx="255" cy="175" r="12" fill="#f1c40f"/>
+    <circle cx="330" cy="185" r="18" fill="#222"/><circle cx="330" cy="185" r="7" fill="#f1c40f"/>
+  </g>
+  <!-- 2. Camionnette blanche (Odile) -->
+  <g transform="translate(410,0)">
+    <path d="M60 175 V95 Q60 80 75 80 H240 Q265 80 280 110 L310 140 Q320 145 320 160 V175 Z" fill="#fdfefe" stroke="#99a3a4" stroke-width="3"/>
+    <path d="M245 90 L272 118 H245 Z" fill="#d6eaf8"/>
+    <text x="150" y="135" text-anchor="middle" font-size="20" font-weight="800" fill="#c0392b" font-style="italic">Boulangerie</text>
+    <circle cx="110" cy="178" r="20" fill="#222"/><circle cx="110" cy="178" r="8" fill="#bbb"/>
+    <circle cx="265" cy="178" r="20" fill="#222"/><circle cx="265" cy="178" r="8" fill="#bbb"/>
+  </g>
+  <!-- 3. Trottinette violette (Iris) -->
+  <g transform="translate(810,0)">
+    <path d="M110 180 H260" stroke="#6c3483" stroke-width="10" stroke-linecap="round"/>
+    <path d="M255 180 L230 70" stroke="#6c3483" stroke-width="8" stroke-linecap="round"/>
+    <path d="M210 70 H250" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <circle cx="115" cy="186" r="14" fill="#222"/><circle cx="262" cy="186" r="14" fill="#222"/>
+  </g>
+  <!-- 4. Camion-benne vert avec gyrophare (Léo) -->
+  <g transform="translate(10,280)">
+    <path d="M40 175 V120 H200 L230 70 H250 V175 Z" fill="#196f3d"/>
+    <path d="M40 120 L60 90 H210 L200 120 Z" fill="#1e8449" stroke="#145a32" stroke-width="3"/>
+    <rect x="250" y="80" width="80" height="95" rx="6" fill="#27ae60"/>
+    <rect x="290" y="92" width="32" height="34" fill="#d6eaf8"/>
+    <rect x="278" y="62" width="22" height="18" rx="6" fill="#FFAC00"/>
+    <path d="M270 58 l-10 -8 M308 58 l10 -8 M289 52 v-10" stroke="#FFAC00" stroke-width="3"/>
+    <circle cx="100" cy="180" r="20" fill="#222"/><circle cx="100" cy="180" r="8" fill="#bbb"/>
+    <circle cx="160" cy="180" r="20" fill="#222"/><circle cx="160" cy="180" r="8" fill="#bbb"/>
+    <circle cx="295" cy="180" r="20" fill="#222"/><circle cx="295" cy="180" r="8" fill="#bbb"/>
+  </g>
+  <!-- 5. Scooter de pizzas (Hector) -->
+  <g transform="translate(410,280)">
+    <path d="M120 170 Q120 130 170 130 H230 Q250 130 255 110 L265 80" stroke="#c0392b" stroke-width="14" fill="none" stroke-linecap="round"/>
+    <path d="M150 128 Q185 112 225 128" stroke="#333" stroke-width="12" stroke-linecap="round" fill="none"/>
+    <path d="M250 80 H285" stroke="#333" stroke-width="8" stroke-linecap="round"/>
+    <rect x="95" y="80" width="70" height="45" fill="#f5f0e1" stroke="#b9a283" stroke-width="3"/>
+    <text x="130" y="109" text-anchor="middle" font-size="14" font-weight="800" fill="#c0392b">PIZZA</text>
+    <circle cx="130" cy="180" r="18" fill="#222"/><circle cx="130" cy="180" r="7" fill="#bbb"/>
+    <circle cx="275" cy="180" r="18" fill="#222"/><circle cx="275" cy="180" r="7" fill="#bbb"/>
+  </g>
+  <!-- 6. Vélo-cargo bleu (Margot) -->
+  <g transform="translate(810,280)">
+    <rect x="200" y="110" width="110" height="55" rx="6" fill="#2e86c1"/>
+    <circle cx="225" cy="100" r="12" fill="#e74c3c"/><circle cx="250" cy="94" r="12" fill="#f39c12"/><circle cx="275" cy="100" r="12" fill="#af7ac5"/><circle cx="298" cy="96" r="11" fill="#f1948a"/>
+    <path d="M100 178 L150 110 L200 165 M150 110 L180 110 M140 98 H165" stroke="#1f5fa8" stroke-width="7" fill="none" stroke-linecap="round"/>
+    <path d="M110 110 H135 M120 110 L105 178" stroke="#1f5fa8" stroke-width="6" stroke-linecap="round"/>
+    <circle cx="100" cy="178" r="22" fill="none" stroke="#222" stroke-width="6"/>
+    <circle cx="275" cy="178" r="18" fill="none" stroke="#222" stroke-width="6"/>
+  </g>
+
+  <!-- Légendes -->
+  <g text-anchor="middle">
+    <g font-size="20" font-weight="800" fill="#000149">
+      <text x="200" y="232">le tracteur de Gustave</text><text x="600" y="232">la camionnette d'Odile</text><text x="1000" y="232">la trottinette d'Iris</text>
+      <text x="200" y="512">le camion-benne de Léo</text><text x="600" y="512">le scooter d'Hector</text><text x="1000" y="512">le vélo-cargo de Margot</text>
+    </g>
+    <g font-size="17" fill="#5c5f77">
+      <text x="200" y="257">charge maximale : 2 000 kg</text><text x="600" y="257">charge maximale : 600 kg</text><text x="1000" y="257">charge maximale : 20 kg</text>
+      <text x="200" y="537">charge maximale : 1 000 kg</text><text x="600" y="537">charge maximale : 30 kg</text><text x="1000" y="537">charge maximale : 100 kg</text>
+    </g>
+  </g>
+</svg>

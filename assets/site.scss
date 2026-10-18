@@ -1,0 +1,43 @@
+/*-- scss:defaults --*/
+
+// Couleurs du site (mode clair)
+$fle-rouge: #f60303;   // erreurs, pièges, « attention »
+$fle-marine: #000149;  // titres
+$fle-vert: #053E00;    // aide, rappels
+$fle-orange: #FFAC00;  // important, indices, notes
+$fle-violet: #451963;  // liens, boutons, menu
+
+$body-bg: #f8f7f4;
+$headings-color: $fle-marine;
+$primary: $fle-violet;
+$link-color: $fle-violet;
+$navbar-bg: #f8f7f4;
+$navbar-fg: $fle-marine;
+$navbar-hl: $fle-violet;
+
+$callout-color-note: $fle-marine;
+$callout-color-tip: $fle-vert;
+$callout-color-important: $fle-orange;
+$callout-color-warning: $fle-orange;
+$callout-color-caution: $fle-rouge;
+
+/*-- scss:rules --*/
+
+// Fond « blanc chiné » : une texture de bruit très légère
+body {
+  background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxODAnIGhlaWdodD0nMTgwJz48ZmlsdGVyIGlkPSduJz48ZmVUdXJidWxlbmNlIHR5cGU9J2ZyYWN0YWxOb2lzZScgYmFzZUZyZXF1ZW5jeT0nLjg1JyBudW1PY3RhdmVzPSczJyBzdGl0Y2hUaWxlcz0nc3RpdGNoJy8+PGZlQ29sb3JNYXRyaXggdmFsdWVzPScwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAwIDAgMCAuMDkgMCAwIDAgMCcvPjwvZmlsdGVyPjxyZWN0IHdpZHRoPScxMDAlJyBoZWlnaHQ9JzEwMCUnIGZpbHRlcj0ndXJsKCNuKScvPjwvc3ZnPg==");
+}
+
+.navbar {
+  background-color: rgba(248, 247, 244, .92) !important;
+}
+
+// Encadrés de couleur, fond pastel
+.callout.callout-style-default {
+  background-color: #ffffff;
+}
+.callout-tip.callout { background-color: #eef5ec; }
+.callout-important.callout,
+.callout-warning.callout { background-color: #fff6e0; }
+.callout-caution.callout { background-color: #fdecec; }
+.callout-note.callout { background-color: #ecedf7; }

@@ -11,20 +11,10 @@ website:
   repo-url: https://github.com/lili-lines/fle
   search: true
   navbar:
-    left:
-      - href: index.qmd
-        text: Accueil
-      - href: liens.qmd
-        text: Liens utiles
-      - href: activites/index.qmd
-        text: Activités
-      - href: diapos/index.qmd
-        text: Diapos
+    title: FLE - Français Langue Étrangère
 
 format:
   html:
-    theme:
-      light: cosmo
-      dark: darkly
+    theme: [cosmo, assets/site.scss]
     css: styles.css
     toc: false

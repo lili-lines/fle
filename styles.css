@@ -1,9 +1,51 @@
+/* Polices : Andika pour le texte, Fraunces pour les titres */
+@import url('https://fonts.googleapis.com/css2?family=Andika:ital,wght@0,400;0,700;1,400;1,700&family=Fraunces:opsz,wght@9..144,600;9..144,700&display=swap');
+
 /* Ajustements légers du thème */
 
-/* Menu centré (écran large) */
-@media (min-width: 992px) {
-  #navbarCollapse > .navbar-nav {
-    margin-left: auto !important;
-    margin-right: auto !important;
-  }
+body {
+  font-family: "Andika", "Segoe UI", sans-serif;
 }
+
+h1, h2, h3, h4, h5, h6,
+.title,
+.navbar-title,
+.card-title,
+.listing-title {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+}
+
+/* Tableau des activités */
+.fle-activites td { vertical-align: middle; }
+.fle-activites .fle-titre a {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 600;
+  font-size: 1.1em;
+}
+.fle-theme {
+  display: inline-block;
+  margin: 2px 4px 0 0;
+  padding: 0 8px;
+  border-radius: 10px;
+  background: #fff6e0;
+  font-size: .85em;
+}
+.fle-corrige { white-space: nowrap; }
+
+/* Barre de menu : seulement le titre « FLE », centré */
+.navbar-brand-container {
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  margin: 0 !important;
+}
+.navbar-title {
+  font-family: "Fraunces", Georgia, serif;
+  font-weight: 700;
+  font-size: 1.3em;
+  color: #000149;
+}
+
+/* Espace entre le tableau des activités et les liens utiles */
+#liens-utiles { margin-top: 4.5rem; }

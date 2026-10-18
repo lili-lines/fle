@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 490" font-family="Segoe UI, Arial, sans-serif">
+<rect width="680" height="490" fill="#ffffff"/>
+<text x="340" y="38" text-anchor="middle" font-size="24" font-weight="800" fill="#000149">Modèle A : le chemin de Biscuit</text>
+<path d="M40 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M90 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M140 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M190 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M240 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M290 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M340 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M390 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M440 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M490 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M540 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M590 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M640 60 V460" stroke="#aed6f1" stroke-width="1.5"/><path d="M40 60 H640" stroke="#aed6f1" stroke-width="1.5"/><path d="M40 110 H640" stroke="#aed6f1" stroke-width="1.5"/><path d="M40 160 H640" stroke="#aed6f1" stroke-width="1.5"/><path d="M40 210 H640" stroke="#aed6f1" stroke-width="1.5"/><path d="M40 260 H640" stroke="#aed6f1" stroke-width="1.5"/><path d="M40 310 H640" stroke="#aed6f1" stroke-width="1.5"/><path d="M40 360 H640" stroke="#aed6f1" stroke-width="1.5"/><path d="M40 410 H640" stroke="#aed6f1" stroke-width="1.5"/><path d="M40 460 H640" stroke="#aed6f1" stroke-width="1.5"/>
+<polyline points="90,360 240,360 240,260 440,260 440,160 540,160" fill="none" stroke="#000149" stroke-width="7" stroke-linejoin="round" stroke-linecap="round"/>
+<g transform="translate(572,164) scale(.42)"><path d="M-58 50 L-50 -10 L0 -50 L50 -10 L58 50 Z" fill="#f5b7b1"/>
+  <path d="M-50 -10 L0 -50 L-20 50 Z M50 -10 L0 -50 L20 50 Z" fill="#e74c3c"/>
+  <path d="M0 -50 V-66" stroke="#555" stroke-width="3"/><path d="M0 -66 l16 5 l-16 5 Z" fill="#2e86c1"/>
+  <path d="M-14 50 Q0 18 14 50 Z" fill="#3b1f12"/></g>
+<path d="M90 344 l5 11 l12 2 l-9 8 l2 12 l-10 -6 l-10 6 l2 -12 l-9 -8 l12 -2 z" fill="#f60303"/>
+</svg>
