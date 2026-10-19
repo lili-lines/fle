@@ -1,0 +1,41 @@
+---
+title: "La cape de Dracula a disparu !"
+description: "Une enquête au collège le soir d'Halloween : qui a pris la cape de Dracula dans la salle des costumes ? Vêtements, couleurs et adjectifs."
+categories: [a2, enquête, halloween]
+image: img/cape.svg
+order: 10
+---
+
+#a2 #enquête #halloween · ⏱ 45 min
+
+## L'histoire
+
+C'est le soir d'Halloween au collège. Le club théâtre prépare le bal. Dans la salle des costumes, la cape de Dracula a disparu ! Six élèves déguisés sont suspects. Avec le journal du collège, l'image de la caméra et le témoignage du gardien, on barre les suspects un par un. La coupable est Chloé, déguisée en citrouille : des élèves ont dit que son costume était moche, alors elle voulait une cape élégante pour le bal.
+
+## Les textes à lire
+
+### Indice 1 : le journal du collège
+
+> **LE PETIT JOURNAL DU COLLÈGE**
+>
+> **VOL AU CLUB THÉÂTRE !**
+>
+> Vendredi 31 octobre, la célèbre cape de Dracula a disparu de la salle des costumes. Cette cape est très vieille : elle a 50 ans ! Elle est longue, noire et rouge, en velours. C'est un costume vintage et somptueux.
+>
+> La cape a disparu entre 17 heures et 17 h 30. À ce moment-là, Hugo, Nathan et Malik répétaient une danse au gymnase avec le professeur de sport.
+>
+> Par terre, dans la salle des costumes, il y avait des paillettes vertes…
+>
+> Le bal d'Halloween commence à 19 heures. Qui a pris la cape ?
+
+### Indice 3 : le témoignage du gardien (à écouter)
+
+> « Vendredi, à 17 h 15, je nettoyais le couloir. J'ai vu une élève déguisée. Elle portait un grand sac blanc. Elle ne portait pas de chapeau : elle avait un bonnet vert sur la tête. Sa robe était orange, très large et courte. Elle avait des collants verts et de vieilles bottes marron. Elle marchait très vite ! »
+
+### Les aveux de Chloé
+
+> « Oui, c'est moi… Lundi, des élèves ont regardé mon costume de citrouille. Ils ont dit : *Il est moche ! Il est démodé !* J'étais très triste.
+>
+> La cape de Dracula est élégante et somptueuse. Je voulais être belle pour le bal. Je voulais rendre la cape après la fête.
+>
+> Pardon ! »

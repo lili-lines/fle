@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI, Arial, sans-serif">
+<rect width="1280" height="720" fill="#3d3d3d"/>
+
+<defs><pattern id="lignes" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="2" fill="#000" opacity=".18"/></pattern></defs>
+<rect width="1280" height="720" fill="#6e6e6e"/>
+<g stroke="#5c5c5c" stroke-width="4"><path d="M0 60 H1280"/><path d="M0 170 H1280"/><path d="M0 280 H1280"/><path d="M0 390 H1280"/><path d="M0 500 H1280"/><path d="M0 610 H1280"/><path d="M-200 0 L-536 720"/><path d="M-40 0 L-312 720"/><path d="M120 0 L-88 720"/><path d="M280 0 L136 720"/><path d="M440 0 L360 720"/><path d="M600 0 L584 720"/><path d="M760 0 L808 720"/><path d="M920 0 L1032 720"/><path d="M1080 0 L1256 720"/><path d="M1240 0 L1480 720"/><path d="M1400 0 L1704 720"/></g>
+<!-- les bottes, vues d'en haut : le reste est hors de l'image -->
+<g transform="translate(560,0)">
+  <path d="M-80 0 h70 v250 q0 40 -40 40 h-60 q-20 0 -20 -24 q0 -20 24 -26 l26 -6 z" fill="#2a2a2a"/>
+  <path d="M30 0 h70 v270 q0 40 -40 40 h-60 q-20 0 -20 -24 q0 -20 24 -26 l26 -6 z" fill="#2a2a2a"/>
+  <path d="M-76 120 h62 M34 130 h62" stroke="#555" stroke-width="5"/>
+  <path d="M-70 6 v60 M40 6 v60" stroke="#3d3d3d" stroke-width="4"/>
+</g>
+<!-- le grand sac -->
+<g transform="translate(900,430)"><path d="M-110 -150 Q-140 60 -100 170 H100 Q140 60 110 -150 Z" fill="#d0d0d0"/><path d="M-60 -150 q60 -80 120 0" stroke="#d0d0d0" stroke-width="14" fill="none"/>
+<path d="M-80 -80 q50 30 110 -10" stroke="#a5a5a5" stroke-width="4" fill="none"/><path d="M-50 -156 q40 -24 90 -8 l-10 22 q-36 -10 -70 4 z" fill="#1f1f1f"/></g>
+<!-- paillettes -->
+<g fill="#ededed"><circle cx="420" cy="400" r="4"/><circle cx="470" cy="440" r="4"/><circle cx="520" cy="380" r="4"/><circle cx="610" cy="470" r="4"/><circle cx="650" cy="420" r="4"/><circle cx="700" cy="500" r="4"/><circle cx="560" cy="520" r="4"/><circle cx="480" cy="560" r="4"/><circle cx="740" cy="450" r="4"/><circle cx="380" cy="480" r="4"/><circle cx="640" cy="580" r="4"/></g>
+<rect width="1280" height="720" fill="url(#lignes)"/>
+<g font-family="Consolas, monospace" fill="#ffffff" font-weight="700">
+  <circle cx="70" cy="140" r="12" fill="#e74c3c"/><text x="92" y="149" font-size="28">REC</text>
+  <text x="1210" y="149" font-size="28" text-anchor="end">CAMÉRA 2 · COULOIR</text>
+  <text x="70" y="680" font-size="34">31/10  17:12:48</text>
+</g>
+<g stroke="#ffffff" stroke-width="5" fill="none"><path d="M40 110 V60 H90 M1240 110 V60 H1190 M40 610 V660 H90 M1240 610 V660 H1190"/></g>
+
+</svg>

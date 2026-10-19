@@ -1,12 +1,12 @@
 ---
 title: "Le mystère des bonbons d'Halloween"
 description: "Une enquête d'une heure, façon Cluedo : retrouver qui a pris le panier de bonbons de la maîtresse."
-categories: [CE1, enquête, halloween]
+categories: [ce1, enquête, halloween]
 image: img/citrouille.png
 order: 4
 ---
 
-#CE1 #enquête #halloween · ⏱ 1 h
+#ce1 #enquête #halloween · ⏱ 1 h
 
 ## L'histoire
 

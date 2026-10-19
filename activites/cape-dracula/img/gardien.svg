@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 430 460" font-family="Segoe UI, Arial, sans-serif">
+<rect width="430" height="460" fill="#fbf6ee"/>
+
+<rect width="430" height="460" fill="#e8e1d3"/>
+<rect y="0" width="430" height="110" fill="#d9cfbd"/>
+
+<circle cx="370" cy="58" r="26" fill="#fff" stroke="#2c3e50" stroke-width="4"/><path d="M370 58 V40 M370 58 L383 64" stroke="#2c3e50" stroke-width="3" stroke-linecap="round"/><rect x="14" y="40" width="108" height="34" rx="4" fill="#ffffff" stroke="#8a7a5c" stroke-width="2"/><text x="68" y="62" text-anchor="middle" font-size="12" font-weight="800" fill="#5c5f77">COULOIR DES ARTS</text>
+<rect x="10" y="120" width="56" height="200" rx="4" fill="#5d8aa8" stroke="#2e4053" stroke-width="2"/><path d="M20 140 h36 M20 148 h36 M20 156 h36" stroke="#2e4053" stroke-width="2"/><rect x="52" y="210" width="6" height="18" rx="2" fill="#d5d8dc"/><rect x="70" y="120" width="56" height="200" rx="4" fill="#6c9bc0" stroke="#2e4053" stroke-width="2"/><path d="M80 140 h36 M80 148 h36 M80 156 h36" stroke="#2e4053" stroke-width="2"/><rect x="112" y="210" width="6" height="18" rx="2" fill="#d5d8dc"/><rect x="300" y="120" width="56" height="200" rx="4" fill="#5d8aa8" stroke="#2e4053" stroke-width="2"/><path d="M310 140 h36 M310 148 h36 M310 156 h36" stroke="#2e4053" stroke-width="2"/><rect x="342" y="210" width="6" height="18" rx="2" fill="#d5d8dc"/><rect x="360" y="120" width="56" height="200" rx="4" fill="#6c9bc0" stroke="#2e4053" stroke-width="2"/><path d="M370 140 h36 M370 148 h36 M370 156 h36" stroke="#2e4053" stroke-width="2"/><rect x="402" y="210" width="6" height="18" rx="2" fill="#d5d8dc"/>
+<rect y="320" width="430" height="140" fill="#b9a68a"/>
+<g stroke="#a8957a" stroke-width="2"><path d="M0 350 H430"/><path d="M0 385 H430"/><path d="M0 425 H430"/></g>
+
+<!-- Monsieur Gaspard -->
+<g transform="translate(215,0)">
+  <!-- jambes et chaussures -->
+  <rect x="-34" y="300" width="30" height="120" rx="6" fill="#2c3e50"/><rect x="4" y="300" width="30" height="120" rx="6" fill="#2c3e50"/>
+  <path d="M-40 412 h38 v16 h-44 q0 -16 6 -16 z M2 412 h38 q6 0 6 16 h-44 z" fill="#1c1c1c"/>
+  <!-- veste -->
+  <path d="M-62 180 Q-66 150 -40 140 L-14 132 L0 150 L14 132 L40 140 Q66 150 62 180 L58 310 H-58 Z" fill="#1f618d"/>
+  <path d="M0 150 V310" stroke="#154360" stroke-width="3"/>
+  <g fill="#d4ac0d"><circle cx="-8" cy="180" r="4"/><circle cx="-8" cy="215" r="4"/><circle cx="-8" cy="250" r="4"/></g>
+  <path d="M-14 132 L0 165 L14 132" fill="#ffffff"/><path d="M-4 140 L0 168 L4 140 Z" fill="#922b21"/>
+  <!-- badge -->
+  <rect x="16" y="168" width="34" height="22" rx="3" fill="#ffffff" stroke="#aab7b8"/><rect x="20" y="173" width="10" height="12" fill="#85c1e9"/>
+  <path d="M34 176 h12 M34 182 h10" stroke="#aab7b8" stroke-width="2"/>
+  <!-- bras : une main tient une lampe de poche, l'autre un trousseau de clés -->
+  <path d="M-60 170 Q-82 230 -66 286" stroke="#1f618d" stroke-width="24" stroke-linecap="round" fill="none"/>
+  <circle cx="-66" cy="292" r="12" fill="#e0ac7e"/>
+  <g transform="translate(-66,304)"><circle r="12" fill="none" stroke="#b7950b" stroke-width="3"/><path d="M-4 10 l-3 18 M4 10 l5 16 M0 12 l0 18" stroke="#b7950b" stroke-width="4" stroke-linecap="round"/></g>
+  <path d="M60 170 Q86 210 92 250" stroke="#1f618d" stroke-width="24" stroke-linecap="round" fill="none"/>
+  <circle cx="94" cy="256" r="12" fill="#e0ac7e"/>
+  <g transform="translate(108,250) rotate(-20)"><rect x="-6" y="-8" width="40" height="16" rx="4" fill="#2c3e50"/><rect x="30" y="-12" width="12" height="24" rx="3" fill="#566573"/><path d="M42 -12 L100 -40 L100 40 L42 12 Z" fill="#fff3c4" opacity=".55"/></g>
+  <!-- cou et tête -->
+  <rect x="-12" y="112" width="24" height="24" fill="#e0ac7e"/>
+  <ellipse cx="0" cy="86" rx="34" ry="38" fill="#e8b98f"/>
+  <ellipse cx="-34" cy="88" rx="6" ry="10" fill="#e0ac7e"/><ellipse cx="34" cy="88" rx="6" ry="10" fill="#e0ac7e"/>
+  <!-- moustache, sourcils, yeux, sourire -->
+  <path d="M-22 100 Q-10 92 0 100 Q10 92 22 100 Q12 110 0 104 Q-12 110 -22 100 Z" fill="#8e8e8e"/>
+  <path d="M-18 70 l12 -3 M6 67 l12 3" stroke="#7f7f7f" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="-12" cy="80" r="4" fill="#222"/><circle cx="12" cy="80" r="4" fill="#222"/>
+  <circle cx="-11" cy="79" r="1.4" fill="#fff"/><circle cx="13" cy="79" r="1.4" fill="#fff"/>
+  <path d="M-8 112 q8 6 16 0" stroke="#8a3a20" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="-22" cy="94" rx="6" ry="4" fill="#f1948a" opacity=".45"/><ellipse cx="22" cy="94" rx="6" ry="4" fill="#f1948a" opacity=".45"/>
+  <!-- casquette -->
+  <path d="M-36 66 Q-36 34 0 32 Q36 34 36 66 Z" fill="#154360"/>
+  <path d="M-38 64 H44 Q50 64 52 72 H-38 Z" fill="#0e2f44"/>
+  <rect x="-10" y="42" width="20" height="14" rx="3" fill="#d4ac0d"/>
+</g>
+<rect x="95" y="440" width="240" height="0" fill="none"/>
+
+</svg>

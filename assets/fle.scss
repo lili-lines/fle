@@ -63,3 +63,9 @@ $callout-color-caution: $fle-rouge;
 .reveal .slides section.sombre strong {
   color: #FFAC00;
 }
+
+// Page de titre : l'image de l'activité en petit, au-dessus du titre
+.reveal .slides section#title-slide {
+  padding-top: 190px;
+  text-align: center;
+}

@@ -17,6 +17,10 @@ Pendant le cours : <br>
 ::: {#liste-activites}
 :::
 
+## Ateliers {#ateliers}
+
+- [Atelier « Code & Robots » : projet pour le LIFT](ateliers/robotique-lift/index.qmd) — programmation, algorithmique et robotique sur un semestre : niveaux, séances, jeux et projets avec budget
+
 ## Liens utiles
 
 - [WordReference](https://www.wordreference.com/fr/) — dictionnaire bilingue

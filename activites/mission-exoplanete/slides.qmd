@@ -2,8 +2,12 @@
 title: "Mission Exoplanète"
 subtitle: "Une énigme dans l'espace"
 description: "Une énigme de 30 minutes sur l'espace : aider le robot Zip à trouver le mot de passe de son vaisseau."
-categories: [CE1, énigme, espace]
+categories: [ce1, énigme, espace]
 order: 2
+title-slide-attributes:
+  data-background-image: img/zip.png
+  data-background-size: auto 34%
+  data-background-position: 50% 7%
 format:
   revealjs:
     theme: [simple, ../../assets/fle.scss]

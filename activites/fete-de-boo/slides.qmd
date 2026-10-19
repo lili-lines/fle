@@ -2,12 +2,12 @@
 title: "La fête de Boo"
 subtitle: "Une énigme dans la maison hantée, < 6 ans"
 description: "Une énigme d'Halloween pour les petits : 6 missions dans les pièces de la maison hantée pour trouver à quelle heure commence la fête de Boo."
-categories: [< 6 ans, énigme, Halloween]
+categories: [< 6 ans, énigme, halloween]
 order: 9
 title-slide-attributes:
   data-background-image: img/boo.svg
-  data-background-size: 34%
-  data-background-position: 92% 50%
+  data-background-size: auto 34%
+  data-background-position: 50% 7%
 format:
   revealjs:
     theme: [simple, ../../assets/fle.scss]

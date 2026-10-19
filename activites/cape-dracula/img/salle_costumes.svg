@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 720" font-family="Segoe UI, Arial, sans-serif">
+<rect width="1280" height="720" fill="#3a2f55"/>
+
+<rect width="1280" height="720" fill="#3a2f55"/>
+<!-- mur -->
+<rect width="1280" height="590" fill="#4b3d6e"/>
+<g stroke="#56497d" stroke-width="3"><path d="M0 0 V590"/><path d="M56 0 V590"/><path d="M112 0 V590"/><path d="M168 0 V590"/><path d="M224 0 V590"/><path d="M280 0 V590"/><path d="M336 0 V590"/><path d="M392 0 V590"/><path d="M448 0 V590"/><path d="M504 0 V590"/><path d="M560 0 V590"/><path d="M616 0 V590"/><path d="M672 0 V590"/><path d="M728 0 V590"/><path d="M784 0 V590"/><path d="M840 0 V590"/><path d="M896 0 V590"/><path d="M952 0 V590"/><path d="M1008 0 V590"/><path d="M1064 0 V590"/><path d="M1120 0 V590"/><path d="M1176 0 V590"/><path d="M1232 0 V590"/></g>
+<rect y="560" width="1280" height="30" fill="#3d3159"/>
+<!-- sol en parquet -->
+<rect y="590" width="1280" height="130" fill="#6b4a33"/>
+<g stroke="#553a27" stroke-width="3"><path d="M0 620 H1280"/><path d="M0 652 H1280"/><path d="M0 686 H1280"/><path d="M140 590 V620"/><path d="M420 590 V620"/><path d="M760 590 V620"/><path d="M1060 590 V620"/><path d="M280 620 V652"/><path d="M600 620 V652"/><path d="M920 620 V652"/><path d="M1200 620 V652"/><path d="M90 652 V686"/><path d="M480 652 V686"/><path d="M830 652 V686"/><path d="M1140 652 V686"/></g>
+
+<!-- la scène du théâtre, au fond, à gauche -->
+<rect x="20" y="40" width="380" height="300" fill="#1a1426"/>
+<path d="M20 40 H400 V80 Q300 100 210 80 Q120 100 20 80 Z" fill="#a50f2d"/>
+<path d="M20 40 H400 V58 H20 Z" fill="#7b0b22"/>
+<g fill="#d4ac0d"><circle cx="40" cy="58" r="4"/><circle cx="70" cy="58" r="4"/><circle cx="100" cy="58" r="4"/><circle cx="130" cy="58" r="4"/><circle cx="160" cy="58" r="4"/><circle cx="190" cy="58" r="4"/><circle cx="220" cy="58" r="4"/><circle cx="250" cy="58" r="4"/><circle cx="280" cy="58" r="4"/><circle cx="310" cy="58" r="4"/><circle cx="340" cy="58" r="4"/><circle cx="370" cy="58" r="4"/></g>
+<path d="M20 80 Q70 200 50 340 H20 Z" fill="#a50f2d"/><path d="M400 80 Q350 200 370 340 H400 Z" fill="#a50f2d"/>
+<path d="M30 100 Q60 210 44 330 M390 100 Q360 210 376 330" stroke="#7b0b22" stroke-width="5" fill="none"/>
+<path d="M150 80 L110 340 H310 L270 80 Z" fill="#fff3c4" opacity=".15"/>
+<rect x="60" y="300" width="300" height="40" fill="#8e5a2b"/><path d="M60 300 H360" stroke="#5d3a1a" stroke-width="4"/>
+<g transform="translate(150,272)"><rect x="-26" y="-10" width="52" height="38" fill="#7f8c8d"/><path d="M-26 -10 L0 -34 L26 -10" fill="#5d6d7e"/></g>
+<g transform="translate(270,262) scale(.9)"><path d="M0 -40 C-22 -40 -26 -16 -26 0 L-26 34 L-13 26 L0 34 L13 26 L26 34 L26 0 C26 -16 22 -40 0 -40 Z" fill="#fdfefe"/><circle cx="-9" cy="-12" r="4" fill="#222"/><circle cx="9" cy="-12" r="4" fill="#222"/></g>
+<rect x="60" y="350" width="300" height="34" rx="6" fill="#fdf2c4" stroke="#8a6d45" stroke-width="2"/>
+<text x="210" y="374" text-anchor="middle" font-size="19" font-weight="800" fill="#7b0b22">LA SCÈNE · BAL 19 H</text>
+<!-- projecteurs -->
+<g fill="#2c3e50"><path d="M120 10 l28 18 l-10 16 l-28 -18 z"/><path d="M300 10 l-28 18 l10 16 l28 -18 z"/></g>
+<path d="M130 0 V12 M290 0 V12" stroke="#222" stroke-width="3"/>
+
+<!-- affiches au mur -->
+<g transform="translate(470,60)"><rect width="110" height="150" fill="#f5e6c4" stroke="#8a6d45" stroke-width="3"/>
+<text x="55" y="30" text-anchor="middle" font-size="15" font-weight="800" fill="#7b0b22">DRACULA</text>
+<path d="M30 130 L55 50 L80 130 Z" fill="#1b1b2f"/><path d="M38 125 L55 64 L72 125 Z" fill="#a50f2d"/><circle cx="55" cy="56" r="10" fill="#e8d5b5"/></g>
+<g transform="translate(600,80)"><rect width="90" height="120" fill="#d6eaf8" stroke="#2e86c1" stroke-width="3"/>
+<text x="45" y="26" text-anchor="middle" font-size="13" font-weight="800" fill="#1b4f72">HAMLET</text>
+<circle cx="45" cy="70" r="20" fill="#ecf0f1" stroke="#555" stroke-width="2"/><circle cx="38" cy="66" r="4" fill="#222"/><circle cx="52" cy="66" r="4" fill="#222"/></g>
+
+<!-- miroir de loge avec ampoules -->
+<rect x="740" y="60" width="200" height="150" rx="6" fill="#2c2546"/>
+<rect x="756" y="76" width="168" height="118" fill="#a9cce3"/>
+<path d="M780 100 l40 -14 M780 122 l70 -24" stroke="#ffffff" stroke-width="6" opacity=".55" stroke-linecap="round"/>
+<circle cx="744" cy="64" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="776" cy="64" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="808" cy="64" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="840" cy="64" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="872" cy="64" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="904" cy="64" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="936" cy="64" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="744" cy="206" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="776" cy="206" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="808" cy="206" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="840" cy="206" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="872" cy="206" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="904" cy="206" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="936" cy="206" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="744" cy="92" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="744" cy="121" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="744" cy="149" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="744" cy="178" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="936" cy="92" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="936" cy="121" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="936" cy="149" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/><circle cx="936" cy="178" r="8" fill="#fff3c4" stroke="#f4d03f" stroke-width="2"/>
+<rect x="730" y="214" width="220" height="14" fill="#8e5a2b"/>
+<g><rect x="760" y="196" width="14" height="18" rx="3" fill="#c0392b"/><rect x="782" y="200" width="22" height="14" rx="3" fill="#f5b7b1"/><circle cx="830" cy="206" r="8" fill="#f4d03f"/><path d="M880 214 l8 -26 l8 26 z" fill="#7d3c98"/></g>
+
+<!-- étagère des chapeaux et des masques -->
+<rect x="990" y="120" width="260" height="10" fill="#8e5a2b"/><rect x="990" y="210" width="260" height="10" fill="#8e5a2b"/>
+<g transform="translate(1030,120)"><ellipse cx="0" cy="-2" rx="30" ry="6" fill="#1c1c1c"/><path d="M-16 -2 L4 -50 L16 -2 Z" fill="#1c1c1c"/></g>
+<g transform="translate(1100,118)"><rect x="-18" y="-34" width="36" height="34" fill="#2c2c2c"/><ellipse cx="0" cy="0" rx="28" ry="6" fill="#2c2c2c"/><rect x="-18" y="-12" width="36" height="6" fill="#a50f2d"/></g>
+<g transform="translate(1180,118)"><path d="M-26 0 Q-26 -30 0 -30 Q26 -30 26 0 Z" fill="#f39c12"/><path d="M-30 0 h60" stroke="#ca6f1e" stroke-width="5"/></g>
+<g transform="translate(1035,190)"><path d="M-22 -14 Q0 -24 22 -14 Q22 14 0 18 Q-22 14 -22 -14 Z" fill="#f4f6f7" stroke="#aab7b8" stroke-width="2"/><ellipse cx="-8" cy="-4" rx="5" ry="3" fill="#2c3e50"/><ellipse cx="8" cy="-4" rx="5" ry="3" fill="#2c3e50"/><path d="M-8 8 q8 6 16 0" stroke="#c0392b" stroke-width="2" fill="none"/></g>
+<g transform="translate(1110,190)"><path d="M-22 -14 Q0 -24 22 -14 Q22 14 0 18 Q-22 14 -22 -14 Z" fill="#f9e79f" stroke="#d4ac0d" stroke-width="2"/><ellipse cx="-8" cy="-4" rx="5" ry="3" fill="#2c3e50"/><ellipse cx="8" cy="-4" rx="5" ry="3" fill="#2c3e50"/><path d="M-8 12 q8 -6 16 0" stroke="#2c3e50" stroke-width="2" fill="none"/></g>
+<g transform="translate(1190,192)"><circle r="18" fill="#e74c3c"/><circle cx="-6" cy="-4" r="3" fill="#fff"/><circle cx="6" cy="-4" r="3" fill="#fff"/><circle cy="6" r="5" fill="#c0392b"/></g>
+
+<!-- portants de costumes -->
+<rect x="430" y="234" width="284" height="9" rx="4" fill="#95a5a6"/><rect x="436" y="234" width="7" height="356" fill="#95a5a6"/><rect x="701" y="234" width="7" height="356" fill="#95a5a6"/><circle cx="440" cy="594" r="8" fill="#555"/><circle cx="704" cy="594" r="8" fill="#555"/><path d="M468 238 q0 -10 6 -10" stroke="#555" stroke-width="2" fill="none"/><path d="M446 252 L468 240 L490 252 L496 470 L440 470 Z" fill="#c0392b" stroke="#00000030" stroke-width="2"/><path d="M520 238 q0 -10 6 -10" stroke="#555" stroke-width="2" fill="none"/><path d="M498 252 L520 240 L542 252 L548 510 L492 510 Z" fill="#f4d03f" stroke="#00000030" stroke-width="2"/><path d="M572 238 q0 -10 6 -10" stroke="#555" stroke-width="2" fill="none"/><path d="M550 252 L572 240 L594 252 L600 470 L544 470 Z" fill="#2e86c1" stroke="#00000030" stroke-width="2"/><path d="M624 238 q0 -10 6 -10" stroke="#555" stroke-width="2" fill="none"/><path d="M602 252 L624 240 L646 252 L652 530 L596 530 Z" fill="#8e44ad" stroke="#00000030" stroke-width="2"/><path d="M676 238 q0 -10 6 -10" stroke="#555" stroke-width="2" fill="none"/><path d="M654 252 L676 240 L698 252 L704 480 L648 480 Z" fill="#27ae60" stroke="#00000030" stroke-width="2"/>
+<rect x="970" y="234" width="232" height="9" rx="4" fill="#95a5a6"/><rect x="976" y="234" width="7" height="356" fill="#95a5a6"/><rect x="1189" y="234" width="7" height="356" fill="#95a5a6"/><circle cx="980" cy="594" r="8" fill="#555"/><circle cx="1192" cy="594" r="8" fill="#555"/><path d="M1008 238 q0 -10 6 -10" stroke="#555" stroke-width="2" fill="none"/><path d="M986 252 L1008 240 L1030 252 L1036 480 L980 480 Z" fill="#e67e22" stroke="#00000030" stroke-width="2"/><path d="M1060 238 q0 -10 6 -10" stroke="#555" stroke-width="2" fill="none"/><path d="M1038 252 L1060 240 L1082 252 L1088 530 L1032 530 Z" fill="#ecf0f1" stroke="#00000030" stroke-width="2"/><path d="M1112 238 q0 -10 6 -10" stroke="#555" stroke-width="2" fill="none"/><path d="M1090 252 L1112 240 L1134 252 L1140 490 L1084 490 Z" fill="#1c1c1c" stroke="#00000030" stroke-width="2"/><path d="M1164 238 q0 -10 6 -10" stroke="#555" stroke-width="2" fill="none"/><path d="M1142 252 L1164 240 L1186 252 L1192 520 L1136 520 Z" fill="#f1948a" stroke="#00000030" stroke-width="2"/>
+
+<!-- le cintre vide, au milieu -->
+<g transform="translate(790,330)">
+  <path d="M-60 -6 L0 -30 L60 -6" stroke="#bdc3c7" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M0 -30 q0 -16 12 -16 q12 0 9 12" stroke="#bdc3c7" stroke-width="5" fill="none"/>
+  <path d="M0 -46 V-96" stroke="#bdc3c7" stroke-width="3"/>
+  <rect x="-86" y="10" width="172" height="38" rx="8" fill="#fdf2c4" stroke="#8a6d45" stroke-width="3"/>
+  <text y="36" text-anchor="middle" font-size="18" font-weight="800" fill="#7b0b22">CAPE DE DRACULA</text>
+  <text y="112" text-anchor="middle" font-size="70" font-weight="800" fill="#FFAC00">?</text>
+</g>
+
+<!-- mannequin de couture -->
+<g transform="translate(330,470)">
+  <path d="M0 110 V40" stroke="#5d3a1a" stroke-width="6"/><path d="M-30 118 h60" stroke="#5d3a1a" stroke-width="6"/>
+  <path d="M-36 -60 Q-44 -10 -26 40 H26 Q44 -10 36 -60 Q0 -76 -36 -60 Z" fill="#e5c9a8" stroke="#b9975b" stroke-width="2"/>
+  <path d="M-4 -74 h8 v-10 h-8 z" fill="#5d3a1a"/>
+  <path d="M-30 -20 Q0 -10 30 -20" stroke="#c0392b" stroke-width="2" stroke-dasharray="4 3" fill="none"/>
+</g>
+
+<!-- machine à coudre sur une table -->
+<rect x="620" y="470" width="160" height="12" fill="#8e5a2b"/><rect x="630" y="482" width="10" height="108" fill="#8e5a2b"/><rect x="760" y="482" width="10" height="108" fill="#8e5a2b"/>
+<g transform="translate(700,470)"><path d="M-50 0 V-26 Q-50 -44 -30 -44 H34 V-20 H-26 V0 Z" fill="#2e86c1"/><rect x="28" y="-46" width="16" height="46" rx="4" fill="#2e86c1"/><circle cx="-34" cy="-30" r="7" fill="#d6eaf8"/></g>
+<g transform="translate(650,462)"><circle r="7" fill="#e74c3c"/><circle cx="16" cy="2" r="6" fill="#27ae60"/></g>
+
+<!-- malle ouverte -->
+<g transform="translate(140,600)">
+  <rect x="-80" y="-40" width="160" height="80" rx="8" fill="#8e5a2b" stroke="#5d3a1a" stroke-width="4"/>
+  <path d="M-80 -40 L-70 -100 H70 L80 -40" fill="#a0612f" stroke="#5d3a1a" stroke-width="4"/>
+  <path d="M-60 -40 q20 -30 40 -6 q20 -30 50 -4" fill="#8e44ad"/><path d="M10 -42 l18 -30 l10 30 z" fill="#f4d03f"/>
+  <path d="M-80 -14 H80" stroke="#5d3a1a" stroke-width="4"/><rect x="-10" y="-20" width="20" height="16" fill="#d4ac0d"/>
+</g>
+
+<!-- citrouille et paillettes vertes -->
+<g transform="translate(1170,630) scale(1.2)">
+  <ellipse rx="30" ry="24" fill="#e67e22"/><ellipse rx="12" ry="24" fill="#d35400" opacity=".45"/>
+  <path d="M-3 -21 L-1 -33 L3 -33 L3 -21 Z" fill="#27ae60"/>
+  <path d="M3 -27 Q16 -38 26 -30 Q18 -22 3 -24 Z" fill="#2ecc71"/>
+  <path d="M-14 -6 l6 -8 l6 8 z M8 -6 l6 -8 l6 8 z" fill="#3b1f0a"/><path d="M-14 8 q14 12 28 0" stroke="#3b1f0a" stroke-width="3" fill="none"/>
+</g>
+<g fill="#2ecc71"><circle cx="700" cy="620" r="3.5"/><circle cx="725" cy="640" r="3.5"/><circle cx="760" cy="615" r="3.5"/><circle cx="790" cy="650" r="3.5"/><circle cx="840" cy="625" r="3.5"/><circle cx="870" cy="660" r="3.5"/><circle cx="735" cy="668" r="3.5"/><circle cx="815" cy="605" r="3.5"/><circle cx="890" cy="635" r="3.5"/><circle cx="680" cy="650" r="3.5"/><circle cx="760" cy="690" r="3.5"/><circle cx="845" cy="690" r="3.5"/></g>
+
+</svg>

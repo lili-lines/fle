@@ -1,7 +1,7 @@
 ---
 title: "La fête de Boo, énigme < 6 ans"
 description: "Une énigme d'Halloween pour les petits : 6 missions dans les pièces de la maison hantée pour trouver à quelle heure commence la fête de Boo."
-categories: [< 6ans, enquête, halloween]
+categories: [< 6 ans, enquête, halloween]
 image: img/boo.svg
 order: 9
 ---

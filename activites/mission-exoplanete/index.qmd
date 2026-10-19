@@ -1,12 +1,12 @@
 ---
 title: "Mission Exoplanète, énigme CE1"
 description: "Une énigme de 30 minutes sur l'espace : aider le robot Zip à trouver le mot de passe de son vaisseau."
-categories: [CE1, énigme, espace]
+categories: [ce1, énigme, espace]
 image: img/zip.png
 order: 2
 ---
 
-#CE1 #énigme #espace · ⏱ 30 min
+#ce1 #énigme #espace · ⏱ 30 min
 
 ## L'histoire
 

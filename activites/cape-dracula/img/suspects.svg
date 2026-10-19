@@ -1,0 +1,132 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" font-family="Segoe UI, Arial, sans-serif">
+<rect width="1200" height="460" fill="#f4efe6"/>
+<rect x="8" y="8" width="186" height="444" rx="12" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><path d="M24 348 h154" stroke="#e3d8c4" stroke-width="3"/><g transform="translate(101,0)">
+<!-- cheveux longs ondulés derrière -->
+<path d="M-26 92 Q-40 150 -30 196 Q-20 210 -14 196 Q-22 150 -14 112 Z M26 92 Q40 150 30 196 Q20 210 14 196 Q22 150 14 112 Z" fill="#2b1a3d"/>
+<rect x="-10" y="118" width="20" height="14" fill="#f2c9a0"/>
+<!-- bras -->
+<path d="M-30 140 Q-50 175 -44 212" stroke="#4a235a" stroke-width="13" stroke-linecap="round" fill="none"/>
+<path d="M30 140 Q50 160 58 176" stroke="#4a235a" stroke-width="13" stroke-linecap="round" fill="none"/>
+<circle cx="-44" cy="216" r="7" fill="#f2c9a0"/>
+<!-- balai -->
+<path d="M66 70 L52 300" stroke="#8e5a2b" stroke-width="6" stroke-linecap="round"/>
+<path d="M52 296 l-4 8 h12 z" fill="#c0392b"/>
+<path d="M44 304 Q34 330 30 350 L72 350 Q66 330 60 304 Z" fill="#d4ac0d"/>
+<path d="M40 322 L36 348 M47 314 L44 349 M54 314 L56 349 M60 318 L66 348" stroke="#b7950b" stroke-width="2"/>
+<path d="M42 312 h22" stroke="#7b241c" stroke-width="4"/>
+<!-- bottes noires -->
+<path d="M-22 288 h16 v44 h6 q5 0 5 14 h-31 z M6 288 h16 v44 h6 q5 0 5 14 h-31 z" fill="#1c1c1c"/>
+<path d="M-22 296 h16 M6 296 h16" stroke="#555" stroke-width="2"/>
+<!-- robe : bustier ajusté + jupe évasée à pointes -->
+<path d="M-24 130 Q0 122 24 130 L22 188 Q0 194 -22 188 Z" fill="#6c3483"/>
+<path d="M-6 136 L6 146 M6 136 L-6 146 M-6 152 L6 162 M6 152 L-6 162 M-6 168 L6 178 M6 168 L-6 178" stroke="#f4d03f" stroke-width="1.6"/>
+<path d="M-24 130 Q-34 134 -32 146 L-24 150 Z M24 130 Q34 134 32 146 L24 150 Z" fill="#8e44ad"/>
+<path d="M-22 192 L22 192 L58 286 L44 280 L34 296 L22 282 L8 298 L0 284 L-8 298 L-22 282 L-34 296 L-44 280 L-58 286 Z" fill="#7d3c98"/>
+<path d="M-10 194 L-26 290 M10 194 L26 290 M0 194 V292" stroke="#5b2c6f" stroke-width="2"/>
+<!-- ceinture verte à boucle -->
+<rect x="-24" y="184" width="48" height="10" rx="2" fill="#27ae60"/><rect x="-6" y="182" width="12" height="14" rx="2" fill="none" stroke="#f4d03f" stroke-width="3"/>
+<!-- collier -->
+<path d="M-9 128 Q0 136 9 128" stroke="#f4d03f" stroke-width="2" fill="none"/><circle cx="0" cy="135" r="3" fill="#2ecc71"/>
+<!-- tête -->
+<g transform="translate(0,100)"><circle cx="0" cy="0" r="22" fill="#f2c9a0"/>
+<circle cx="-8" cy="1" r="2.6" fill="#222"/><circle cx="8" cy="1" r="2.6" fill="#222"/>
+<path d="M-6 10 q6 5 12 0" stroke="#8a3a20" stroke-width="2" fill="none"/></g>
+<path d="M-23 96 Q-24 76 0 74 Q24 76 23 96 Q12 84 0 86 Q-12 84 -23 96 Z" fill="#2b1a3d"/>
+<path d="M-14 97 l-4 -3 M14 97 l4 -3" stroke="#222" stroke-width="1.5"/>
+<path d="M-6 110 q6 4 12 0" stroke="#a93226" stroke-width="2.5" fill="none"/>
+<!-- chapeau pointu à bout recourbé -->
+<ellipse cx="0" cy="80" rx="50" ry="9" fill="#1c1c1c"/>
+<path d="M-24 80 Q-14 40 0 26 Q10 14 26 10 Q16 22 14 36 Q18 58 24 80 Z" fill="#1c1c1c"/>
+<path d="M-22 72 Q0 66 22 72 L23 78 Q0 72 -23 78 Z" fill="#7d3c98"/>
+<rect x="-6" y="69" width="12" height="10" rx="1" fill="none" stroke="#f4d03f" stroke-width="2.5"/>
+<circle cx="60" cy="178" r="7" fill="#f2c9a0"/>
+</g><text x="101" y="388" text-anchor="middle" font-size="22" font-weight="800" fill="#000149">Léa</text><text x="101" y="416" text-anchor="middle" font-size="17" fill="#5c5f77">la sorcière</text>
+<rect x="206" y="8" width="186" height="444" rx="12" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><path d="M222 348 h154" stroke="#e3d8c4" stroke-width="3"/><g transform="translate(299,0)">
+<rect x="-12" y="118" width="24" height="12" fill="#e8b98f"/>
+<path d="M-36 128 L-70 300 L-30 270 Z M36 128 L70 300 L30 270 Z" fill="#1c1c1c"/>
+<path d="M-30 128 L30 128 L34 230 L-34 230 Z" fill="#1c1c1c"/>
+<path d="M-10 128 L0 175 L10 128 Z" fill="#ffffff"/><path d="M-8 132 L0 137 L-8 142 Z M8 132 L0 137 L8 142 Z" fill="#c0392b"/>
+<rect x="-26" y="228" width="22" height="108" fill="#1c1c1c"/><rect x="4" y="228" width="22" height="108" fill="#1c1c1c"/>
+<path d="M-30 336 h28 v10 h-28 z M2 336 h28 v10 h-28 z" fill="#333"/>
+<path d="M-36 128 L-44 108 L-24 122 Z M36 128 L44 108 L24 122 Z" fill="#a50f2d"/>
+<g transform="translate(0,100)"><circle cx="0" cy="0" r="22" fill="#e8b98f"/><path d="M-23 -2 Q-24 -27 0 -27 Q24 -27 23 -2 Q16 -15 0 -15 Q-16 -15 -23 -2 Z" fill="#111111"/>
+<circle cx="-8" cy="1" r="2.6" fill="#222"/><circle cx="8" cy="1" r="2.6" fill="#222"/>
+<path d="M-6 10 q6 5 12 0" stroke="#8a3a20" stroke-width="2" fill="none"/></g>
+<path d="M-4 112 l2 5 l2 -5 M4 112 l2 5 l2 -5" stroke="#fff" stroke-width="1.5" fill="#fff"/>
+</g><text x="299" y="388" text-anchor="middle" font-size="22" font-weight="800" fill="#000149">Hugo</text><text x="299" y="416" text-anchor="middle" font-size="17" fill="#5c5f77">le vampire</text>
+<rect x="404" y="8" width="186" height="444" rx="12" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><path d="M420 348 h154" stroke="#e3d8c4" stroke-width="3"/><g transform="translate(497,0)">
+<rect x="-12" y="118" width="24" height="12" fill="#a9c4a0"/>
+<path d="M-32 128 L32 128 L34 210 L-34 210 Z" fill="#27ae60"/>
+<path d="M-34 210 l8 -10 l8 10 l8 -10 l8 10 l8 -10 l8 10 l8 -10 l10 10" fill="#27ae60"/>
+<path d="M-6 150 l6 10 l6 -10 M14 180 l4 8" stroke="#1e8449" stroke-width="2" fill="none"/>
+<path d="M32 140 L48 205" stroke="#a9c4a0" stroke-width="11" stroke-linecap="round"/><path d="M-32 140 L-48 205" stroke="#a9c4a0" stroke-width="11" stroke-linecap="round"/>
+<rect x="-28" y="208" width="25" height="124" fill="#2e5c8a"/><rect x="3" y="208" width="25" height="124" fill="#2e5c8a"/>
+<path d="M-24 250 l12 6 M8 280 l14 -4" stroke="#aed6f1" stroke-width="3"/>
+<g fill="#7b5e3b" opacity=".7"><circle cx="-14" cy="300" r="5"/><circle cx="18" cy="236" r="4"/><circle cx="-20" cy="226" r="3"/></g>
+<path d="M-38 346 q0 -20 14 -20 l8 6 h16 v14 z M0 346 q0 -20 14 -20 l8 6 h16 v14 z" fill="#ffffff" stroke="#888" stroke-width="2"/><path d="M-38 342 h38 M0 342 h38" stroke="#e74c3c" stroke-width="4"/><path d="M-22 330 l6 4 M-18 328 l6 4 M16 330 l6 4 M20 328 l6 4" stroke="#555" stroke-width="1.5"/>
+<g transform="translate(0,100)"><circle cx="0" cy="0" r="22" fill="#a9c4a0"/><path d="M-24 2 Q-26 -26 0 -27 Q26 -26 24 2 L26 30 L16 30 L16 -6 Q0 -16 -16 -6 L-16 30 L-26 30 Z" fill="#5b4636"/>
+<circle cx="-8" cy="1" r="2.6" fill="#7b241c"/><circle cx="8" cy="1" r="2.6" fill="#7b241c"/>
+<path d="M-6 10 q6 5 12 0" stroke="#8a3a20" stroke-width="2" fill="none"/></g>
+<path d="M-12 -6 l6 4" stroke="#5b4636" stroke-width="2"/>
+</g><text x="497" y="388" text-anchor="middle" font-size="22" font-weight="800" fill="#000149">Inès</text><text x="497" y="416" text-anchor="middle" font-size="17" fill="#5c5f77">le zombie</text>
+<rect x="602" y="8" width="186" height="444" rx="12" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><path d="M618 348 h154" stroke="#e3d8c4" stroke-width="3"/><g transform="translate(695,0)">
+<rect x="-12" y="118" width="24" height="12" fill="#1c1c1c"/>
+<path d="M-28 128 L28 128 L28 212 L-28 212 Z" fill="#1c1c1c"/>
+<path d="M-16 140 h32 M-18 154 h36 M-18 168 h36 M-16 182 h32 M0 136 v66" stroke="#f4f6f7" stroke-width="4"/>
+<path d="M28 138 L40 205 M-28 138 L-40 205" stroke="#1c1c1c" stroke-width="11" stroke-linecap="round"/>
+<path d="M30 150 L38 196 M-30 150 L-38 196" stroke="#f4f6f7" stroke-width="3"/>
+<rect x="-24" y="210" width="20" height="124" fill="#1c1c1c"/><rect x="4" y="210" width="20" height="124" fill="#1c1c1c"/>
+<path d="M-14 222 V322 M14 222 V322" stroke="#f4f6f7" stroke-width="4"/><circle cx="-14" cy="272" r="5" fill="#f4f6f7"/><circle cx="14" cy="272" r="5" fill="#f4f6f7"/>
+<path d="M-28 334 h26 v12 h-28 z M2 334 h26 v12 h-26 z" fill="#333"/>
+<g transform="translate(0,100)"><circle r="22" fill="#f4f6f7"/><circle cx="-8" cy="-2" r="6" fill="#1c1c1c"/><circle cx="8" cy="-2" r="6" fill="#1c1c1c"/><path d="M-3 10 l3 -5 l3 5 z" fill="#1c1c1c"/><path d="M-10 15 h20 M-6 12 v6 M0 12 v6 M6 12 v6" stroke="#1c1c1c" stroke-width="1.5"/></g>
+</g><text x="695" y="388" text-anchor="middle" font-size="22" font-weight="800" fill="#000149">Nathan</text><text x="695" y="416" text-anchor="middle" font-size="17" fill="#5c5f77">le squelette</text>
+<rect x="800" y="8" width="186" height="444" rx="12" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><path d="M816 348 h154" stroke="#e3d8c4" stroke-width="3"/><g transform="translate(893,0)">
+<!-- tresses rousses -->
+<path d="M-20 100 Q-34 130 -28 160" stroke="#c0392b" stroke-width="10" stroke-linecap="round" fill="none"/>
+<path d="M20 100 Q34 130 28 160" stroke="#c0392b" stroke-width="10" stroke-linecap="round" fill="none"/>
+<circle cx="-28" cy="162" r="5" fill="#27ae60"/><circle cx="28" cy="162" r="5" fill="#27ae60"/>
+<rect x="-10" y="118" width="20" height="14" fill="#f5d3b0"/>
+<!-- bras -->
+<path d="M-50 168 Q-64 200 -60 228" stroke="#f5d3b0" stroke-width="10" stroke-linecap="round" fill="none"/>
+<path d="M50 168 Q64 200 60 228" stroke="#f5d3b0" stroke-width="10" stroke-linecap="round" fill="none"/>
+<!-- collants verts et bottes marron -->
+<rect x="-22" y="250" width="16" height="44" fill="#27ae60"/><rect x="6" y="250" width="16" height="44" fill="#27ae60"/>
+<path d="M-22 256 h16 M6 256 h16 M-22 266 h16 M6 266 h16 M-22 276 h16 M6 276 h16" stroke="#1e8449" stroke-width="2"/>
+<path d="M-26 290 h22 v42 h4 q4 0 4 14 h-34 z M4 290 h22 v42 h4 q4 0 4 14 h-34 z" fill="#8e5a2b"/>
+<path d="M-26 296 h22 M4 296 h22" stroke="#6e4520" stroke-width="4"/>
+<!-- robe citrouille : courte et large, avec des côtes -->
+<path d="M-18 134 Q-70 150 -64 204 Q-60 246 -26 258 L26 258 Q60 246 64 204 Q70 150 18 134 Z" fill="#e67e22"/>
+<path d="M-18 136 Q-44 196 -24 256 M18 136 Q44 196 24 256" stroke="#ca6f1e" stroke-width="5" fill="none"/>
+<path d="M-6 134 Q-14 196 -8 258 M6 134 Q14 196 8 258" stroke="#f0a04b" stroke-width="4" fill="none" opacity=".8"/>
+<!-- visage de citrouille -->
+<path d="M-24 186 l9 -12 l9 12 z M6 186 l9 -12 l9 12 z" fill="#4a2508"/>
+<path d="M-24 206 Q0 226 24 206 L18 212 L12 206 L6 214 L0 207 L-6 214 L-12 206 L-18 212 Z" fill="#4a2508"/>
+<!-- col de feuilles vertes -->
+<path d="M-26 134 Q-36 124 -22 120 Q-16 132 -8 128 Q-6 116 4 122 Q8 132 14 126 Q24 116 28 128 Q34 136 22 140 Q0 146 -22 140 Z" fill="#2ecc71"/>
+<path d="M-18 130 l6 6 M0 128 v8 M16 130 l-6 6" stroke="#1e8449" stroke-width="2"/>
+<!-- paillettes vertes -->
+<g fill="#58d68d"><circle cx="-40" cy="230" r="2.4"/><circle cx="38" cy="236" r="2.4"/><circle cx="-12" cy="244" r="2"/><circle cx="46" cy="178" r="2"/><circle cx="-48" cy="182" r="2"/><circle cx="20" cy="248" r="2"/></g>
+<circle cx="-60" cy="232" r="6" fill="#f5d3b0"/><circle cx="60" cy="232" r="6" fill="#f5d3b0"/>
+<!-- tête et bonnet vert à pompon -->
+<g transform="translate(0,100)"><circle cx="0" cy="0" r="22" fill="#f5d3b0"/><path d="M-23 -2 Q-24 -27 0 -27 Q24 -27 23 -2 Q16 -15 0 -15 Q-16 -15 -23 -2 Z" fill="#c0392b"/>
+<circle cx="-8" cy="1" r="2.6" fill="#222"/><circle cx="8" cy="1" r="2.6" fill="#222"/>
+<path d="M-6 10 q6 5 12 0" stroke="#8a3a20" stroke-width="2" fill="none"/>
+<path d="M-24 -6 Q-24 -34 0 -34 Q24 -34 24 -6 Z" fill="#27ae60"/>
+<path d="M-14 -30 v22 M-4 -34 v26 M6 -34 v26 M16 -30 v22" stroke="#1e8449" stroke-width="2"/>
+<rect x="-26" y="-10" width="52" height="9" rx="4" fill="#1e8449"/>
+<circle cx="0" cy="-38" r="8" fill="#1e8449"/>
+<path d="M6 -40 q12 -8 8 -18 q-4 -6 -8 0" stroke="#27ae60" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+<g fill="#abebc6"><circle cx="-16" cy="-20" r="1.8"/><circle cx="12" cy="-24" r="1.8"/><circle cx="2" cy="-14" r="1.8"/></g>
+<circle cx="-14" cy="9" r="4" fill="#f1948a" opacity=".5"/><circle cx="14" cy="9" r="4" fill="#f1948a" opacity=".5"/>
+<g fill="#d68910" opacity=".7"><circle cx="-12" cy="5" r="1"/><circle cx="-16" cy="7" r="1"/><circle cx="12" cy="5" r="1"/><circle cx="16" cy="7" r="1"/></g></g>
+</g><text x="893" y="388" text-anchor="middle" font-size="22" font-weight="800" fill="#000149">Chloé</text><text x="893" y="416" text-anchor="middle" font-size="17" fill="#5c5f77">la citrouille</text>
+<rect x="998" y="8" width="186" height="444" rx="12" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><path d="M1014 348 h154" stroke="#e3d8c4" stroke-width="3"/><g transform="translate(1091,0)">
+<rect x="-12" y="118" width="24" height="12" fill="#f4f1ea"/>
+<path d="M-32 128 L32 128 L32 210 L-32 210 Z" fill="#f4f1ea"/>
+<path d="M32 140 L44 205 M-32 140 L-44 205" stroke="#f4f1ea" stroke-width="12" stroke-linecap="round"/>
+<rect x="-28" y="208" width="25" height="126" fill="#f4f1ea"/><rect x="3" y="208" width="25" height="126" fill="#f4f1ea"/>
+<g stroke="#cfc6b4" stroke-width="2.5"><path d="M-32 140 l64 8 M-32 158 l64 -6 M-32 176 l64 8 M-32 196 l64 -8 M-28 228 l25 6 M-28 256 l25 -6 M-28 284 l25 6 M-28 312 l25 -6 M3 236 l25 -6 M3 264 l25 6 M3 292 l25 -6 M3 320 l25 6"/></g>
+<path d="M-30 334 h28 v12 h-28 z M2 334 h28 v12 h-28 z" fill="#ece6d8" stroke="#cfc6b4"/>
+<g transform="translate(0,100)"><circle r="22" fill="#f4f1ea"/><g stroke="#cfc6b4" stroke-width="2.5"><path d="M-22 -10 h44 M-22 10 h44 M-20 -18 l40 4 M-20 18 l40 -4"/></g><rect x="-14" y="-4" width="28" height="8" fill="#7d5a3c"/><circle cx="-7" cy="0" r="2.5" fill="#fff"/><circle cx="7" cy="0" r="2.5" fill="#fff"/></g>
+</g><text x="1091" y="388" text-anchor="middle" font-size="22" font-weight="800" fill="#000149">Malik</text><text x="1091" y="416" text-anchor="middle" font-size="17" fill="#5c5f77">la momie</text>
+</svg>

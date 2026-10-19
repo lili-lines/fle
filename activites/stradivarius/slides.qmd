@@ -2,12 +2,12 @@
 title: "Le Stradivarius disparu"
 subtitle: "Une enquête musicale, FLE B"
 description: "Une enquête façon Cluedo dans les coulisses d'un concert : qui a volé le violon du soliste pendant l'entracte ?"
-categories: [B, fle, enquête, musique]
+categories: [b, fle, enquête, musique]
 order: 6
 title-slide-attributes:
   data-background-image: img/violon.svg
-  data-background-size: 32%
-  data-background-position: 92% 50%
+  data-background-size: auto 34%
+  data-background-position: 50% 7%
 format:
   revealjs:
     theme: [simple, ../../assets/fle.scss]

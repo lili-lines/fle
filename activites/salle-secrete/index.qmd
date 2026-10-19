@@ -1,12 +1,12 @@
 ---
 title: "La salle secrète de l'école, enquête CE2"
 description: "Une enquête d'une heure, façon Cluedo : retrouver la porte de la salle secrète cachée dans l'école, grâce au carnet d'une élève de 1954."
-categories: [CE2, enquête, Halloween]
+categories: [ce2, enquête, halloween]
 image: img/cle.svg
 order: 5
 ---
 
-#CE2 #enquête #Halloween · ⏱ 1 h
+#ce2 #enquête #halloween · ⏱ 1 h
 
 ## L'histoire
 

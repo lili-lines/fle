@@ -1,12 +1,12 @@
 ---
 title: "Percy Jackson : le taxi magique, FLE A1"
 description: "Une énigme de 2 heures autour d'un extrait de Percy Jackson : 7 activités, 7 lettres, un mot de passe."
-categories: [A1, énigme, littérature]
+categories: [a1, énigme, littérature]
 image: img/personnages.png
 order: 3
 ---
 
-#A1 #énigme #littérature · ⏱ 2 h
+#a1 #énigme #littérature · ⏱ 2 h
 
 ## L'histoire
 

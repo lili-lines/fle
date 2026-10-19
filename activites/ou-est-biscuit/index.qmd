@@ -1,12 +1,12 @@
 ---
 title: "Où est Biscuit ?, enquête FLE A1.2"
 description: "Une enquête très guidée dans la ville : retrouver Biscuit, le petit chien de l'animalerie, avec les lieux, les directions et les points cardinaux."
-categories: [A1, enquête, ville]
+categories: [a1, enquête, ville]
 image: img/biscuit.svg
 order: 8
 ---
 
-#A1 #enquête #ville · ⏱ 1 h
+#a1 #enquête #ville · ⏱ 1 h
 
 ## L'histoire
 

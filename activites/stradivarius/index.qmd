@@ -1,12 +1,12 @@
 ---
 title: "Le Stradivarius disparu, enquête FLE B"
 description: "Une enquête façon Cluedo dans les coulisses d'un concert : qui a volé le violon du soliste pendant l'entracte ?"
-categories: [B, enquête, musique]
+categories: [b, enquête, musique]
 image: img/violon.svg
 order: 6
 ---
 
-#B #enquête #musique · ⏱ 1-2 h
+#b #enquête #musique · ⏱ 1-2 h
 
 ## L'histoire
 
