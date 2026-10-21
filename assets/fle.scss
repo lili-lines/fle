@@ -69,3 +69,42 @@ $callout-color-caution: $fle-rouge;
   padding-top: 190px;
   text-align: center;
 }
+
+// Livre-jeu : boutons de choix qui renvoient vers une autre diapo
+.reveal a.choix {
+  display: inline-block;
+  margin: 0.2em 0.4em 0.2em 0;
+  padding: 0.3em 0.9em;
+  border-radius: 14px;
+  background: $fle-violet;
+  color: #ffffff !important;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 3px 0 #2a0f3d;
+}
+.reveal a.choix:hover { background: #5e2a85; }
+.reveal a.retour {
+  display: inline-block;
+  margin-top: 0.3em;
+  padding: 0.25em 0.8em;
+  border-radius: 14px;
+  background: $fle-orange;
+  color: $fle-marine !important;
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 3px 0 #b36b00;
+}
+
+// Titre plus petit (classe .titre-petit), pour les diapos plein écran chargées (plans)
+.reveal .slides section.titre-petit h2 {
+  font-size: 1.15em;
+  margin-top: -0.45em;
+}
+
+// Titre sur un petit bandeau blanc (classe .titre-bandeau), pour les images claires en plein écran
+.reveal .slides section.titre-bandeau h2 {
+  display: inline-block;
+  background: rgba(255, 255, 255, .8);
+  padding: 0 .3em;
+  border-radius: 10px;
+}

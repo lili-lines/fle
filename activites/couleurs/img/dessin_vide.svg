@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 340" font-family="Segoe UI, Arial, sans-serif">
+
+<rect x="6" y="6" width="808" height="328" rx="16" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/>
+<rect x="18" y="18" width="784" height="304" rx="10" fill="none" stroke="#e5e7e9" stroke-width="2" stroke-dasharray="10 8"/>
+<g transform="translate(728,262) scale(.62)">
+  <path d="M38 -6 L96 -64" stroke="#8e5a2b" stroke-width="8" stroke-linecap="round"/>
+  <path d="M96 -64 l10 -10 l12 12 l-10 10 z" fill="#95a5a6"/>
+  <path d="M106 -74 q14 -18 26 -12 q-2 14 -16 22 z" fill="#e74c3c"/>
+  <g transform="translate(0,0) scale(1)"><path d="M46.0 0.0 L65.0 11.5 L43.2 15.7 Z" fill="#f39c12"/><path d="M39.8 23.0 L50.6 42.4 L29.6 35.2 Z" fill="#f39c12"/><path d="M23.0 39.8 L22.6 62.0 L8.0 45.3 Z" fill="#f39c12"/><path d="M0.0 46.0 L-11.5 65.0 L-15.7 43.2 Z" fill="#f39c12"/><path d="M-23.0 39.8 L-42.4 50.6 L-35.2 29.6 Z" fill="#f39c12"/><path d="M-39.8 23.0 L-62.0 22.6 L-45.3 8.0 Z" fill="#f39c12"/><path d="M-46.0 0.0 L-65.0 -11.5 L-43.2 -15.7 Z" fill="#f39c12"/><path d="M-39.8 -23.0 L-50.6 -42.4 L-29.6 -35.2 Z" fill="#f39c12"/><path d="M-23.0 -39.8 L-22.6 -62.0 L-8.0 -45.3 Z" fill="#f39c12"/><path d="M-0.0 -46.0 L11.5 -65.0 L15.7 -43.2 Z" fill="#f39c12"/><path d="M23.0 -39.8 L42.4 -50.6 L35.2 -29.6 Z" fill="#f39c12"/><path d="M39.8 -23.0 L62.0 -22.6 L45.3 -8.0 Z" fill="#f39c12"/><circle r="46" fill="#f4d03f"/>
+  <path d="M-30 -6 h24 v10 q-12 8 -24 0 z M6 -6 h24 v10 q-12 8 -24 0 z" fill="#1c1c1c"/><path d="M-6 -2 h12" stroke="#1c1c1c" stroke-width="3"/>
+  <path d="M-14 18 q14 12 28 0" stroke="#a04000" stroke-width="3.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="-24" cy="14" rx="6" ry="4" fill="#e67e22" opacity=".5"/><ellipse cx="24" cy="14" rx="6" ry="4" fill="#e67e22" opacity=".5"/></g>
+  <circle cx="44" cy="-6" r="10" fill="#f4d03f" stroke="#f39c12" stroke-width="3"/>
+</g>
+<g fill="#e74c3c" opacity=".85"><circle cx="814" cy="140" r="0"/></g>
+<path d="M600 300 q20 -30 40 -6 q16 20 40 -10" stroke="#e74c3c" stroke-width="7" fill="none" stroke-linecap="round"/>
+
+</svg>

@@ -1,0 +1,45 @@
+---
+title: "La Grande Lanterne d'or"
+description: "Une enquête en mode livre-jeu dans la ville de Frissonville : suis le plan, choisis ton chemin et retrouve la Grande Lanterne d'or avant la parade d'Halloween."
+categories: [ce2, livre-jeu, ville, halloween]
+image: img/lanterne.svg
+order: 11
+---
+
+#ce2 #enquête #halloween · ⏱ 1 h 30
+
+## L'histoire
+
+C'est le soir d'Halloween à Frissonville. Toutes les lanternes de la ville sont éteintes : à 22 heures, la Grande Lanterne d'or doit les rallumer pendant la parade. Mais à 21 h 30, la lanterne disparaît du musée ! L'élève est le détective. Comme dans un livre dont on est le héros, il choisit son chemin : il peut commencer par le témoin ou par le musée, puis choisir quel suspect interroger. À chaque question, il y a 3 choix : une bonne réponse le mène à un indice, une mauvaise à une fausse piste qui explique son erreur et le renvoie en arrière. Il y a 8 suspects : 6 enfants déguisés (Oscar le vampire, Lili la sorcière, Hugo le super-héros, Nina le chat noir, Tom le fantôme, Jade le squelette) et 2 adultes (Agathe la sorcière, Monsieur Grimaud l'épouvantail). Le voleur porte une cape, c'est un enfant, et sa cape est noire : c'est Oscar, un petit vampire de 9 ans qui a peur du noir. Il voulait juste un peu de lumière pour aller au parc.
+
+## Les textes à lire
+
+### Mission 1 : le message du maire
+
+> « Sors de la mairie (3). Prends la rue des Chauves-Souris vers l'ouest. Traverse la rue du Chat Noir. Passe devant la poste. Le bâtiment suivant, à gauche, c'est là qu'habite notre premier témoin ! »
+
+### Le maire
+
+> « Firmin, le boulanger, a vu quelque chose. Au musée, Zélie a tout laissé comme avant. Et la tour de l'horloge… elle est toujours fermée la nuit. »
+
+### Mission 2 : le témoignage de Firmin
+
+> « Bonsoir, détective ! Ce soir, je prépare les gâteaux d'Halloween. À 21 heures, je regarde par la fenêtre. Quelqu'un court dans la rue ! Il fait nuit, je ne vois pas son visage. Mais j'observe bien sa cape qui vole au vent ! Il porte une grande lumière dorée dans les mains. »
+
+### Chez Agathe (fausse piste)
+
+> « Une cape ? Oui, j'ai une grande cape verte. Mais ce soir, j'étais au marché aux citrouilles jusqu'à 22 heures ! Et regarde mes pieds : je suis une adulte. »
+
+### Dessin guidé : la description de la lanterne (à lire)
+
+> « Elle a la forme d'une petite maison. Elle a un toit pointu avec un anneau. Elle a quatre fenêtres. Au milieu, il y a une bougie rouge. Sur le toit, il y a une petite citrouille. »
+
+### Mission 4 : le message codé
+
+> J'AI PEUR DU NOIR
+
+### Les aveux d'Oscar
+
+> « C'est moi… Je suis un petit vampire, mais… j'ai peur du noir ! Ce soir, toutes les rues étaient sombres. Au musée, la lanterne brillait si fort ! Je l'ai prise pour aller au parc retrouver mes amis. Pardon, monsieur le Maire. »
+>
+> Le maire sourit : « Tu sais quoi, Oscar ? Ce soir, c'est toi qui porteras la lanterne en tête de la parade ! »

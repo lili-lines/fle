@@ -19,3 +19,14 @@ format:
 ```
 
 Aperçu local : `quarto preview`
+
+## Livre-jeu (diapos à choix)
+
+Dans une présentation, ajouter le filtre `../../assets/numeros-diapos.lua` dans `filters:`, donner un identifiant aux diapos (`## Titre {#musee}`) et écrire les boutons ainsi :
+
+```markdown
+[A. Je vais au musée → diapo @musee](#musee){.choix}
+[← Retour → diapo @carrefour](#carrefour){.retour}
+```
+
+`@musee` est remplacé automatiquement par le numéro de la diapo.

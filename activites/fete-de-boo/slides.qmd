@@ -43,7 +43,7 @@ Expliquer : il y a 6 missions, une par pièce. Chaque mission réussie = 1 bonbo
 Garder un compteur de bonbons au tableau (touche T ou C), ou de vrais bonbons / jetons.
 :::
 
-## La maison de Boo {.titre-blanc background-image="img/maison.svg" background-size="cover" background-position="bottom" background-color="#151131"}
+## La maison de Boo {.titre-blanc background-image="img/maison.svg" background-size="contain" background-position="bottom" background-color="#151131"}
 
 ::: {.notes}
 Nommer les pièces ensemble : la chambre, la salle de bain, la cuisine, le salon, la cave, le grenier.

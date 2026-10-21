@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 300" font-family="Segoe UI, Arial, sans-serif">
+
+<g transform="translate(160,140) scale(1.4)">
+  <path d="M-60 -20 Q-10 -60 40 -30 Q70 -10 40 10 Q20 22 0 10" stroke="#5dade2" stroke-width="18" fill="none" stroke-linecap="round"/>
+  <path d="M-70 20 Q-20 0 30 20 Q60 34 40 54 Q24 66 6 54" stroke="#85c1e9" stroke-width="14" fill="none" stroke-linecap="round"/>
+  <path d="M-50 70 Q-10 60 20 76" stroke="#aed6f1" stroke-width="10" fill="none" stroke-linecap="round"/>
+  <circle cx="-6" cy="-6" r="34" fill="#d6eaf8" stroke="#5dade2" stroke-width="3"/>
+  <g transform="translate(-6,-6)"><path d="M-8 12 q8 8 16 0" stroke="#1f618d" stroke-width="3" fill="none"/></g>
+  <g transform="translate(-6,-6)"><ellipse cx="-11" cy="-4" rx="3.8" ry="4.75" fill="#2c1a0e"/><ellipse cx="11" cy="-4" rx="3.8" ry="4.75" fill="#2c1a0e"/><circle cx="-10" cy="-5.5" r="1.2" fill="#fff"/><circle cx="12" cy="-5.5" r="1.2" fill="#fff"/></g>
+  <g fill="#27ae60"><ellipse cx="60" cy="-40" rx="8" ry="4" transform="rotate(30 60 -40)"/><ellipse cx="74" cy="20" rx="8" ry="4" transform="rotate(-20 74 20)"/></g></g>
+</svg>

@@ -1,0 +1,41 @@
+---
+title: "Qui a volé les couleurs ?"
+description: "Une enquête pour grands débutants : retrouver les couleurs du village de Coloria avec les couleurs, les formes, les nombres, la météo et les phrases pour se présenter."
+categories: [a1, enquête, couleurs]
+image: img/titre.svg
+order: 12
+---
+
+#a1 #enquête #couleurs · ⏱ 1 h
+
+## L'histoire
+
+Ce matin, le village de Coloria est tout gris : les couleurs ont disparu ! Pablette, la petite peintre, demande de l'aide. Il y a 4 suspects, des personnages de la météo, qui se présentent : « Je m'appelle… J'ai… ans. J'aime… Je n'aime pas… ». Les élèves comptent des formes pour ouvrir une boîte de peinture, lisent une lettre, relient la météo et décodent un message. La voleuse est Pluie, un petit nuage gris de 7 ans : elle était triste d'être grise. À la fin, la pluie et le soleil font un arc-en-ciel !
+
+## Les textes à lire
+
+### Pablette se présente
+
+> Bonjour ! Je m'appelle Pablette. J'ai 9 ans. Je suis peintre. J'aime le rouge et le jaune. Je n'aime pas le gris ! Aide-moi, s'il te plaît !
+
+### Les suspects
+
+> **Soleil** : Je m'appelle Soleil. J'ai 8 ans. J'aime le jaune. Je n'aime pas la pluie.
+>
+> **Pluie** : Je m'appelle Pluie. J'ai 7 ans. J'aime la pluie. Je n'aime pas le soleil.
+>
+> **Flocon** : Je m'appelle Flocon. J'ai 7 ans. J'aime la neige. Je n'aime pas le soleil.
+>
+> **Vent** : Je m'appelle Vent. J'ai 9 ans. J'aime les feuilles. Je n'aime pas la neige.
+
+### Indice 1 : la lettre
+
+> Bonjour Pablette, C'est moi : j'ai les couleurs ! Je ne suis pas méchante. J'ai 7 ans. J'aime la pluie. Au revoir ! P.
+
+### Mission 3 : le message codé
+
+> JE SUIS GRISE
+
+### Dessin : l'arc-en-ciel (à lire)
+
+> Dessine un arc rouge. Dessous, un arc orange, puis un arc jaune, un arc vert, un arc bleu et un arc violet. À droite, dessine un soleil jaune. À gauche, dessine un nuage gris avec 4 gouttes de pluie. En bas, dessine 3 fleurs : une rouge, une jaune et une violette.

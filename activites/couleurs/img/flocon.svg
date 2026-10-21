@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 300" font-family="Segoe UI, Arial, sans-serif">
+
+<g transform="translate(160,150) scale(1.25)">
+  <circle cx="0" cy="60" r="44" fill="#ffffff" stroke="#aed6f1" stroke-width="3"/>
+  <circle cx="0" cy="-6" r="32" fill="#ffffff" stroke="#aed6f1" stroke-width="3"/>
+  <g fill="#2c3e50"><circle cx="0" cy="44" r="4"/><circle cx="0" cy="62" r="4"/><circle cx="0" cy="80" r="4"/></g>
+  <ellipse cx="-10" cy="-12" rx="3.6" ry="4.5" fill="#2c1a0e"/><ellipse cx="10" cy="-12" rx="3.6" ry="4.5" fill="#2c1a0e"/><circle cx="-9" cy="-13.5" r="1.2" fill="#fff"/><circle cx="11" cy="-13.5" r="1.2" fill="#fff"/><path d="M-2 -4 L26 2 L-2 4 Z" fill="#e67e22"/><path d="M-10 12 q10 6 20 0" stroke="#2c3e50" stroke-width="2.5" fill="none"/>
+  <path d="M-30 22 Q0 34 30 22 L32 32 Q0 44 -32 32 Z" fill="#2e86c1"/><path d="M18 30 l8 28 l10 -4 l-8 -24" fill="#2e86c1"/>
+  <path d="M-42 52 L-74 30 M-60 38 l-6 -12 M42 52 L74 30 M60 38 l6 -12" stroke="#8e5a2b" stroke-width="4" stroke-linecap="round"/>
+  <path d="M-26 -32 h52 v-6 h-52 z" fill="#1c1c1c"/><rect x="-18" y="-66" width="36" height="30" fill="#1c1c1c"/><rect x="-18" y="-44" width="36" height="5" fill="#e74c3c"/></g>
+</svg>
