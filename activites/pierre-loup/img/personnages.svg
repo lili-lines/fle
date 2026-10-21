@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1394 344" font-family="Segoe UI, Arial, sans-serif">
+
+<rect x="6" y="6" width="186" height="330" rx="14" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><g transform="translate(99,248)"><rect x="-14" y="-70" width="12" height="62" fill="#2e4053"/><rect x="2" y="-70" width="12" height="62" fill="#2e4053"/>
+<path d="M-18 -8 h16 v8 h-20 z M2 -8 h16 q4 0 4 8 h-20 z" fill="#5d3a1a"/>
+<path d="M-24 -140 L24 -140 L28 -66 L-28 -66 Z" fill="#2e86c1"/><path d="M0 -140 V-66" stroke="#1f618d" stroke-width="2"/>
+<path d="M-24 -134 Q-38 -110 -34 -86 M24 -134 Q38 -110 34 -86" stroke="#2e86c1" stroke-width="10" stroke-linecap="round" fill="none"/>
+<circle cx="-34" cy="-82" r="6" fill="#f5d3b0"/><circle cx="34" cy="-82" r="6" fill="#f5d3b0"/>
+<rect x="-6" y="-152" width="12" height="14" fill="#f5d3b0"/>
+<g transform="translate(0,-172)"><circle r="22" fill="#f5d3b0"/><ellipse cx="-8" cy="0" rx="3" ry="3.5999999999999996" fill="#2c1a0e"/><ellipse cx="8" cy="0" rx="3" ry="3.5999999999999996" fill="#2c1a0e"/><circle cx="-7" cy="-1.3" r="1" fill="#fff"/><circle cx="9" cy="-1.3" r="1" fill="#fff"/><path d="M-6 10 q6 5 12 0" stroke="#8a3a20" stroke-width="2" fill="none"/>
+<path d="M-22 -4 Q-22 -26 0 -26 Q22 -26 22 -4 Q14 -16 0 -14 Q-14 -16 -22 -4 Z" fill="#d4ac0d"/>
+<path d="M-24 -10 Q-20 -34 0 -34 Q22 -34 24 -10 Z" fill="#2c3e50"/><path d="M-26 -10 h52" stroke="#1c2833" stroke-width="5"/></g><path d="M-18 -138 Q0 -128 18 -138 L18 -126 Q0 -118 -18 -126 Z" fill="#c0392b"/><path d="M10 -128 l6 34 l10 -2 l-6 -32 z" fill="#c0392b"/><path d="M12 -100 l4 6 M18 -101 l4 6" stroke="#922b21" stroke-width="2"/></g><path d="M22 250 h154" stroke="#e3d8c4" stroke-width="3"/><text x="99" y="288" text-anchor="middle" font-size="21" font-weight="800" fill="#000149">Pierre</text><text x="99" y="314" text-anchor="middle" font-size="15" fill="#5c5f77">le petit garçon</text><rect x="204" y="6" width="186" height="330" rx="14" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><g transform="translate(297,248)"><rect x="-16" y="-72" width="13" height="64" fill="#5d4037"/><rect x="3" y="-72" width="13" height="64" fill="#5d4037"/>
+<path d="M-20 -8 h18 v8 h-22 z M2 -8 h18 q4 0 4 8 h-22 z" fill="#3e2723"/>
+<path d="M-28 -144 L28 -144 L32 -68 L-32 -68 Z" fill="#7d6608"/><path d="M-10 -144 L0 -120 L10 -144" fill="#f5f5dc"/>
+<g fill="#d4ac0d"><circle cx="0" cy="-110" r="3"/><circle cx="0" cy="-94" r="3"/><circle cx="0" cy="-78" r="3"/></g>
+<path d="M28 -136 Q40 -110 38 -84" stroke="#7d6608" stroke-width="11" stroke-linecap="round" fill="none"/>
+<path d="M-28 -136 Q-38 -112 -36 -90" stroke="#7d6608" stroke-width="11" stroke-linecap="round" fill="none"/>
+<path d="M44 -88 V0" stroke="#5d4037" stroke-width="5"/><circle cx="38" cy="-86" r="6" fill="#e8b98f"/>
+<rect x="-6" y="-156" width="12" height="14" fill="#e8b98f"/>
+<g transform="translate(0,-176)"><circle r="22" fill="#e8b98f"/><ellipse cx="-8" cy="-2" rx="3" ry="3.5999999999999996" fill="#2c1a0e"/><ellipse cx="8" cy="-2" rx="3" ry="3.5999999999999996" fill="#2c1a0e"/><circle cx="-7" cy="-3.3" r="1" fill="#fff"/><circle cx="9" cy="-3.3" r="1" fill="#fff"/>
+<path d="M-18 6 Q0 34 18 6 Q10 14 0 12 Q-10 14 -18 6 Z" fill="#ecf0f1"/>
+<path d="M-12 4 q12 -6 24 0" stroke="#ecf0f1" stroke-width="5" fill="none"/>
+<circle cx="-8" cy="-2" r="6" fill="none" stroke="#333" stroke-width="1.5"/><circle cx="8" cy="-2" r="6" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M-24 -8 Q-22 -30 0 -30 Q22 -30 24 -8 Z" fill="#5d4037"/><ellipse cx="0" cy="-8" rx="30" ry="6" fill="#4e342e"/></g></g><path d="M220 250 h154" stroke="#e3d8c4" stroke-width="3"/><text x="297" y="288" text-anchor="middle" font-size="21" font-weight="800" fill="#000149">Grand-père</text><text x="297" y="314" text-anchor="middle" font-size="15" fill="#5c5f77">le grand-père</text><rect x="402" y="6" width="186" height="330" rx="14" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><g transform="translate(495,248)"><g transform="translate(0,-80)"><path d="M-30 0 Q0 -40 30 0 Q0 24 -30 0 Z" fill="#3498db"/>
+<path d="M-6 -6 Q-30 -46 -44 -20 Q-26 -18 -6 -2 Z" fill="#5dade2"/><circle cx="26" cy="-14" r="14" fill="#3498db"/>
+<circle cx="30" cy="-17" r="3" fill="#111"/><path d="M38 -14 l12 4 l-12 4 z" fill="#f39c12"/>
+<path d="M-30 0 l-18 -4 l4 10 z" fill="#2471a3"/><path d="M-4 18 v14 M6 18 v14" stroke="#f39c12" stroke-width="3"/></g>
+<path d="M-60 -48 H60" stroke="#6e4520" stroke-width="7" stroke-linecap="round"/></g><path d="M418 250 h154" stroke="#e3d8c4" stroke-width="3"/><text x="495" y="288" text-anchor="middle" font-size="21" font-weight="800" fill="#000149">l'Oiseau</text><text x="495" y="314" text-anchor="middle" font-size="15" fill="#5c5f77">perché dans l'arbre</text><rect x="600" y="6" width="186" height="330" rx="14" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><g transform="translate(693,248)"><g transform="translate(0,-50)"><ellipse rx="44" ry="28" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+<path d="M-10 -6 Q-30 -26 -46 -8 Q-26 -4 -10 4 Z" fill="#d5d8dc"/><circle cx="30" cy="-34" r="18" fill="#ecf0f1" stroke="#bdc3c7" stroke-width="2"/>
+<circle cx="35" cy="-38" r="3" fill="#111"/><path d="M44 -32 q18 0 20 6 q-6 6 -20 2 z" fill="#f39c12"/>
+<path d="M-8 26 v14 M8 26 v14" stroke="#f39c12" stroke-width="4"/><path d="M-14 40 h12 M2 40 h12" stroke="#f39c12" stroke-width="4"/></g>
+<ellipse cx="0" cy="-4" rx="70" ry="10" fill="#5dade2" opacity=".5"/></g><path d="M616 250 h154" stroke="#e3d8c4" stroke-width="3"/><text x="693" y="288" text-anchor="middle" font-size="21" font-weight="800" fill="#000149">le Canard</text><text x="693" y="314" text-anchor="middle" font-size="15" fill="#5c5f77">il aime nager</text><rect x="798" y="6" width="186" height="330" rx="14" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><g transform="translate(891,248)"><g transform="translate(0,-60)"><ellipse rx="38" ry="26" fill="#566573"/>
+<path d="M-36 0 Q-70 -10 -60 -50" stroke="#566573" stroke-width="9" fill="none" stroke-linecap="round"/>
+<g transform="translate(30,-34)"><circle r="20" fill="#566573"/><path d="M-16 -10 l-2 -22 l14 12 M16 -10 l2 -22 l-14 12" fill="#566573"/>
+<ellipse cx="-7" cy="-2" rx="4" ry="5" fill="#f4d03f"/><ellipse cx="7" cy="-2" rx="4" ry="5" fill="#f4d03f"/><path d="M-7 -6 v8 M7 -6 v8" stroke="#111" stroke-width="2"/>
+<path d="M-4 8 l4 3 l4 -3" stroke="#111" stroke-width="2" fill="none"/><path d="M-6 8 l-16 -3 M6 8 l16 -3" stroke="#ddd" stroke-width="1.2"/></g>
+<path d="M-22 22 v16 M-8 24 v14 M10 24 v14 M24 22 v16" stroke="#566573" stroke-width="7" stroke-linecap="round"/></g></g><path d="M814 250 h154" stroke="#e3d8c4" stroke-width="3"/><text x="891" y="288" text-anchor="middle" font-size="21" font-weight="800" fill="#000149">le Chat</text><text x="891" y="314" text-anchor="middle" font-size="15" fill="#5c5f77">il chasse les oiseaux</text><rect x="996" y="6" width="186" height="330" rx="14" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><g transform="translate(1089,248)"><g transform="translate(0,-74)"><ellipse rx="56" ry="32" fill="#7f8c8d"/>
+<path d="M-54 -6 Q-90 -4 -86 30 Q-70 12 -52 12 Z" fill="#7f8c8d"/>
+<g transform="translate(46,-34)"><path d="M-24 -6 Q-20 -30 0 -28 Q20 -26 40 -8 Q34 6 10 8 Q-12 12 -24 -6 Z" fill="#7f8c8d"/>
+<path d="M-18 -22 l-2 -22 l14 14 M-2 -26 l4 -20 l8 18" fill="#7f8c8d"/><circle cx="2" cy="-14" r="3.5" fill="#f4d03f"/><circle cx="2" cy="-14" r="1.5" fill="#111"/>
+<circle cx="40" cy="-8" r="5" fill="#111"/><path d="M12 6 l4 6 l4 -6 M22 4 l4 6 l4 -6" fill="#fff"/></g>
+<path d="M-36 24 v34 M-16 28 v30 M20 28 v30 M40 24 v34" stroke="#7f8c8d" stroke-width="10" stroke-linecap="round"/></g></g><path d="M1012 250 h154" stroke="#e3d8c4" stroke-width="3"/><text x="1089" y="288" text-anchor="middle" font-size="21" font-weight="800" fill="#000149">le Loup</text><text x="1089" y="314" text-anchor="middle" font-size="15" fill="#5c5f77">il vit dans la forêt</text><rect x="1194" y="6" width="186" height="330" rx="14" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/><g transform="translate(1287,248)"><g transform="translate(26,0) scale(.72)"><rect x="-16" y="-72" width="13" height="64" fill="#5d4037"/><rect x="3" y="-72" width="13" height="64" fill="#5d4037"/>
+<path d="M-20 -8 h18 v8 h-22 z M2 -8 h18 q4 0 4 8 h-22 z" fill="#3e2723"/>
+<path d="M-28 -144 L28 -144 L32 -68 L-32 -68 Z" fill="#7e5109"/><path d="M-10 -144 L0 -120 L10 -144" fill="#f5f5dc"/>
+<g fill="#d4ac0d"><circle cx="0" cy="-110" r="3"/><circle cx="0" cy="-94" r="3"/><circle cx="0" cy="-78" r="3"/></g>
+<path d="M28 -136 Q40 -110 38 -84" stroke="#7e5109" stroke-width="11" stroke-linecap="round" fill="none"/>
+<path d="M-28 -136 Q-38 -112 -36 -90" stroke="#7e5109" stroke-width="11" stroke-linecap="round" fill="none"/>
+<path d="M44 -88 V0" stroke="#5d4037" stroke-width="5"/><circle cx="38" cy="-86" r="6" fill="#c68e63"/>
+<rect x="-6" y="-156" width="12" height="14" fill="#c68e63"/>
+<g transform="translate(0,-176)"><circle r="22" fill="#c68e63"/><ellipse cx="-8" cy="-2" rx="3" ry="3.5999999999999996" fill="#2c1a0e"/><ellipse cx="8" cy="-2" rx="3" ry="3.5999999999999996" fill="#2c1a0e"/><circle cx="-7" cy="-3.3" r="1" fill="#fff"/><circle cx="9" cy="-3.3" r="1" fill="#fff"/>
+<path d="M-18 6 Q0 34 18 6 Q10 14 0 12 Q-10 14 -18 6 Z" fill="#2c1a0e"/>
+<path d="M-12 4 q12 -6 24 0" stroke="#2c1a0e" stroke-width="5" fill="none"/>
+<circle cx="-8" cy="-2" r="6" fill="none" stroke="#333" stroke-width="1.5"/><circle cx="8" cy="-2" r="6" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M-24 -8 Q-22 -30 0 -30 Q22 -30 24 -8 Z" fill="#5d4037"/><ellipse cx="0" cy="-8" rx="30" ry="6" fill="#4e342e"/></g></g><path d="M52 -150 L70 -40" stroke="#3e2723" stroke-width="4"/>
+<g transform="translate(-22,0) scale(.8)"><rect x="-16" y="-72" width="13" height="64" fill="#5d4037"/><rect x="3" y="-72" width="13" height="64" fill="#5d4037"/>
+<path d="M-20 -8 h18 v8 h-22 z M2 -8 h18 q4 0 4 8 h-22 z" fill="#3e2723"/>
+<path d="M-28 -144 L28 -144 L32 -68 L-32 -68 Z" fill="#196f3d"/><path d="M-10 -144 L0 -120 L10 -144" fill="#f5f5dc"/>
+<g fill="#d4ac0d"><circle cx="0" cy="-110" r="3"/><circle cx="0" cy="-94" r="3"/><circle cx="0" cy="-78" r="3"/></g>
+<path d="M28 -136 Q40 -110 38 -84" stroke="#196f3d" stroke-width="11" stroke-linecap="round" fill="none"/>
+<path d="M-28 -136 Q-38 -112 -36 -90" stroke="#196f3d" stroke-width="11" stroke-linecap="round" fill="none"/>
+<path d="M44 -88 V0" stroke="#5d4037" stroke-width="5"/><circle cx="38" cy="-86" r="6" fill="#e8b98f"/>
+<rect x="-6" y="-156" width="12" height="14" fill="#e8b98f"/>
+<g transform="translate(0,-176)"><circle r="22" fill="#e8b98f"/><ellipse cx="-8" cy="-2" rx="3" ry="3.5999999999999996" fill="#2c1a0e"/><ellipse cx="8" cy="-2" rx="3" ry="3.5999999999999996" fill="#2c1a0e"/><circle cx="-7" cy="-3.3" r="1" fill="#fff"/><circle cx="9" cy="-3.3" r="1" fill="#fff"/>
+<path d="M-18 6 Q0 34 18 6 Q10 14 0 12 Q-10 14 -18 6 Z" fill="#5d4037"/>
+<path d="M-12 4 q12 -6 24 0" stroke="#5d4037" stroke-width="5" fill="none"/>
+<circle cx="-8" cy="-2" r="6" fill="none" stroke="#333" stroke-width="1.5"/><circle cx="8" cy="-2" r="6" fill="none" stroke="#333" stroke-width="1.5"/>
+<path d="M-24 -8 Q-22 -30 0 -30 Q22 -30 24 -8 Z" fill="#5d4037"/><ellipse cx="0" cy="-8" rx="30" ry="6" fill="#4e342e"/></g></g><path d="M2 -170 L28 -60" stroke="#3e2723" stroke-width="5"/></g><path d="M1210 250 h154" stroke="#e3d8c4" stroke-width="3"/><text x="1287" y="288" text-anchor="middle" font-size="21" font-weight="800" fill="#000149">les Chasseurs</text><text x="1287" y="314" text-anchor="middle" font-size="15" fill="#5c5f77">ils suivent le loup</text>
+</svg>

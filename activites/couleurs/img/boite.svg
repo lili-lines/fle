@@ -5,7 +5,7 @@
 <rect x="60" y="150" width="310" height="130" rx="10" fill="#d4ac0d" stroke="#9a7d0a" stroke-width="4"/>
 <g><rect x="78" y="168" width="36" height="40" rx="6" fill="#bdc3c7" stroke="#95a5a6"/><rect x="124" y="168" width="36" height="40" rx="6" fill="#bdc3c7" stroke="#95a5a6"/><rect x="170" y="168" width="36" height="40" rx="6" fill="#bdc3c7" stroke="#95a5a6"/><rect x="216" y="168" width="36" height="40" rx="6" fill="#bdc3c7" stroke="#95a5a6"/><rect x="262" y="168" width="36" height="40" rx="6" fill="#bdc3c7" stroke="#95a5a6"/><rect x="308" y="168" width="36" height="40" rx="6" fill="#bdc3c7" stroke="#95a5a6"/></g>
 <g transform="translate(215,128) rotate(-6)"><rect x="-80" y="-48" width="160" height="96" fill="#fdfefe" stroke="#aab7b8" stroke-width="2"/><path d="M-80 -48 L0 8 L80 -48" stroke="#aab7b8" stroke-width="2" fill="none"/>
-<circle cx="0" cy="8" r="12" fill="#95a5a6"/><text x="0" y="13" text-anchor="middle" font-size="12" font-weight="800" fill="#fff">P</text></g>
+<circle cx="0" cy="8" r="12" fill="#95a5a6"/><path d="M-7 12 A7 7 0 0 1 7 12" stroke="#fff" stroke-width="2.5" fill="none"/></g>
 <text x="215" y="262" text-anchor="middle" font-size="18" font-weight="800" fill="#6e4520">PEINTURE</text>
 
 </svg>

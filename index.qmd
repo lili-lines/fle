@@ -31,3 +31,10 @@ Pendant le cours : <br>
 - [Bac de classe](https://bacdeclasse.fr/) — ❤️ ressources pédagogiques, enquêtes, primaire
 - [Excalidraw](https://excalidraw.com/) — tableau blanc en ligne
 - [Kahoot!](https://kahoot.com/) — quiz interactifs
+
+## Livres de référence {#livres}
+
+- **Cléo CE1** — manuel de français (lecture, étude de la langue, écriture)
+- **Cléo CE2** — manuel de français (lecture, étude de la langue, écriture)
+- **Les Loustiques** — méthode de FLE pour enfants
+- **Taoki et compagnie** — méthode de lecture syllabique, avec les histoires de Taoki, Lili et Hugo

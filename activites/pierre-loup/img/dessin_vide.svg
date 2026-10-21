@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 340" font-family="Segoe UI, Arial, sans-serif">
+
+<rect x="6" y="6" width="808" height="328" rx="16" fill="#ffffff" stroke="#d9cbb3" stroke-width="2"/>
+<rect x="18" y="18" width="784" height="304" rx="10" fill="none" stroke="#e5e7e9" stroke-width="2" stroke-dasharray="10 8"/>
+<g transform="translate(740,280) rotate(-40)"><rect x="-8" y="-70" width="16" height="70" fill="#f4d03f" stroke="#b7950b" stroke-width="2"/><path d="M-8 0 L0 18 L8 0 Z" fill="#f5cba7"/><path d="M-3 12 L0 18 L3 12 Z" fill="#333"/><rect x="-8" y="-80" width="16" height="10" fill="#f1948a"/></g>
+<path d="M600 300 q20 -30 40 -6 q16 20 40 -10" stroke="#2c3e50" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>

@@ -10,7 +10,7 @@ order: 12
 
 ## L'histoire
 
-Ce matin, le village de Coloria est tout gris : les couleurs ont disparu ! Pablette, la petite peintre, demande de l'aide. Il y a 4 suspects, des personnages de la météo, qui se présentent : « Je m'appelle… J'ai… ans. J'aime… Je n'aime pas… ». Les élèves comptent des formes pour ouvrir une boîte de peinture, lisent une lettre, relient la météo et décodent un message. La voleuse est Pluie, un petit nuage gris de 7 ans : elle était triste d'être grise. À la fin, la pluie et le soleil font un arc-en-ciel !
+Ce matin, le village de Coloria est tout gris : les couleurs ont disparu ! Pablette, la petite peintre, demande de l'aide. Il y a 5 suspects, des personnages du ciel et de la météo, qui se présentent : « Je m'appelle… J'ai… ans. J'aime… Je n'aime pas… ». Les élèves comptent des formes pour ouvrir une boîte de peinture, lisent une lettre, relient la météo et décodent un message. Le voleur est Arc-en-ciel : il a perdu ses couleurs, il est tout gris et triste, alors il a pris les couleurs du village. À la fin, Pablette, la pluie et le soleil lui rendent ses couleurs, et il rend celles du village.
 
 ## Les textes à lire
 
@@ -27,14 +27,16 @@ Ce matin, le village de Coloria est tout gris : les couleurs ont disparu ! Pable
 > **Flocon** : Je m'appelle Flocon. J'ai 7 ans. J'aime la neige. Je n'aime pas le soleil.
 >
 > **Vent** : Je m'appelle Vent. J'ai 9 ans. J'aime les feuilles. Je n'aime pas la neige.
+>
+> **Arc-en-ciel** : Je m'appelle Arc-en-ciel. J'ai 7 ans. J'aime la pluie et le soleil. Je n'aime pas le gris.
 
 ### Indice 1 : la lettre
 
-> Bonjour Pablette, C'est moi : j'ai les couleurs ! Je ne suis pas méchante. J'ai 7 ans. J'aime la pluie. Au revoir ! P.
+> Bonjour Pablette, C'est moi : j'ai les couleurs ! Je ne suis pas méchant. J'ai 7 ans. J'aime la pluie. Au revoir !
 
 ### Mission 3 : le message codé
 
-> JE SUIS GRISE
+> JE SUIS GRIS
 
 ### Dessin : l'arc-en-ciel (à lire)
 

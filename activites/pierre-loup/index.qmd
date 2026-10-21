@@ -1,0 +1,57 @@
+---
+title: "Pierre et le Loup - Le portail ouvert"
+description: "Une enquête inspirée du conte musical de Prokofiev : qui a laissé le portail du jardin ouvert ? Instruments de l'orchestre, lecture, grammaire, conjugaison, dessin et écriture."
+categories: [b, enquête, musique]
+image: img/titre.svg
+order: 13
+---
+
+#b #enquête #musique · ⏱ 1 h 30
+
+🎧 [Écouter *Pierre et le Loup* sur YouTube](https://www.youtube.com/watch?v=eAqSYmtWAe8)
+
+## L'histoire
+
+L'enquête s'inspire de *Pierre et le Loup* de Sergueï Prokofiev. Ce matin-là, le portail du jardin du grand-père est resté ouvert : le canard est allé nager, puis le loup est sorti de la forêt. Tout s'est bien terminé, mais qui a laissé le portail ouvert ? Sept suspects : Pierre, le grand-père, l'oiseau, le canard, le chat, le loup et les chasseurs. Grâce aux instruments de l'orchestre, au témoignage de l'oiseau, à la note du grand-père et au dessin dicté sur carreaux, on découvre que c'est Pierre : il est parti dans les prés sans refermer. On lit ensuite la fin du vrai texte de Prokofiev et on termine par un débat : héros ou désobéissant ?
+
+## Correction de l'association instruments / personnages
+
+Pierre → les violons, le quatuor à cordes (C) · l'oiseau → la flûte (A) · le canard → le hautbois (F) · le chat → la clarinette (D) · le grand-père → le basson (B) · le loup → les cors (G) · les chasseurs → les bois et les cuivres, par exemple la trompette (E) · les coups de feu → les timbales et la grosse caisse (H)
+
+## Les textes à lire
+
+### L'enregistrement de 8 heures
+
+> D'abord les violons, joyeux et rapides… puis le hautbois, qui s'éloigne vers la mare… et, au-dessus, la flûte, qui gazouille. À 9 heures seulement, on entend les cors, graves et menaçants. Vers 10 heures, enfin, arrivent la trompette et les timbales.
+
+### Indice 2 : extraits du livre de Prokofiev
+
+Extraits de *Pierre et le Loup*, texte de Sergueï Prokofiev ([texte intégral, Philharmonie de Paris](https://drop.philharmoniedeparis.fr/CMDP/CMDP000009500/Pierre-et-le-Loup-texte-integral.pdf)). Les mots effacés par la « tache d'encre » sont « Pierre ».
+
+> Un beau matin, Pierre ouvrit la porte du jardin et s'en alla dans les prés verts. Sur la plus haute branche d'un grand arbre, était perché un petit oiseau, ami de Pierre. « Tout est calme ici », gazouillait-il gaiement.
+>
+> Un canard arriva bientôt en se dandinant, tout heureux que Pierre n'ait pas fermé la porte du jardin. Il en profita pour aller faire un plongeon dans la mare, au milieu du pré.
+>
+> Tout à coup grand-père apparut. Il était mécontent de voir que Pierre était allé dans le pré. « L'endroit est dangereux. Si un loup sortait de la forêt, que ferais-tu ? »
+
+Verbes au passé simple : ouvrit (ouvrir), s'en alla (s'en aller), arriva (arriver), profita (profiter), apparut (apparaître).
+
+### Dessin indice : la dictée sur carreaux
+
+On dessine une **clé** avec un **fil de laine rouge** attaché : c'est le même fil que sur le portail, et il vient de l'écharpe de Pierre.
+
+![](img/grille_cle.svg){width="70%"}
+
+### La fin de l'histoire : extraits du livre de Prokofiev
+
+> Pierre ne fit aucun cas des paroles de son grand-père et déclara que les grands garçons n'avaient pas peur des loups.
+>
+> Pendant ce temps, derrière la porte du jardin, Pierre observait ce qui se passait, sans la moindre frayeur. Il courut à la maison, prit une grosse corde et grimpa sur le haut mur du jardin.
+>
+> Pierre leur cria du haut de l'arbre : « Ne tirez pas. Petit oiseau et moi, nous avons déjà attrapé le loup. » […] Le grand-père, mécontent, hochait la tête en disant : « Et si Pierre n'avait pas attrapé le loup, que serait-il arrivé ? »
+
+## Corrigé
+
+**Grammaire** : 1. dont · 2. où · 3. qui · 4. que · 5. qui · 6. dont, qui
+
+**Conjugaison** : dormais · s'est levé · faisait · chantaient · ai pris · suis allé · suis pas sorti. Pierre ment : l'oiseau a vu une personne avec quelque chose de rouge au cou ouvrir le portail à 8 heures, et on entend les violons (Pierre) sur l'enregistrement.

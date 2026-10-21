@@ -104,7 +104,8 @@ $callout-color-caution: $fle-rouge;
 // Titre sur un petit bandeau blanc (classe .titre-bandeau), pour les images claires en plein écran
 .reveal .slides section.titre-bandeau h2 {
   display: inline-block;
-  background: rgba(255, 255, 255, .8);
+  background: rgba(255, 255, 255, .65);
+  color: #000149 !important;
   padding: 0 .3em;
   border-radius: 10px;
 }

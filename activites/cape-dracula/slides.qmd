@@ -20,7 +20,7 @@ format:
 
 ## La salle des costumes {.titre-blanc background-image="img/salle_costumes.svg" background-size="contain" background-position="bottom" background-color="#3a2f55"}
 
-::: {.absolute bottom=10 left=10 width=640 style="background: rgba(255,255,255,.78); color: #1c1c2e; border-radius: 14px; padding: 0.35em 0.8em; font-size: 0.6em; text-align: center;"}
+::: {.absolute bottom=10 left=10 width=640 style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 14px; padding: 0.35em 0.8em; font-size: 0.6em; text-align: center;"}
 Vendredi 31 octobre, 17 h 30. Le club théâtre prépare le **bal d'Halloween**.\
 Mais le cintre est **vide** : la **cape de Dracula** a disparu ! Six élèves sont suspects. **Trouve le coupable !**
 :::
@@ -311,7 +311,7 @@ Attention : **être** → j'**ét**ais
 
 ## Les aveux de Chloé {.titre-blanc background-image="img/aveux.svg" background-size="contain" background-position="bottom" background-color="#2c2546"}
 
-::: {style="background: rgba(255,255,255,.78); color: #1c1c2e; border-radius: 14px; padding: 0.5em 0.9em; width: 50%; font-size: 0.7em; margin-top: 0.4em;"}
+::: {style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 14px; padding: 0.5em 0.9em; width: 50%; font-size: 0.7em; margin-top: 0.4em;"}
 « Oui, c'est moi… Lundi, des élèves ont regardé mon costume de citrouille. Ils ont dit : *Il est moche ! Il est démodé !* J'étais très triste.
 
 La cape de Dracula est élégante et somptueuse. Je voulais être belle pour le bal. Je voulais rendre la cape après la fête.
@@ -319,7 +319,7 @@ La cape de Dracula est élégante et somptueuse. Je voulais être belle pour le 
 Pardon ! »
 :::
 
-::: {style="background: rgba(255,255,255,.78); color: #1c1c2e; border-radius: 14px; padding: 0.4em 0.9em; width: 50%; font-size: 0.7em; margin-top: 0.5em;"}
+::: {style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 14px; padding: 0.4em 0.9em; width: 50%; font-size: 0.7em; margin-top: 0.5em;"}
 **À toi !** Dis un compliment sur le costume de Chloé.\
 *Ton costume est… Je trouve ta robe…*
 :::

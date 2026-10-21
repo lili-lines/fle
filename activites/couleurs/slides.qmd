@@ -22,7 +22,7 @@ format:
 
 ## Oh non ! {#histoire .titre-bandeau background-image="img/village_gris.svg" background-size="contain" background-color="#d5d8dc"}
 
-::: {.absolute top=110 left=14 width=470 style="background: rgba(255,255,255,.82); color: #1c1c2e; border-radius: 14px; padding: 0.2em 0.7em; font-size: 0.58em;"}
+::: {.absolute top=110 left=14 width=470 style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 14px; padding: 0.2em 0.7em; font-size: 0.58em;"}
 Ce matin, le village de **Coloria** est tout **gris** !
 
 Les couleurs ont disparu. L'arc-en-ciel aussi !
@@ -77,9 +77,10 @@ rouge · bleu · jaune · vert · orange · violet · rose · noir · blanc · m
 | Pluie | | | | |
 | Flocon | | | | |
 | Vent | | | | |
+| Arc-en-ciel | | | | |
 :::
 
-[Je commence l'enquête → diapo @boite](#boite){.choix}
+[Je commence l'enquête → page @boite](#boite){.choix}
 
 ## Mission 1 : la boîte de peinture {#boite .smaller}
 
@@ -89,7 +90,7 @@ rouge · bleu · jaune · vert · orange · violet · rose · noir · blanc · m
 
 **Le code est…**
 
-[A. 3 – 5 – 2 – 4 → diapo @boite-ouverte](#boite-ouverte){.choix} [B. 4 – 5 – 2 – 3 → diapo @faux-code](#faux-code){.choix} [C. 3 – 4 – 2 – 5 → diapo @faux-code](#faux-code){.choix}
+[A. 3 – 5 – 2 – 4 → page @boite-ouverte](#boite-ouverte){.choix} [B. 4 – 5 – 2 – 3 → page @faux-code](#faux-code){.choix} [C. 3 – 4 – 2 – 5 → page @faux-code](#faux-code){.choix}
 
 ## Oups ! La boîte ne s'ouvre pas {#faux-code}
 
@@ -102,7 +103,7 @@ rouge · bleu · jaune · vert · orange · violet · rose · noir · blanc · m
 - les **triangles** ▲ verts
 - les **étoiles** ★ jaunes
 
-[← Je compte encore → diapo @boite](#boite){.retour}
+[← Je compte encore → page @boite](#boite){.retour}
 :::
 ::: {.column width="45%"}
 ::: {.callout-tip}
@@ -124,9 +125,9 @@ rouge · bleu · jaune · vert · orange · violet · rose · noir · blanc · m
 ::: {.column width="55%"}
 Il n'y a pas de peinture… mais il y a **une lettre** !
 
-Sur la lettre, il y a **un P gris**. 🤔
+Sur la lettre, il y a **un petit dessin gris**. 🤔
 
-[Je lis la lettre → diapo @lettre](#lettre){.choix}
+[Je lis la lettre → page @lettre](#lettre){.choix}
 :::
 ::::
 
@@ -141,20 +142,20 @@ Sur la lettre, il y a **un P gris**. 🤔
 Bonjour Pablette,
 
 C'est moi : j'ai les couleurs !\
-Je ne suis pas méchante.\
+Je ne suis pas méchant.\
 J'ai **7 ans**.\
 J'aime **la pluie**.\
 Au revoir !
 
-**P.**
+**?**
 :::
 :::
 ::: {.column width="32%"}
 **Quel âge a le voleur ?**
 
-[A. 7 ans → diapo @indice-1](#indice-1){.choix}\
-[B. 8 ans → diapo @faux-age](#faux-age){.choix}\
-[C. 9 ans → diapo @faux-age](#faux-age){.choix}
+[A. 7 ans → page @indice-1](#indice-1){.choix}\
+[B. 8 ans → page @faux-age](#faux-age){.choix}\
+[C. 9 ans → page @faux-age](#faux-age){.choix}
 :::
 ::::
 
@@ -171,7 +172,7 @@ La lettre dit : « J'ai **sept** ans. »
 sept = 7
 :::
 
-[← Je relis la lettre → diapo @lettre](#lettre){.retour}
+[← Je relis la lettre → page @lettre](#lettre){.retour}
 :::
 ::::
 
@@ -186,9 +187,9 @@ sept = 7
 🔎 Le voleur a **7 ans**. Il aime **la pluie**.
 :::
 
-Regarde ton carnet. Qui a 7 ans ? **Barre** les autres.
+Regarde ton carnet. Qui a 7 ans ? Qui aime la pluie ? **Barre** les autres.
 
-[Continuer → diapo @aimer](#aimer){.choix}
+[Continuer → page @aimer](#aimer){.choix}
 :::
 ::::
 
@@ -208,7 +209,7 @@ Regarde ton carnet. Qui a 7 ans ? **Barre** les autres.
 
 **Et toi ?** Dis 2 phrases : *J'aime… Je n'aime pas…*
 
-[Continuer → diapo @meteo](#meteo){.choix}
+[Continuer → page @meteo](#meteo){.choix}
 :::
 ::: {.column width="44%"}
 ::: {.callout-tip}
@@ -235,22 +236,22 @@ je + ai → **j'**ai 7 ans
 1. Il pleut. · 2. Il fait beau. · 3. Il y a du vent. · 4. Il neige. · 5. Il y a des nuages.
 :::
 
-Le voleur aime **la pluie**. **Quelle image ?**
+Le voleur aime la pluie… **et aussi** quand il fait **beau** ! **Quelle image ?**
 
-[A. → diapo @faux-meteo](#faux-meteo){.choix} [B. → diapo @indice-2](#indice-2){.choix} [C. → diapo @faux-meteo](#faux-meteo){.choix}
+[A. → page @indice-2](#indice-2){.choix} [B. → page @faux-meteo](#faux-meteo){.choix} [C. → page @faux-meteo](#faux-meteo){.choix}
 
 ## Regarde bien ! {#faux-meteo}
 
 :::: {.columns}
 ::: {.column width="40%"}
-![](img/pluie.svg)
+![](img/soleil.svg)
 :::
 ::: {.column width="60%"}
-**La pluie**, c'est de **l'eau** qui tombe du nuage : des petites gouttes **bleues** 💧.
+Quand **il fait beau**, il y a le **soleil** ☀️ : il est **jaune**.
 
-La neige, c'est **blanc** ❄️. Le soleil, c'est **jaune** ☀️.
+La pluie, ce sont des gouttes **bleues** 💧. La neige, c'est **blanc** ❄️.
 
-[← Je regarde encore → diapo @meteo](#meteo){.retour}
+[← Je regarde encore → page @meteo](#meteo){.retour}
 :::
 ::::
 
@@ -262,12 +263,12 @@ La neige, c'est **blanc** ❄️. Le soleil, c'est **jaune** ☀️.
 :::
 ::: {.column width="70%"}
 ::: {.indice style="font-size: 1.15em; text-align: center;"}
-🔎 Le voleur aime quand **il pleut**.
+🔎 Le voleur aime **la pluie** et **le soleil**.
 :::
 
-Regarde ton carnet. Qui aime la pluie ? Qui n'aime pas la pluie ? **Barre** !
+Regarde ton carnet. Qui **n'aime pas** le soleil ? **Barre** !
 
-[Continuer → diapo @code](#code){.choix}
+[Continuer → page @code](#code){.choix}
 :::
 ::::
 
@@ -277,7 +278,7 @@ Regarde ton carnet. Qui aime la pluie ? Qui n'aime pas la pluie ? **Barre** !
 
 **Décode** le message : écris une lettre dans chaque case.
 
-[J'ai trouvé ! → diapo @qui](#qui){.choix}
+[J'ai trouvé ! → page @qui](#qui){.choix}
 
 ## Qui a volé les couleurs ? {#qui .smaller}
 
@@ -286,15 +287,16 @@ Regarde ton carnet. Qui aime la pluie ? Qui n'aime pas la pluie ? **Barre** !
 Relis tes indices :
 
 - 🔎 **7 ans** ;
-- 🔎 aime **la pluie** ;
-- 🔎 « Je suis **grise** ».
+- 🔎 aime **la pluie** et **le soleil** ;
+- 🔎 « Je suis **gris** ».
 
 **C'est qui ?**
 
-[A. Soleil → diapo @faux-soleil](#faux-soleil){.choix}\
-[B. Pluie → diapo @aveux](#aveux){.choix}\
-[C. Flocon → diapo @faux-flocon](#faux-flocon){.choix}\
-[D. Vent → diapo @faux-vent](#faux-vent){.choix}
+[A. Soleil → page @faux-soleil](#faux-soleil){.choix}\
+[B. Pluie → page @faux-pluie](#faux-pluie){.choix}\
+[C. Flocon → page @faux-flocon](#faux-flocon){.choix}\
+[D. Vent → page @faux-vent](#faux-vent){.choix}\
+[E. Arc-en-ciel → page @aveux](#aveux){.choix}
 :::
 ::: {.column width="60%"}
 ![](img/suspects.svg)
@@ -310,7 +312,20 @@ Relis tes indices :
 ::: {.column width="60%"}
 Soleil a **8 ans**. Il **n'aime pas** la pluie. Et il est **jaune** !
 
-[← Je choisis encore → diapo @qui](#qui){.retour}
+[← Je choisis encore → page @qui](#qui){.retour}
+:::
+::::
+
+## Pluie ? {#faux-pluie}
+
+:::: {.columns}
+::: {.column width="40%"}
+![](img/pluie.svg)
+:::
+::: {.column width="60%"}
+Pluie a bien **7 ans** et elle aime **la pluie**… mais elle **n'aime pas le soleil** !
+
+[← Je choisis encore → page @qui](#qui){.retour}
 :::
 ::::
 
@@ -323,7 +338,7 @@ Soleil a **8 ans**. Il **n'aime pas** la pluie. Et il est **jaune** !
 ::: {.column width="60%"}
 Flocon a bien **7 ans**… mais il aime **la neige**, pas la pluie. Et il est **blanc** !
 
-[← Je choisis encore → diapo @qui](#qui){.retour}
+[← Je choisis encore → page @qui](#qui){.retour}
 :::
 ::::
 
@@ -336,23 +351,23 @@ Flocon a bien **7 ans**… mais il aime **la neige**, pas la pluie. Et il est **
 ::: {.column width="60%"}
 Vent a **9 ans**. Il aime **les feuilles**. Et il est **bleu** !
 
-[← Je choisis encore → diapo @qui](#qui){.retour}
+[← Je choisis encore → page @qui](#qui){.retour}
 :::
 ::::
 
-## C'est Pluie ! {#aveux .smaller}
+## C'est Arc-en-ciel ! {#aveux .smaller}
 
 :::: {.columns}
 ::: {.column width="58%"}
-![](img/pluie_triste.svg){height="160"}
+![](img/arc_triste.svg){height="160"}
 
-**Complète** la lettre de Pluie avec les mots de la boîte.
+**Complète** la lettre d'Arc-en-ciel avec les mots de la boîte.
 
 ::: {style="background:#f7f3ea; padding: 0.5em 1em; font-family: Georgia, serif; line-height: 1.9;"}
 Pardon, Pablette !\
-Je ______ Pluie.\
+Je ______ Arc-en-ciel.\
 J'ai 7 ______.\
-Je suis toute ______. Je suis triste !\
+Je suis tout ______. Je suis triste !\
 J'______ les couleurs.\
 Je voulais être ______ comme toi.
 :::
@@ -361,12 +376,12 @@ Je voulais être ______ comme toi.
 ::: {.indice}
 **La boîte à mots**
 
-ans · aime · grise · m'appelle · colorée
+ans · aime · gris · m'appelle · coloré
 :::
 
-Pablette sourit : « Pas de problème, Pluie ! Avec **la pluie** et **le soleil**, on fait… un **arc-en-ciel** ! »
+Pablette sourit : « Pas de problème ! Avec **mon pinceau**, **la pluie** et **le soleil**, tu vas retrouver tes couleurs ! »
 
-![](img/pluie_coloree.svg){height="190"}
+![](img/arc_colore.svg){height="190"}
 :::
 ::::
 
@@ -389,7 +404,12 @@ En bas, dessine **3 fleurs** : une rouge, une jaune et une violette.
 **Écris** ta carte, comme les suspects.
 
 ::: {style="background:#f7f3ea; padding: 0.4em 0.9em; font-family: Georgia, serif; line-height: 1.9;"}
-Je m'appelle ____________ .J'ai ______ ans.Ma couleur préférée est le ____________ .J'aime ____________ .Je n'aime pas ____________ .Aujourd'hui, il fait ____________ .
+Je m'appelle ____________ .\
+J'ai ______ ans.\
+Ma couleur préférée est le ____________ .\
+J'aime ____________ .\
+Je n'aime pas ____________ .\
+Aujourd'hui, il fait ____________ .
 :::
 :::
 ::: {.column width="22%"}
@@ -412,8 +432,8 @@ Je m'appelle ____________ .J'ai ______ ans.Ma couleur préférée est le _______
 
 ## Bravo ! {.titre-bandeau background-image="img/arc_en_ciel.svg" background-size="contain" background-color="#aed6f1"}
 
-::: {.absolute bottom=14 left=14 width=420 style="background: rgba(255,255,255,.82); color: #1c1c2e; border-radius: 14px; padding: 0.3em 0.7em; font-size: 0.66em;"}
+::: {.absolute bottom=14 left=14 width=420 style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 14px; padding: 0.3em 0.7em; font-size: 0.66em;"}
 Les couleurs sont revenues à Coloria ! 🌈
 
-Pluie est **contente** : maintenant, elle fait des arcs-en-ciel avec Soleil.
+Arc-en-ciel a rendu les couleurs. Maintenant, il est **coloré** et **content** !
 :::

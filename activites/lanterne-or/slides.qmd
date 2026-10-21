@@ -22,7 +22,7 @@ format:
 
 ## L'histoire {#histoire .titre-blanc background-image="img/histoire.svg" background-size="contain" background-position="bottom" background-color="#1b1838"}
 
-::: {.absolute bottom=14 left=14 width=540 style="background: rgba(255,255,255,.78); color: #1c1c2e; border-radius: 14px; padding: 0.3em 0.75em; font-size: 0.52em;"}
+::: {.absolute bottom=14 left=14 width=540 style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 14px; padding: 0.3em 0.75em; font-size: 0.52em;"}
 Frissonville, le soir du 31 octobre. Toutes les lanternes de la ville sont éteintes : à 22 heures, la **Grande Lanterne d'or** doit les rallumer pendant la parade d'Halloween.\
 Mais à 21 h 30, au **musée**, la vitrine est **vide** ! Monsieur le Maire a besoin d'un détective. **C'est toi !**
 
@@ -58,7 +58,7 @@ Recopie ton carnet. Note les indices et **barre** les suspects.
 
 ## Le plan de Frissonville {#plan .titre-blanc .titre-petit background-image="img/plan.svg" background-size="contain" background-color="#2b3a2e"}
 
-::: {.absolute top=0 right=8 width=720 style="background: rgba(255,255,255,.78); color: #1c1c2e; border-radius: 10px; padding: 0 0.5em; font-size: 0.38em;"}
+::: {.absolute top=0 right=8 width=720 style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 10px; padding: 0 0.5em; font-size: 0.38em;"}
 Où est le musée ? Quel lieu est **au nord** du parc ? [Je vais voir le maire → diapo @carrefour](#carrefour){.choix}
 :::
 
@@ -152,7 +152,7 @@ Et le message dit : « Passe **devant la poste** ». La poste est au **sud** de 
 
 ## Mission 2 : le témoin de la boulangerie {#boulangerie .titre-petit .titre-bandeau background-image="img/boulangerie.svg" background-size="contain" background-color="#fdf5e6"}
 
-::: {.absolute bottom=14 left=14 width=660 style="background: rgba(255,255,255,.82); color: #1c1c2e; border-radius: 12px; border-left: 6px solid #FFAC00; padding: 0.3em 0.7em; font-size: 0.5em;"}
+::: {.absolute bottom=14 left=14 width=660 style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 12px; border-left: 6px solid #FFAC00; padding: 0.3em 0.7em; font-size: 0.5em;"}
 « Bonsoir, détective ! Ce soir, je **prépare** les gâteaux d'Halloween. À 21 heures, je **regarde** par la fenêtre. Quelqu'un **court** dans la rue ! Il fait nuit, je ne **vois** pas son visage. Mais j'**observe** bien sa **cape** qui vole au vent ! Il **porte** une grande lumière dorée dans les mains. » *Firmin, le boulanger*
 
 [J'ai lu le témoignage → diapo @question-boulangerie](#question-boulangerie){.choix}
@@ -244,7 +244,7 @@ Puis **conjugue** au présent :
 
 ## Mission 3 : la scène du musée {#musee .titre-petit .titre-bandeau background-image="img/musee.svg" background-size="contain" background-color="#d9c8b4"}
 
-::: {.absolute top=0 right=4 width=600 style="background: rgba(255,255,255,.78); color: #1c1c2e; border-radius: 10px; padding: 0 0.4em; font-size: 0.36em;"}
+::: {.absolute top=0 right=4 width=600 style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 10px; padding: 0 0.4em; font-size: 0.36em;"}
 **Entoure :** la vitrine · la fenêtre · l'horloge · les empreintes · le bonbon · le fil noir [Suite → diapo @question-musee](#question-musee){.choix}
 :::
 
@@ -392,7 +392,7 @@ Zélie ajoute : « J'ai vu Oscar monter dans la **tour de l'horloge**. Voici la 
 
 ## Mission 4 : la tour de l'horloge {#tour .titre-blanc background-image="img/tour.svg" background-size="contain" background-color="#2c2440"}
 
-::: {.absolute bottom=20 left=20 width=620 style="background: rgba(255,255,255,.78); color: #1c1c2e; border-radius: 14px; padding: 0.35em 0.8em; font-size: 0.6em;"}
+::: {.absolute bottom=20 left=20 width=620 style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 14px; padding: 0.35em 0.8em; font-size: 0.6em;"}
 Avec la clé de Zélie, tu ouvres la tour. Sur le mur, un **papier** est punaisé. Et dans l'escalier… des **petites lumières dorées** !\
 [Je lis le papier → diapo @code](#code){.choix}
 :::
@@ -459,7 +459,7 @@ Suis-les jusqu'au **bout** : où tournent-elles ?
 
 ## Les aveux d'Oscar {#aveux .titre-blanc background-image="img/parc.svg" background-size="contain" background-position="bottom" background-color="#1b1838"}
 
-::: {.absolute top=110 left=20 width=520 style="background: rgba(255,255,255,.78); color: #1c1c2e; border-radius: 14px; padding: 0.4em 0.85em; font-size: 0.6em;"}
+::: {.absolute top=110 left=20 width=520 style="background: rgba(255,255,255,.62); color: #1c1c2e; border-radius: 14px; padding: 0.4em 0.85em; font-size: 0.6em;"}
 « C'est moi… Je suis un petit vampire, mais… **j'ai peur du noir** ! Ce soir, toutes les rues étaient sombres. Au musée, la lanterne brillait si fort ! Je l'ai prise pour aller au parc retrouver mes amis. Pardon, monsieur le Maire. »
 
 Le maire sourit : « Tu sais quoi, Oscar ? Ce soir, c'est **toi** qui porteras la lanterne en tête de la parade ! »
